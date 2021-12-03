@@ -1,0 +1,2002 @@
+% ./sub.py
+forward 2
+  depth: 0 length: 2
+down 8
+  depth: 8 length: 2
+down 1
+  depth: 9 length: 2
+up 7
+  depth: 2 length: 2
+forward 4
+  depth: 2 length: 6
+down 4
+  depth: 6 length: 6
+down 3
+  depth: 9 length: 6
+forward 2
+  depth: 9 length: 8
+forward 5
+  depth: 9 length: 13
+forward 2
+  depth: 9 length: 15
+forward 7
+  depth: 9 length: 22
+forward 8
+  depth: 9 length: 30
+down 7
+  depth: 16 length: 30
+forward 6
+  depth: 16 length: 36
+forward 1
+  depth: 16 length: 37
+down 8
+  depth: 24 length: 37
+down 8
+  depth: 32 length: 37
+up 9
+  depth: 23 length: 37
+down 9
+  depth: 32 length: 37
+forward 1
+  depth: 32 length: 38
+up 1
+  depth: 31 length: 38
+forward 6
+  depth: 31 length: 44
+forward 7
+  depth: 31 length: 51
+down 7
+  depth: 38 length: 51
+forward 4
+  depth: 38 length: 55
+forward 2
+  depth: 38 length: 57
+forward 1
+  depth: 38 length: 58
+forward 3
+  depth: 38 length: 61
+forward 8
+  depth: 38 length: 69
+forward 4
+  depth: 38 length: 73
+up 6
+  depth: 32 length: 73
+down 2
+  depth: 34 length: 73
+forward 4
+  depth: 34 length: 77
+down 3
+  depth: 37 length: 77
+up 3
+  depth: 34 length: 77
+up 2
+  depth: 32 length: 77
+up 3
+  depth: 29 length: 77
+forward 8
+  depth: 29 length: 85
+down 5
+  depth: 34 length: 85
+down 8
+  depth: 42 length: 85
+down 5
+  depth: 47 length: 85
+down 4
+  depth: 51 length: 85
+down 2
+  depth: 53 length: 85
+up 1
+  depth: 52 length: 85
+forward 6
+  depth: 52 length: 91
+forward 6
+  depth: 52 length: 97
+forward 8
+  depth: 52 length: 105
+up 5
+  depth: 47 length: 105
+down 5
+  depth: 52 length: 105
+forward 8
+  depth: 52 length: 113
+forward 7
+  depth: 52 length: 120
+down 9
+  depth: 61 length: 120
+down 7
+  depth: 68 length: 120
+down 6
+  depth: 74 length: 120
+down 3
+  depth: 77 length: 120
+forward 3
+  depth: 77 length: 123
+up 7
+  depth: 70 length: 123
+forward 2
+  depth: 70 length: 125
+up 6
+  depth: 64 length: 125
+forward 7
+  depth: 64 length: 132
+forward 9
+  depth: 64 length: 141
+down 9
+  depth: 73 length: 141
+forward 3
+  depth: 73 length: 144
+down 2
+  depth: 75 length: 144
+down 2
+  depth: 77 length: 144
+down 7
+  depth: 84 length: 144
+down 7
+  depth: 91 length: 144
+forward 8
+  depth: 91 length: 152
+down 7
+  depth: 98 length: 152
+forward 9
+  depth: 98 length: 161
+up 7
+  depth: 91 length: 161
+down 4
+  depth: 95 length: 161
+down 8
+  depth: 103 length: 161
+forward 2
+  depth: 103 length: 163
+forward 2
+  depth: 103 length: 165
+up 1
+  depth: 102 length: 165
+forward 8
+  depth: 102 length: 173
+down 5
+  depth: 107 length: 173
+forward 8
+  depth: 107 length: 181
+forward 4
+  depth: 107 length: 185
+up 1
+  depth: 106 length: 185
+forward 2
+  depth: 106 length: 187
+forward 2
+  depth: 106 length: 189
+forward 2
+  depth: 106 length: 191
+down 9
+  depth: 115 length: 191
+down 7
+  depth: 122 length: 191
+down 9
+  depth: 131 length: 191
+forward 9
+  depth: 131 length: 200
+forward 4
+  depth: 131 length: 204
+up 7
+  depth: 124 length: 204
+down 4
+  depth: 128 length: 204
+forward 9
+  depth: 128 length: 213
+forward 8
+  depth: 128 length: 221
+up 5
+  depth: 123 length: 221
+up 1
+  depth: 122 length: 221
+down 1
+  depth: 123 length: 221
+down 9
+  depth: 132 length: 221
+down 6
+  depth: 138 length: 221
+up 8
+  depth: 130 length: 221
+forward 2
+  depth: 130 length: 223
+forward 7
+  depth: 130 length: 230
+up 7
+  depth: 123 length: 230
+forward 7
+  depth: 123 length: 237
+forward 6
+  depth: 123 length: 243
+down 6
+  depth: 129 length: 243
+forward 8
+  depth: 129 length: 251
+up 6
+  depth: 123 length: 251
+forward 7
+  depth: 123 length: 258
+down 7
+  depth: 130 length: 258
+forward 4
+  depth: 130 length: 262
+forward 9
+  depth: 130 length: 271
+up 9
+  depth: 121 length: 271
+up 8
+  depth: 113 length: 271
+forward 8
+  depth: 113 length: 279
+forward 3
+  depth: 113 length: 282
+up 1
+  depth: 112 length: 282
+up 4
+  depth: 108 length: 282
+down 4
+  depth: 112 length: 282
+up 9
+  depth: 103 length: 282
+up 8
+  depth: 95 length: 282
+forward 6
+  depth: 95 length: 288
+down 2
+  depth: 97 length: 288
+down 2
+  depth: 99 length: 288
+up 4
+  depth: 95 length: 288
+forward 4
+  depth: 95 length: 292
+forward 1
+  depth: 95 length: 293
+down 8
+  depth: 103 length: 293
+forward 6
+  depth: 103 length: 299
+down 5
+  depth: 108 length: 299
+forward 6
+  depth: 108 length: 305
+down 8
+  depth: 116 length: 305
+up 1
+  depth: 115 length: 305
+forward 1
+  depth: 115 length: 306
+up 9
+  depth: 106 length: 306
+down 8
+  depth: 114 length: 306
+up 3
+  depth: 111 length: 306
+up 9
+  depth: 102 length: 306
+forward 9
+  depth: 102 length: 315
+forward 2
+  depth: 102 length: 317
+down 2
+  depth: 104 length: 317
+up 6
+  depth: 98 length: 317
+up 6
+  depth: 92 length: 317
+forward 8
+  depth: 92 length: 325
+up 3
+  depth: 89 length: 325
+down 3
+  depth: 92 length: 325
+forward 5
+  depth: 92 length: 330
+up 2
+  depth: 90 length: 330
+forward 1
+  depth: 90 length: 331
+forward 1
+  depth: 90 length: 332
+forward 8
+  depth: 90 length: 340
+down 4
+  depth: 94 length: 340
+forward 8
+  depth: 94 length: 348
+forward 7
+  depth: 94 length: 355
+down 8
+  depth: 102 length: 355
+forward 7
+  depth: 102 length: 362
+down 7
+  depth: 109 length: 362
+down 2
+  depth: 111 length: 362
+down 1
+  depth: 112 length: 362
+down 7
+  depth: 119 length: 362
+up 9
+  depth: 110 length: 362
+down 5
+  depth: 115 length: 362
+up 1
+  depth: 114 length: 362
+forward 7
+  depth: 114 length: 369
+down 5
+  depth: 119 length: 369
+down 9
+  depth: 128 length: 369
+down 2
+  depth: 130 length: 369
+down 8
+  depth: 138 length: 369
+down 4
+  depth: 142 length: 369
+forward 2
+  depth: 142 length: 371
+forward 2
+  depth: 142 length: 373
+forward 1
+  depth: 142 length: 374
+down 6
+  depth: 148 length: 374
+up 7
+  depth: 141 length: 374
+forward 2
+  depth: 141 length: 376
+down 1
+  depth: 142 length: 376
+down 5
+  depth: 147 length: 376
+forward 3
+  depth: 147 length: 379
+forward 8
+  depth: 147 length: 387
+down 4
+  depth: 151 length: 387
+up 2
+  depth: 149 length: 387
+up 9
+  depth: 140 length: 387
+up 7
+  depth: 133 length: 387
+forward 7
+  depth: 133 length: 394
+forward 4
+  depth: 133 length: 398
+up 8
+  depth: 125 length: 398
+up 3
+  depth: 122 length: 398
+up 4
+  depth: 118 length: 398
+forward 6
+  depth: 118 length: 404
+down 7
+  depth: 125 length: 404
+forward 7
+  depth: 125 length: 411
+up 6
+  depth: 119 length: 411
+down 9
+  depth: 128 length: 411
+up 6
+  depth: 122 length: 411
+forward 4
+  depth: 122 length: 415
+up 3
+  depth: 119 length: 415
+down 3
+  depth: 122 length: 415
+up 6
+  depth: 116 length: 415
+down 9
+  depth: 125 length: 415
+down 6
+  depth: 131 length: 415
+forward 7
+  depth: 131 length: 422
+forward 9
+  depth: 131 length: 431
+forward 2
+  depth: 131 length: 433
+down 6
+  depth: 137 length: 433
+up 3
+  depth: 134 length: 433
+up 9
+  depth: 125 length: 433
+forward 9
+  depth: 125 length: 442
+forward 8
+  depth: 125 length: 450
+up 4
+  depth: 121 length: 450
+up 5
+  depth: 116 length: 450
+forward 6
+  depth: 116 length: 456
+down 5
+  depth: 121 length: 456
+up 4
+  depth: 117 length: 456
+up 9
+  depth: 108 length: 456
+down 8
+  depth: 116 length: 456
+forward 5
+  depth: 116 length: 461
+up 5
+  depth: 111 length: 461
+forward 7
+  depth: 111 length: 468
+forward 6
+  depth: 111 length: 474
+down 8
+  depth: 119 length: 474
+down 5
+  depth: 124 length: 474
+down 2
+  depth: 126 length: 474
+up 5
+  depth: 121 length: 474
+down 8
+  depth: 129 length: 474
+forward 7
+  depth: 129 length: 481
+forward 7
+  depth: 129 length: 488
+up 6
+  depth: 123 length: 488
+forward 3
+  depth: 123 length: 491
+down 8
+  depth: 131 length: 491
+forward 5
+  depth: 131 length: 496
+forward 8
+  depth: 131 length: 504
+down 7
+  depth: 138 length: 504
+forward 6
+  depth: 138 length: 510
+down 2
+  depth: 140 length: 510
+forward 2
+  depth: 140 length: 512
+forward 8
+  depth: 140 length: 520
+down 4
+  depth: 144 length: 520
+forward 5
+  depth: 144 length: 525
+forward 7
+  depth: 144 length: 532
+forward 5
+  depth: 144 length: 537
+forward 8
+  depth: 144 length: 545
+forward 9
+  depth: 144 length: 554
+forward 6
+  depth: 144 length: 560
+down 6
+  depth: 150 length: 560
+up 7
+  depth: 143 length: 560
+down 9
+  depth: 152 length: 560
+forward 7
+  depth: 152 length: 567
+forward 1
+  depth: 152 length: 568
+up 2
+  depth: 150 length: 568
+forward 8
+  depth: 150 length: 576
+down 1
+  depth: 151 length: 576
+up 9
+  depth: 142 length: 576
+forward 7
+  depth: 142 length: 583
+down 2
+  depth: 144 length: 583
+up 2
+  depth: 142 length: 583
+forward 5
+  depth: 142 length: 588
+down 4
+  depth: 146 length: 588
+down 3
+  depth: 149 length: 588
+up 8
+  depth: 141 length: 588
+up 6
+  depth: 135 length: 588
+forward 3
+  depth: 135 length: 591
+up 4
+  depth: 131 length: 591
+forward 3
+  depth: 131 length: 594
+forward 1
+  depth: 131 length: 595
+forward 1
+  depth: 131 length: 596
+up 9
+  depth: 122 length: 596
+down 2
+  depth: 124 length: 596
+down 9
+  depth: 133 length: 596
+up 4
+  depth: 129 length: 596
+forward 4
+  depth: 129 length: 600
+forward 4
+  depth: 129 length: 604
+forward 2
+  depth: 129 length: 606
+forward 5
+  depth: 129 length: 611
+forward 9
+  depth: 129 length: 620
+forward 7
+  depth: 129 length: 627
+up 4
+  depth: 125 length: 627
+up 5
+  depth: 120 length: 627
+down 5
+  depth: 125 length: 627
+forward 9
+  depth: 125 length: 636
+down 1
+  depth: 126 length: 636
+forward 2
+  depth: 126 length: 638
+down 6
+  depth: 132 length: 638
+forward 9
+  depth: 132 length: 647
+down 4
+  depth: 136 length: 647
+down 2
+  depth: 138 length: 647
+forward 2
+  depth: 138 length: 649
+up 7
+  depth: 131 length: 649
+forward 7
+  depth: 131 length: 656
+forward 8
+  depth: 131 length: 664
+up 9
+  depth: 122 length: 664
+forward 3
+  depth: 122 length: 667
+up 1
+  depth: 121 length: 667
+down 5
+  depth: 126 length: 667
+forward 5
+  depth: 126 length: 672
+down 1
+  depth: 127 length: 672
+up 5
+  depth: 122 length: 672
+forward 4
+  depth: 122 length: 676
+forward 5
+  depth: 122 length: 681
+up 3
+  depth: 119 length: 681
+down 4
+  depth: 123 length: 681
+up 6
+  depth: 117 length: 681
+up 1
+  depth: 116 length: 681
+down 2
+  depth: 118 length: 681
+forward 6
+  depth: 118 length: 687
+down 8
+  depth: 126 length: 687
+up 9
+  depth: 117 length: 687
+down 7
+  depth: 124 length: 687
+forward 9
+  depth: 124 length: 696
+down 8
+  depth: 132 length: 696
+forward 3
+  depth: 132 length: 699
+forward 8
+  depth: 132 length: 707
+down 1
+  depth: 133 length: 707
+down 7
+  depth: 140 length: 707
+forward 6
+  depth: 140 length: 713
+up 6
+  depth: 134 length: 713
+down 1
+  depth: 135 length: 713
+down 5
+  depth: 140 length: 713
+forward 6
+  depth: 140 length: 719
+down 7
+  depth: 147 length: 719
+down 2
+  depth: 149 length: 719
+forward 6
+  depth: 149 length: 725
+forward 2
+  depth: 149 length: 727
+forward 8
+  depth: 149 length: 735
+forward 7
+  depth: 149 length: 742
+forward 2
+  depth: 149 length: 744
+down 7
+  depth: 156 length: 744
+up 2
+  depth: 154 length: 744
+down 7
+  depth: 161 length: 744
+forward 8
+  depth: 161 length: 752
+forward 8
+  depth: 161 length: 760
+forward 2
+  depth: 161 length: 762
+forward 4
+  depth: 161 length: 766
+down 1
+  depth: 162 length: 766
+down 6
+  depth: 168 length: 766
+down 1
+  depth: 169 length: 766
+down 4
+  depth: 173 length: 766
+down 4
+  depth: 177 length: 766
+down 2
+  depth: 179 length: 766
+down 7
+  depth: 186 length: 766
+up 5
+  depth: 181 length: 766
+up 5
+  depth: 176 length: 766
+down 1
+  depth: 177 length: 766
+forward 3
+  depth: 177 length: 769
+up 1
+  depth: 176 length: 769
+down 3
+  depth: 179 length: 769
+forward 9
+  depth: 179 length: 778
+forward 4
+  depth: 179 length: 782
+forward 7
+  depth: 179 length: 789
+down 4
+  depth: 183 length: 789
+down 4
+  depth: 187 length: 789
+down 2
+  depth: 189 length: 789
+forward 2
+  depth: 189 length: 791
+forward 1
+  depth: 189 length: 792
+forward 9
+  depth: 189 length: 801
+down 1
+  depth: 190 length: 801
+down 4
+  depth: 194 length: 801
+down 1
+  depth: 195 length: 801
+forward 4
+  depth: 195 length: 805
+up 8
+  depth: 187 length: 805
+forward 3
+  depth: 187 length: 808
+down 6
+  depth: 193 length: 808
+forward 5
+  depth: 193 length: 813
+forward 9
+  depth: 193 length: 822
+forward 1
+  depth: 193 length: 823
+up 8
+  depth: 185 length: 823
+down 7
+  depth: 192 length: 823
+down 8
+  depth: 200 length: 823
+forward 4
+  depth: 200 length: 827
+down 4
+  depth: 204 length: 827
+up 5
+  depth: 199 length: 827
+down 3
+  depth: 202 length: 827
+forward 3
+  depth: 202 length: 830
+down 6
+  depth: 208 length: 830
+down 1
+  depth: 209 length: 830
+down 9
+  depth: 218 length: 830
+forward 8
+  depth: 218 length: 838
+up 5
+  depth: 213 length: 838
+down 7
+  depth: 220 length: 838
+up 7
+  depth: 213 length: 838
+forward 3
+  depth: 213 length: 841
+up 5
+  depth: 208 length: 841
+up 7
+  depth: 201 length: 841
+down 4
+  depth: 205 length: 841
+up 2
+  depth: 203 length: 841
+down 2
+  depth: 205 length: 841
+down 8
+  depth: 213 length: 841
+up 6
+  depth: 207 length: 841
+down 4
+  depth: 211 length: 841
+up 1
+  depth: 210 length: 841
+down 8
+  depth: 218 length: 841
+down 4
+  depth: 222 length: 841
+forward 7
+  depth: 222 length: 848
+down 4
+  depth: 226 length: 848
+up 3
+  depth: 223 length: 848
+down 9
+  depth: 232 length: 848
+forward 3
+  depth: 232 length: 851
+up 4
+  depth: 228 length: 851
+up 1
+  depth: 227 length: 851
+up 5
+  depth: 222 length: 851
+down 4
+  depth: 226 length: 851
+forward 4
+  depth: 226 length: 855
+forward 4
+  depth: 226 length: 859
+down 2
+  depth: 228 length: 859
+down 3
+  depth: 231 length: 859
+down 4
+  depth: 235 length: 859
+forward 2
+  depth: 235 length: 861
+down 9
+  depth: 244 length: 861
+down 9
+  depth: 253 length: 861
+down 6
+  depth: 259 length: 861
+forward 5
+  depth: 259 length: 866
+forward 7
+  depth: 259 length: 873
+down 3
+  depth: 262 length: 873
+forward 2
+  depth: 262 length: 875
+up 8
+  depth: 254 length: 875
+down 6
+  depth: 260 length: 875
+down 8
+  depth: 268 length: 875
+down 2
+  depth: 270 length: 875
+up 9
+  depth: 261 length: 875
+down 1
+  depth: 262 length: 875
+forward 8
+  depth: 262 length: 883
+forward 1
+  depth: 262 length: 884
+forward 8
+  depth: 262 length: 892
+up 4
+  depth: 258 length: 892
+up 1
+  depth: 257 length: 892
+down 8
+  depth: 265 length: 892
+up 2
+  depth: 263 length: 892
+forward 5
+  depth: 263 length: 897
+down 3
+  depth: 266 length: 897
+forward 5
+  depth: 266 length: 902
+forward 4
+  depth: 266 length: 906
+forward 1
+  depth: 266 length: 907
+down 9
+  depth: 275 length: 907
+forward 2
+  depth: 275 length: 909
+forward 5
+  depth: 275 length: 914
+forward 4
+  depth: 275 length: 918
+forward 3
+  depth: 275 length: 921
+down 7
+  depth: 282 length: 921
+up 9
+  depth: 273 length: 921
+forward 7
+  depth: 273 length: 928
+up 8
+  depth: 265 length: 928
+forward 3
+  depth: 265 length: 931
+forward 3
+  depth: 265 length: 934
+down 5
+  depth: 270 length: 934
+forward 7
+  depth: 270 length: 941
+forward 5
+  depth: 270 length: 946
+down 4
+  depth: 274 length: 946
+forward 6
+  depth: 274 length: 952
+down 6
+  depth: 280 length: 952
+up 3
+  depth: 277 length: 952
+down 3
+  depth: 280 length: 952
+forward 7
+  depth: 280 length: 959
+forward 8
+  depth: 280 length: 967
+up 3
+  depth: 277 length: 967
+up 8
+  depth: 269 length: 967
+forward 8
+  depth: 269 length: 975
+up 4
+  depth: 265 length: 975
+forward 5
+  depth: 265 length: 980
+up 4
+  depth: 261 length: 980
+down 7
+  depth: 268 length: 980
+forward 4
+  depth: 268 length: 984
+down 8
+  depth: 276 length: 984
+down 6
+  depth: 282 length: 984
+forward 7
+  depth: 282 length: 991
+down 4
+  depth: 286 length: 991
+up 7
+  depth: 279 length: 991
+down 6
+  depth: 285 length: 991
+up 5
+  depth: 280 length: 991
+down 2
+  depth: 282 length: 991
+forward 7
+  depth: 282 length: 998
+down 7
+  depth: 289 length: 998
+up 3
+  depth: 286 length: 998
+up 3
+  depth: 283 length: 998
+down 3
+  depth: 286 length: 998
+down 5
+  depth: 291 length: 998
+forward 3
+  depth: 291 length: 1001
+forward 5
+  depth: 291 length: 1006
+forward 8
+  depth: 291 length: 1014
+down 3
+  depth: 294 length: 1014
+down 8
+  depth: 302 length: 1014
+forward 3
+  depth: 302 length: 1017
+down 1
+  depth: 303 length: 1017
+forward 4
+  depth: 303 length: 1021
+up 5
+  depth: 298 length: 1021
+forward 8
+  depth: 298 length: 1029
+up 1
+  depth: 297 length: 1029
+up 4
+  depth: 293 length: 1029
+down 4
+  depth: 297 length: 1029
+forward 1
+  depth: 297 length: 1030
+forward 6
+  depth: 297 length: 1036
+up 7
+  depth: 290 length: 1036
+up 1
+  depth: 289 length: 1036
+up 7
+  depth: 282 length: 1036
+down 5
+  depth: 287 length: 1036
+forward 8
+  depth: 287 length: 1044
+down 1
+  depth: 288 length: 1044
+forward 1
+  depth: 288 length: 1045
+forward 6
+  depth: 288 length: 1051
+up 9
+  depth: 279 length: 1051
+up 6
+  depth: 273 length: 1051
+down 4
+  depth: 277 length: 1051
+forward 5
+  depth: 277 length: 1056
+down 1
+  depth: 278 length: 1056
+forward 7
+  depth: 278 length: 1063
+down 8
+  depth: 286 length: 1063
+up 3
+  depth: 283 length: 1063
+down 9
+  depth: 292 length: 1063
+down 1
+  depth: 293 length: 1063
+up 7
+  depth: 286 length: 1063
+up 6
+  depth: 280 length: 1063
+forward 8
+  depth: 280 length: 1071
+down 9
+  depth: 289 length: 1071
+down 4
+  depth: 293 length: 1071
+forward 4
+  depth: 293 length: 1075
+up 7
+  depth: 286 length: 1075
+down 3
+  depth: 289 length: 1075
+forward 5
+  depth: 289 length: 1080
+forward 8
+  depth: 289 length: 1088
+up 5
+  depth: 284 length: 1088
+down 7
+  depth: 291 length: 1088
+up 2
+  depth: 289 length: 1088
+forward 3
+  depth: 289 length: 1091
+forward 3
+  depth: 289 length: 1094
+forward 4
+  depth: 289 length: 1098
+down 1
+  depth: 290 length: 1098
+forward 5
+  depth: 290 length: 1103
+forward 7
+  depth: 290 length: 1110
+up 7
+  depth: 283 length: 1110
+forward 7
+  depth: 283 length: 1117
+forward 1
+  depth: 283 length: 1118
+forward 3
+  depth: 283 length: 1121
+forward 9
+  depth: 283 length: 1130
+down 3
+  depth: 286 length: 1130
+forward 5
+  depth: 286 length: 1135
+down 9
+  depth: 295 length: 1135
+down 7
+  depth: 302 length: 1135
+down 4
+  depth: 306 length: 1135
+down 8
+  depth: 314 length: 1135
+up 3
+  depth: 311 length: 1135
+down 1
+  depth: 312 length: 1135
+up 5
+  depth: 307 length: 1135
+down 5
+  depth: 312 length: 1135
+forward 2
+  depth: 312 length: 1137
+down 6
+  depth: 318 length: 1137
+down 5
+  depth: 323 length: 1137
+forward 2
+  depth: 323 length: 1139
+forward 6
+  depth: 323 length: 1145
+down 6
+  depth: 329 length: 1145
+up 6
+  depth: 323 length: 1145
+down 8
+  depth: 331 length: 1145
+up 1
+  depth: 330 length: 1145
+forward 4
+  depth: 330 length: 1149
+forward 2
+  depth: 330 length: 1151
+forward 1
+  depth: 330 length: 1152
+up 1
+  depth: 329 length: 1152
+forward 5
+  depth: 329 length: 1157
+forward 3
+  depth: 329 length: 1160
+forward 7
+  depth: 329 length: 1167
+down 9
+  depth: 338 length: 1167
+forward 3
+  depth: 338 length: 1170
+down 9
+  depth: 347 length: 1170
+up 5
+  depth: 342 length: 1170
+down 7
+  depth: 349 length: 1170
+down 2
+  depth: 351 length: 1170
+down 3
+  depth: 354 length: 1170
+up 5
+  depth: 349 length: 1170
+up 3
+  depth: 346 length: 1170
+down 2
+  depth: 348 length: 1170
+forward 4
+  depth: 348 length: 1174
+forward 1
+  depth: 348 length: 1175
+down 3
+  depth: 351 length: 1175
+up 4
+  depth: 347 length: 1175
+down 8
+  depth: 355 length: 1175
+down 1
+  depth: 356 length: 1175
+forward 6
+  depth: 356 length: 1181
+down 3
+  depth: 359 length: 1181
+forward 9
+  depth: 359 length: 1190
+down 7
+  depth: 366 length: 1190
+down 3
+  depth: 369 length: 1190
+down 4
+  depth: 373 length: 1190
+down 5
+  depth: 378 length: 1190
+up 1
+  depth: 377 length: 1190
+forward 8
+  depth: 377 length: 1198
+forward 2
+  depth: 377 length: 1200
+up 3
+  depth: 374 length: 1200
+up 7
+  depth: 367 length: 1200
+up 1
+  depth: 366 length: 1200
+forward 3
+  depth: 366 length: 1203
+forward 9
+  depth: 366 length: 1212
+up 5
+  depth: 361 length: 1212
+forward 6
+  depth: 361 length: 1218
+down 8
+  depth: 369 length: 1218
+down 9
+  depth: 378 length: 1218
+down 5
+  depth: 383 length: 1218
+forward 6
+  depth: 383 length: 1224
+forward 3
+  depth: 383 length: 1227
+forward 8
+  depth: 383 length: 1235
+forward 7
+  depth: 383 length: 1242
+forward 9
+  depth: 383 length: 1251
+forward 2
+  depth: 383 length: 1253
+up 9
+  depth: 374 length: 1253
+forward 8
+  depth: 374 length: 1261
+down 2
+  depth: 376 length: 1261
+down 6
+  depth: 382 length: 1261
+down 9
+  depth: 391 length: 1261
+down 5
+  depth: 396 length: 1261
+forward 1
+  depth: 396 length: 1262
+down 7
+  depth: 403 length: 1262
+forward 2
+  depth: 403 length: 1264
+down 4
+  depth: 407 length: 1264
+down 1
+  depth: 408 length: 1264
+up 1
+  depth: 407 length: 1264
+down 2
+  depth: 409 length: 1264
+forward 5
+  depth: 409 length: 1269
+forward 8
+  depth: 409 length: 1277
+down 9
+  depth: 418 length: 1277
+up 6
+  depth: 412 length: 1277
+forward 8
+  depth: 412 length: 1285
+forward 3
+  depth: 412 length: 1288
+up 6
+  depth: 406 length: 1288
+up 2
+  depth: 404 length: 1288
+forward 8
+  depth: 404 length: 1296
+down 8
+  depth: 412 length: 1296
+up 1
+  depth: 411 length: 1296
+down 6
+  depth: 417 length: 1296
+down 2
+  depth: 419 length: 1296
+down 6
+  depth: 425 length: 1296
+forward 5
+  depth: 425 length: 1301
+forward 6
+  depth: 425 length: 1307
+down 4
+  depth: 429 length: 1307
+forward 1
+  depth: 429 length: 1308
+down 4
+  depth: 433 length: 1308
+up 7
+  depth: 426 length: 1308
+forward 4
+  depth: 426 length: 1312
+up 1
+  depth: 425 length: 1312
+forward 9
+  depth: 425 length: 1321
+forward 7
+  depth: 425 length: 1328
+up 3
+  depth: 422 length: 1328
+down 7
+  depth: 429 length: 1328
+down 4
+  depth: 433 length: 1328
+forward 3
+  depth: 433 length: 1331
+forward 8
+  depth: 433 length: 1339
+forward 6
+  depth: 433 length: 1345
+forward 6
+  depth: 433 length: 1351
+up 1
+  depth: 432 length: 1351
+up 2
+  depth: 430 length: 1351
+up 8
+  depth: 422 length: 1351
+down 7
+  depth: 429 length: 1351
+forward 8
+  depth: 429 length: 1359
+down 5
+  depth: 434 length: 1359
+forward 6
+  depth: 434 length: 1365
+down 1
+  depth: 435 length: 1365
+down 9
+  depth: 444 length: 1365
+down 2
+  depth: 446 length: 1365
+forward 6
+  depth: 446 length: 1371
+up 3
+  depth: 443 length: 1371
+down 5
+  depth: 448 length: 1371
+down 6
+  depth: 454 length: 1371
+forward 1
+  depth: 454 length: 1372
+forward 2
+  depth: 454 length: 1374
+down 3
+  depth: 457 length: 1374
+forward 8
+  depth: 457 length: 1382
+forward 1
+  depth: 457 length: 1383
+up 5
+  depth: 452 length: 1383
+down 8
+  depth: 460 length: 1383
+down 4
+  depth: 464 length: 1383
+up 9
+  depth: 455 length: 1383
+up 2
+  depth: 453 length: 1383
+forward 7
+  depth: 453 length: 1390
+forward 9
+  depth: 453 length: 1399
+up 8
+  depth: 445 length: 1399
+up 6
+  depth: 439 length: 1399
+forward 1
+  depth: 439 length: 1400
+down 7
+  depth: 446 length: 1400
+up 1
+  depth: 445 length: 1400
+down 3
+  depth: 448 length: 1400
+forward 2
+  depth: 448 length: 1402
+forward 3
+  depth: 448 length: 1405
+down 3
+  depth: 451 length: 1405
+down 2
+  depth: 453 length: 1405
+forward 3
+  depth: 453 length: 1408
+down 7
+  depth: 460 length: 1408
+forward 3
+  depth: 460 length: 1411
+forward 7
+  depth: 460 length: 1418
+forward 7
+  depth: 460 length: 1425
+down 8
+  depth: 468 length: 1425
+down 4
+  depth: 472 length: 1425
+forward 3
+  depth: 472 length: 1428
+forward 4
+  depth: 472 length: 1432
+down 7
+  depth: 479 length: 1432
+down 9
+  depth: 488 length: 1432
+down 4
+  depth: 492 length: 1432
+down 2
+  depth: 494 length: 1432
+forward 7
+  depth: 494 length: 1439
+up 8
+  depth: 486 length: 1439
+down 4
+  depth: 490 length: 1439
+down 3
+  depth: 493 length: 1439
+forward 9
+  depth: 493 length: 1448
+down 5
+  depth: 498 length: 1448
+up 6
+  depth: 492 length: 1448
+up 2
+  depth: 490 length: 1448
+down 5
+  depth: 495 length: 1448
+down 6
+  depth: 501 length: 1448
+forward 2
+  depth: 501 length: 1450
+forward 8
+  depth: 501 length: 1458
+down 1
+  depth: 502 length: 1458
+forward 6
+  depth: 502 length: 1464
+up 7
+  depth: 495 length: 1464
+down 6
+  depth: 501 length: 1464
+forward 4
+  depth: 501 length: 1468
+down 2
+  depth: 503 length: 1468
+down 5
+  depth: 508 length: 1468
+down 9
+  depth: 517 length: 1468
+forward 7
+  depth: 517 length: 1475
+up 4
+  depth: 513 length: 1475
+forward 9
+  depth: 513 length: 1484
+up 7
+  depth: 506 length: 1484
+down 4
+  depth: 510 length: 1484
+down 6
+  depth: 516 length: 1484
+up 9
+  depth: 507 length: 1484
+forward 1
+  depth: 507 length: 1485
+up 7
+  depth: 500 length: 1485
+down 5
+  depth: 505 length: 1485
+forward 3
+  depth: 505 length: 1488
+forward 3
+  depth: 505 length: 1491
+down 7
+  depth: 512 length: 1491
+down 1
+  depth: 513 length: 1491
+down 7
+  depth: 520 length: 1491
+down 7
+  depth: 527 length: 1491
+down 1
+  depth: 528 length: 1491
+forward 8
+  depth: 528 length: 1499
+forward 9
+  depth: 528 length: 1508
+forward 8
+  depth: 528 length: 1516
+down 9
+  depth: 537 length: 1516
+down 8
+  depth: 545 length: 1516
+down 5
+  depth: 550 length: 1516
+down 3
+  depth: 553 length: 1516
+forward 4
+  depth: 553 length: 1520
+forward 1
+  depth: 553 length: 1521
+down 1
+  depth: 554 length: 1521
+forward 1
+  depth: 554 length: 1522
+down 7
+  depth: 561 length: 1522
+forward 7
+  depth: 561 length: 1529
+forward 3
+  depth: 561 length: 1532
+down 8
+  depth: 569 length: 1532
+forward 3
+  depth: 569 length: 1535
+forward 9
+  depth: 569 length: 1544
+forward 8
+  depth: 569 length: 1552
+down 7
+  depth: 576 length: 1552
+forward 8
+  depth: 576 length: 1560
+down 2
+  depth: 578 length: 1560
+up 5
+  depth: 573 length: 1560
+forward 7
+  depth: 573 length: 1567
+forward 4
+  depth: 573 length: 1571
+down 2
+  depth: 575 length: 1571
+up 6
+  depth: 569 length: 1571
+up 8
+  depth: 561 length: 1571
+forward 7
+  depth: 561 length: 1578
+down 9
+  depth: 570 length: 1578
+up 3
+  depth: 567 length: 1578
+forward 4
+  depth: 567 length: 1582
+up 9
+  depth: 558 length: 1582
+up 5
+  depth: 553 length: 1582
+up 5
+  depth: 548 length: 1582
+up 6
+  depth: 542 length: 1582
+down 4
+  depth: 546 length: 1582
+down 5
+  depth: 551 length: 1582
+up 5
+  depth: 546 length: 1582
+forward 7
+  depth: 546 length: 1589
+forward 6
+  depth: 546 length: 1595
+down 4
+  depth: 550 length: 1595
+forward 5
+  depth: 550 length: 1600
+forward 4
+  depth: 550 length: 1604
+up 7
+  depth: 543 length: 1604
+forward 8
+  depth: 543 length: 1612
+down 2
+  depth: 545 length: 1612
+forward 1
+  depth: 545 length: 1613
+down 9
+  depth: 554 length: 1613
+down 8
+  depth: 562 length: 1613
+forward 7
+  depth: 562 length: 1620
+down 7
+  depth: 569 length: 1620
+down 1
+  depth: 570 length: 1620
+forward 9
+  depth: 570 length: 1629
+down 7
+  depth: 577 length: 1629
+forward 6
+  depth: 577 length: 1635
+down 2
+  depth: 579 length: 1635
+up 9
+  depth: 570 length: 1635
+forward 1
+  depth: 570 length: 1636
+up 9
+  depth: 561 length: 1636
+down 3
+  depth: 564 length: 1636
+up 9
+  depth: 555 length: 1636
+down 1
+  depth: 556 length: 1636
+forward 1
+  depth: 556 length: 1637
+down 1
+  depth: 557 length: 1637
+up 6
+  depth: 551 length: 1637
+down 8
+  depth: 559 length: 1637
+up 2
+  depth: 557 length: 1637
+down 3
+  depth: 560 length: 1637
+forward 1
+  depth: 560 length: 1638
+down 4
+  depth: 564 length: 1638
+up 5
+  depth: 559 length: 1638
+down 5
+  depth: 564 length: 1638
+down 4
+  depth: 568 length: 1638
+forward 5
+  depth: 568 length: 1643
+forward 4
+  depth: 568 length: 1647
+down 9
+  depth: 577 length: 1647
+up 7
+  depth: 570 length: 1647
+down 7
+  depth: 577 length: 1647
+forward 7
+  depth: 577 length: 1654
+forward 6
+  depth: 577 length: 1660
+forward 8
+  depth: 577 length: 1668
+down 8
+  depth: 585 length: 1668
+forward 8
+  depth: 585 length: 1676
+down 1
+  depth: 586 length: 1676
+down 1
+  depth: 587 length: 1676
+down 8
+  depth: 595 length: 1676
+down 2
+  depth: 597 length: 1676
+up 2
+  depth: 595 length: 1676
+up 1
+  depth: 594 length: 1676
+forward 5
+  depth: 594 length: 1681
+down 1
+  depth: 595 length: 1681
+up 5
+  depth: 590 length: 1681
+up 2
+  depth: 588 length: 1681
+down 6
+  depth: 594 length: 1681
+up 8
+  depth: 586 length: 1681
+forward 5
+  depth: 586 length: 1686
+down 8
+  depth: 594 length: 1686
+down 1
+  depth: 595 length: 1686
+up 5
+  depth: 590 length: 1686
+down 1
+  depth: 591 length: 1686
+forward 4
+  depth: 591 length: 1690
+down 6
+  depth: 597 length: 1690
+down 4
+  depth: 601 length: 1690
+forward 2
+  depth: 601 length: 1692
+forward 2
+  depth: 601 length: 1694
+down 1
+  depth: 602 length: 1694
+up 4
+  depth: 598 length: 1694
+up 8
+  depth: 590 length: 1694
+down 6
+  depth: 596 length: 1694
+down 2
+  depth: 598 length: 1694
+forward 5
+  depth: 598 length: 1699
+forward 8
+  depth: 598 length: 1707
+forward 7
+  depth: 598 length: 1714
+down 5
+  depth: 603 length: 1714
+down 7
+  depth: 610 length: 1714
+down 3
+  depth: 613 length: 1714
+forward 6
+  depth: 613 length: 1720
+down 3
+  depth: 616 length: 1720
+down 3
+  depth: 619 length: 1720
+forward 6
+  depth: 619 length: 1726
+forward 6
+  depth: 619 length: 1732
+forward 6
+  depth: 619 length: 1738
+up 7
+  depth: 612 length: 1738
+forward 1
+  depth: 612 length: 1739
+down 5
+  depth: 617 length: 1739
+down 2
+  depth: 619 length: 1739
+up 8
+  depth: 611 length: 1739
+forward 6
+  depth: 611 length: 1745
+down 7
+  depth: 618 length: 1745
+down 6
+  depth: 624 length: 1745
+forward 1
+  depth: 624 length: 1746
+up 5
+  depth: 619 length: 1746
+down 4
+  depth: 623 length: 1746
+up 9
+  depth: 614 length: 1746
+forward 3
+  depth: 614 length: 1749
+up 3
+  depth: 611 length: 1749
+forward 9
+  depth: 611 length: 1758
+forward 9
+  depth: 611 length: 1767
+forward 7
+  depth: 611 length: 1774
+forward 5
+  depth: 611 length: 1779
+down 9
+  depth: 620 length: 1779
+forward 1
+  depth: 620 length: 1780
+forward 6
+  depth: 620 length: 1786
+up 8
+  depth: 612 length: 1786
+down 7
+  depth: 619 length: 1786
+forward 9
+  depth: 619 length: 1795
+forward 5
+  depth: 619 length: 1800
+up 4
+  depth: 615 length: 1800
+down 8
+  depth: 623 length: 1800
+forward 8
+  depth: 623 length: 1808
+forward 4
+  depth: 623 length: 1812
+down 9
+  depth: 632 length: 1812
+up 2
+  depth: 630 length: 1812
+forward 5
+  depth: 630 length: 1817
+forward 8
+  depth: 630 length: 1825
+down 8
+  depth: 638 length: 1825
+down 9
+  depth: 647 length: 1825
+down 9
+  depth: 656 length: 1825
+forward 4
+  depth: 656 length: 1829
+forward 8
+  depth: 656 length: 1837
+down 5
+  depth: 661 length: 1837
+down 5
+  depth: 666 length: 1837
+forward 5
+  depth: 666 length: 1842
+forward 5
+  depth: 666 length: 1847
+up 9
+  depth: 657 length: 1847
+up 7
+  depth: 650 length: 1847
+forward 3
+  depth: 650 length: 1850
+up 4
+  depth: 646 length: 1850
+down 8
+  depth: 654 length: 1850
+up 6
+  depth: 648 length: 1850
+up 6
+  depth: 642 length: 1850
+down 4
+  depth: 646 length: 1850
+down 3
+  depth: 649 length: 1850
+forward 2
+  depth: 649 length: 1852
+forward 9
+  depth: 649 length: 1861
+down 4
+  depth: 653 length: 1861
+down 2
+  depth: 655 length: 1861
+forward 4
+  depth: 655 length: 1865
+up 9
+  depth: 646 length: 1865
+forward 1
+  depth: 646 length: 1866
+down 8
+  depth: 654 length: 1866
+down 9
+  depth: 663 length: 1866
+down 9
+  depth: 672 length: 1866
+down 3
+  depth: 675 length: 1866
+forward 1
+  depth: 675 length: 1867
+down 5
+  depth: 680 length: 1867
+up 9
+  depth: 671 length: 1867
+forward 6
+  depth: 671 length: 1873
+up 4
+  depth: 667 length: 1873
+forward 2
+  depth: 667 length: 1875
+forward 2
+  depth: 667 length: 1877
+forward 4
+  depth: 667 length: 1881
+down 9
+  depth: 676 length: 1881
+up 5
+  depth: 671 length: 1881
+up 1
+  depth: 670 length: 1881
+down 6
+  depth: 676 length: 1881
+forward 7
+  depth: 676 length: 1888
+down 8
+  depth: 684 length: 1888
+forward 4
+  depth: 684 length: 1892
+forward 9
+  depth: 684 length: 1901
+up 9
+  depth: 675 length: 1901
+up 4
+  depth: 671 length: 1901
+down 5
+  depth: 676 length: 1901
+down 3
+  depth: 679 length: 1901
+forward 2
+  depth: 679 length: 1903
+down 8
+  depth: 687 length: 1903
+down 6
+  depth: 693 length: 1903
+forward 3
+  depth: 693 length: 1906
+down 2
+  depth: 695 length: 1906
+forward 6
+  depth: 695 length: 1912
+up 2
+  depth: 693 length: 1912
+forward 6
+  depth: 693 length: 1918
+down 7
+  depth: 700 length: 1918
+up 4
+  depth: 696 length: 1918
+forward 1
+  depth: 696 length: 1919
+forward 4
+  depth: 696 length: 1923
+up 4
+  depth: 692 length: 1923
+forward 6
+  depth: 692 length: 1929
+forward 8
+  depth: 692 length: 1937
+down 7
+  depth: 699 length: 1937
+down 6
+  depth: 705 length: 1937
+up 7
+  depth: 698 length: 1937
+down 2
+  depth: 700 length: 1937
+down 4
+  depth: 704 length: 1937
+down 5
+  depth: 709 length: 1937
+forward 1
+  depth: 709 length: 1938
+up 4
+  depth: 705 length: 1938
+forward 8
+  depth: 705 length: 1946
+forward 6
+  depth: 705 length: 1952
+down 8
+  depth: 713 length: 1952
+up 5
+  depth: 708 length: 1952
+up 2
+  depth: 706 length: 1952
+up 9
+  depth: 697 length: 1952
+up 5
+  depth: 692 length: 1952
+forward 6
+  depth: 692 length: 1958
+down 4
+  depth: 696 length: 1958
+up 3
+  depth: 693 length: 1958
+down 8
+  depth: 701 length: 1958
+down 6
+  depth: 707 length: 1958
+down 2
+  depth: 709 length: 1958
+up 3
+  depth: 706 length: 1958
+up 5
+  depth: 701 length: 1958
+down 1
+  depth: 702 length: 1958
+forward 9
+  depth: 702 length: 1967
+up 8
+  depth: 694 length: 1967
+up 2
+  depth: 692 length: 1967
+down 3
+  depth: 695 length: 1967
+forward 6
+  depth: 695 length: 1973
+down 1
+  depth: 696 length: 1973
+forward 5
+  depth: 696 length: 1978
+down 3
+  depth: 699 length: 1978
+up 1
+  depth: 698 length: 1978
+up 2
+  depth: 696 length: 1978
+down 5
+  depth: 701 length: 1978
+down 7
+  depth: 708 length: 1978
+forward 8
+  depth: 708 length: 1986
+down 8
+  depth: 716 length: 1986
+up 9
+  depth: 707 length: 1986
+forward 3
+  depth: 707 length: 1989
+down 8
+  depth: 715 length: 1989
+down 8
+  depth: 723 length: 1989
+forward 1
+  depth: 723 length: 1990
+down 4
+  depth: 727 length: 1990
+down 4
+  depth: 731 length: 1990
+forward 3
+  depth: 731 length: 1993
+up 6
+  depth: 725 length: 1993
+down 3
+  depth: 728 length: 1993
+down 7
+  depth: 735 length: 1993
+down 7
+  depth: 742 length: 1993
+up 1
+  depth: 741 length: 1993
+forward 3
+  depth: 741 length: 1996
+forward 2
+  depth: 741 length: 1998
+Final depth: 741 length: 1998 product area: 1480518

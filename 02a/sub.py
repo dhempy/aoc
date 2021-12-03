@@ -6,7 +6,7 @@ depth = 0
 length = 0
 
 for step in file:
-  # print(step.rstrip())
+  print(step.rstrip())
   [direction, distance] = step.split(' ')
   distance = int(distance)
 
@@ -17,7 +17,7 @@ for step in file:
   elif direction == 'up':
     depth = depth - distance
 
-  # print(f"  depth: {depth} length: {length} ")
+  print(f"  depth: {depth} length: {length} ")
 
 area = depth * length
 print(f"Final depth: {depth} length: {length} product area: {area} ")

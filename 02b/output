@@ -1,0 +1,2002 @@
+% ./sub.py
+forward 2
+  depth: 0 length: 2 aim: 0 product area: 0
+down 8
+  depth: 0 length: 2 aim: 8 product area: 0
+down 1
+  depth: 0 length: 2 aim: 9 product area: 0
+up 7
+  depth: 0 length: 2 aim: 2 product area: 0
+forward 4
+  depth: 8 length: 6 aim: 2 product area: 48
+down 4
+  depth: 8 length: 6 aim: 6 product area: 48
+down 3
+  depth: 8 length: 6 aim: 9 product area: 48
+forward 2
+  depth: 26 length: 8 aim: 9 product area: 208
+forward 5
+  depth: 71 length: 13 aim: 9 product area: 923
+forward 2
+  depth: 89 length: 15 aim: 9 product area: 1335
+forward 7
+  depth: 152 length: 22 aim: 9 product area: 3344
+forward 8
+  depth: 224 length: 30 aim: 9 product area: 6720
+down 7
+  depth: 224 length: 30 aim: 16 product area: 6720
+forward 6
+  depth: 320 length: 36 aim: 16 product area: 11520
+forward 1
+  depth: 336 length: 37 aim: 16 product area: 12432
+down 8
+  depth: 336 length: 37 aim: 24 product area: 12432
+down 8
+  depth: 336 length: 37 aim: 32 product area: 12432
+up 9
+  depth: 336 length: 37 aim: 23 product area: 12432
+down 9
+  depth: 336 length: 37 aim: 32 product area: 12432
+forward 1
+  depth: 368 length: 38 aim: 32 product area: 13984
+up 1
+  depth: 368 length: 38 aim: 31 product area: 13984
+forward 6
+  depth: 554 length: 44 aim: 31 product area: 24376
+forward 7
+  depth: 771 length: 51 aim: 31 product area: 39321
+down 7
+  depth: 771 length: 51 aim: 38 product area: 39321
+forward 4
+  depth: 923 length: 55 aim: 38 product area: 50765
+forward 2
+  depth: 999 length: 57 aim: 38 product area: 56943
+forward 1
+  depth: 1037 length: 58 aim: 38 product area: 60146
+forward 3
+  depth: 1151 length: 61 aim: 38 product area: 70211
+forward 8
+  depth: 1455 length: 69 aim: 38 product area: 100395
+forward 4
+  depth: 1607 length: 73 aim: 38 product area: 117311
+up 6
+  depth: 1607 length: 73 aim: 32 product area: 117311
+down 2
+  depth: 1607 length: 73 aim: 34 product area: 117311
+forward 4
+  depth: 1743 length: 77 aim: 34 product area: 134211
+down 3
+  depth: 1743 length: 77 aim: 37 product area: 134211
+up 3
+  depth: 1743 length: 77 aim: 34 product area: 134211
+up 2
+  depth: 1743 length: 77 aim: 32 product area: 134211
+up 3
+  depth: 1743 length: 77 aim: 29 product area: 134211
+forward 8
+  depth: 1975 length: 85 aim: 29 product area: 167875
+down 5
+  depth: 1975 length: 85 aim: 34 product area: 167875
+down 8
+  depth: 1975 length: 85 aim: 42 product area: 167875
+down 5
+  depth: 1975 length: 85 aim: 47 product area: 167875
+down 4
+  depth: 1975 length: 85 aim: 51 product area: 167875
+down 2
+  depth: 1975 length: 85 aim: 53 product area: 167875
+up 1
+  depth: 1975 length: 85 aim: 52 product area: 167875
+forward 6
+  depth: 2287 length: 91 aim: 52 product area: 208117
+forward 6
+  depth: 2599 length: 97 aim: 52 product area: 252103
+forward 8
+  depth: 3015 length: 105 aim: 52 product area: 316575
+up 5
+  depth: 3015 length: 105 aim: 47 product area: 316575
+down 5
+  depth: 3015 length: 105 aim: 52 product area: 316575
+forward 8
+  depth: 3431 length: 113 aim: 52 product area: 387703
+forward 7
+  depth: 3795 length: 120 aim: 52 product area: 455400
+down 9
+  depth: 3795 length: 120 aim: 61 product area: 455400
+down 7
+  depth: 3795 length: 120 aim: 68 product area: 455400
+down 6
+  depth: 3795 length: 120 aim: 74 product area: 455400
+down 3
+  depth: 3795 length: 120 aim: 77 product area: 455400
+forward 3
+  depth: 4026 length: 123 aim: 77 product area: 495198
+up 7
+  depth: 4026 length: 123 aim: 70 product area: 495198
+forward 2
+  depth: 4166 length: 125 aim: 70 product area: 520750
+up 6
+  depth: 4166 length: 125 aim: 64 product area: 520750
+forward 7
+  depth: 4614 length: 132 aim: 64 product area: 609048
+forward 9
+  depth: 5190 length: 141 aim: 64 product area: 731790
+down 9
+  depth: 5190 length: 141 aim: 73 product area: 731790
+forward 3
+  depth: 5409 length: 144 aim: 73 product area: 778896
+down 2
+  depth: 5409 length: 144 aim: 75 product area: 778896
+down 2
+  depth: 5409 length: 144 aim: 77 product area: 778896
+down 7
+  depth: 5409 length: 144 aim: 84 product area: 778896
+down 7
+  depth: 5409 length: 144 aim: 91 product area: 778896
+forward 8
+  depth: 6137 length: 152 aim: 91 product area: 932824
+down 7
+  depth: 6137 length: 152 aim: 98 product area: 932824
+forward 9
+  depth: 7019 length: 161 aim: 98 product area: 1130059
+up 7
+  depth: 7019 length: 161 aim: 91 product area: 1130059
+down 4
+  depth: 7019 length: 161 aim: 95 product area: 1130059
+down 8
+  depth: 7019 length: 161 aim: 103 product area: 1130059
+forward 2
+  depth: 7225 length: 163 aim: 103 product area: 1177675
+forward 2
+  depth: 7431 length: 165 aim: 103 product area: 1226115
+up 1
+  depth: 7431 length: 165 aim: 102 product area: 1226115
+forward 8
+  depth: 8247 length: 173 aim: 102 product area: 1426731
+down 5
+  depth: 8247 length: 173 aim: 107 product area: 1426731
+forward 8
+  depth: 9103 length: 181 aim: 107 product area: 1647643
+forward 4
+  depth: 9531 length: 185 aim: 107 product area: 1763235
+up 1
+  depth: 9531 length: 185 aim: 106 product area: 1763235
+forward 2
+  depth: 9743 length: 187 aim: 106 product area: 1821941
+forward 2
+  depth: 9955 length: 189 aim: 106 product area: 1881495
+forward 2
+  depth: 10167 length: 191 aim: 106 product area: 1941897
+down 9
+  depth: 10167 length: 191 aim: 115 product area: 1941897
+down 7
+  depth: 10167 length: 191 aim: 122 product area: 1941897
+down 9
+  depth: 10167 length: 191 aim: 131 product area: 1941897
+forward 9
+  depth: 11346 length: 200 aim: 131 product area: 2269200
+forward 4
+  depth: 11870 length: 204 aim: 131 product area: 2421480
+up 7
+  depth: 11870 length: 204 aim: 124 product area: 2421480
+down 4
+  depth: 11870 length: 204 aim: 128 product area: 2421480
+forward 9
+  depth: 13022 length: 213 aim: 128 product area: 2773686
+forward 8
+  depth: 14046 length: 221 aim: 128 product area: 3104166
+up 5
+  depth: 14046 length: 221 aim: 123 product area: 3104166
+up 1
+  depth: 14046 length: 221 aim: 122 product area: 3104166
+down 1
+  depth: 14046 length: 221 aim: 123 product area: 3104166
+down 9
+  depth: 14046 length: 221 aim: 132 product area: 3104166
+down 6
+  depth: 14046 length: 221 aim: 138 product area: 3104166
+up 8
+  depth: 14046 length: 221 aim: 130 product area: 3104166
+forward 2
+  depth: 14306 length: 223 aim: 130 product area: 3190238
+forward 7
+  depth: 15216 length: 230 aim: 130 product area: 3499680
+up 7
+  depth: 15216 length: 230 aim: 123 product area: 3499680
+forward 7
+  depth: 16077 length: 237 aim: 123 product area: 3810249
+forward 6
+  depth: 16815 length: 243 aim: 123 product area: 4086045
+down 6
+  depth: 16815 length: 243 aim: 129 product area: 4086045
+forward 8
+  depth: 17847 length: 251 aim: 129 product area: 4479597
+up 6
+  depth: 17847 length: 251 aim: 123 product area: 4479597
+forward 7
+  depth: 18708 length: 258 aim: 123 product area: 4826664
+down 7
+  depth: 18708 length: 258 aim: 130 product area: 4826664
+forward 4
+  depth: 19228 length: 262 aim: 130 product area: 5037736
+forward 9
+  depth: 20398 length: 271 aim: 130 product area: 5527858
+up 9
+  depth: 20398 length: 271 aim: 121 product area: 5527858
+up 8
+  depth: 20398 length: 271 aim: 113 product area: 5527858
+forward 8
+  depth: 21302 length: 279 aim: 113 product area: 5943258
+forward 3
+  depth: 21641 length: 282 aim: 113 product area: 6102762
+up 1
+  depth: 21641 length: 282 aim: 112 product area: 6102762
+up 4
+  depth: 21641 length: 282 aim: 108 product area: 6102762
+down 4
+  depth: 21641 length: 282 aim: 112 product area: 6102762
+up 9
+  depth: 21641 length: 282 aim: 103 product area: 6102762
+up 8
+  depth: 21641 length: 282 aim: 95 product area: 6102762
+forward 6
+  depth: 22211 length: 288 aim: 95 product area: 6396768
+down 2
+  depth: 22211 length: 288 aim: 97 product area: 6396768
+down 2
+  depth: 22211 length: 288 aim: 99 product area: 6396768
+up 4
+  depth: 22211 length: 288 aim: 95 product area: 6396768
+forward 4
+  depth: 22591 length: 292 aim: 95 product area: 6596572
+forward 1
+  depth: 22686 length: 293 aim: 95 product area: 6646998
+down 8
+  depth: 22686 length: 293 aim: 103 product area: 6646998
+forward 6
+  depth: 23304 length: 299 aim: 103 product area: 6967896
+down 5
+  depth: 23304 length: 299 aim: 108 product area: 6967896
+forward 6
+  depth: 23952 length: 305 aim: 108 product area: 7305360
+down 8
+  depth: 23952 length: 305 aim: 116 product area: 7305360
+up 1
+  depth: 23952 length: 305 aim: 115 product area: 7305360
+forward 1
+  depth: 24067 length: 306 aim: 115 product area: 7364502
+up 9
+  depth: 24067 length: 306 aim: 106 product area: 7364502
+down 8
+  depth: 24067 length: 306 aim: 114 product area: 7364502
+up 3
+  depth: 24067 length: 306 aim: 111 product area: 7364502
+up 9
+  depth: 24067 length: 306 aim: 102 product area: 7364502
+forward 9
+  depth: 24985 length: 315 aim: 102 product area: 7870275
+forward 2
+  depth: 25189 length: 317 aim: 102 product area: 7984913
+down 2
+  depth: 25189 length: 317 aim: 104 product area: 7984913
+up 6
+  depth: 25189 length: 317 aim: 98 product area: 7984913
+up 6
+  depth: 25189 length: 317 aim: 92 product area: 7984913
+forward 8
+  depth: 25925 length: 325 aim: 92 product area: 8425625
+up 3
+  depth: 25925 length: 325 aim: 89 product area: 8425625
+down 3
+  depth: 25925 length: 325 aim: 92 product area: 8425625
+forward 5
+  depth: 26385 length: 330 aim: 92 product area: 8707050
+up 2
+  depth: 26385 length: 330 aim: 90 product area: 8707050
+forward 1
+  depth: 26475 length: 331 aim: 90 product area: 8763225
+forward 1
+  depth: 26565 length: 332 aim: 90 product area: 8819580
+forward 8
+  depth: 27285 length: 340 aim: 90 product area: 9276900
+down 4
+  depth: 27285 length: 340 aim: 94 product area: 9276900
+forward 8
+  depth: 28037 length: 348 aim: 94 product area: 9756876
+forward 7
+  depth: 28695 length: 355 aim: 94 product area: 10186725
+down 8
+  depth: 28695 length: 355 aim: 102 product area: 10186725
+forward 7
+  depth: 29409 length: 362 aim: 102 product area: 10646058
+down 7
+  depth: 29409 length: 362 aim: 109 product area: 10646058
+down 2
+  depth: 29409 length: 362 aim: 111 product area: 10646058
+down 1
+  depth: 29409 length: 362 aim: 112 product area: 10646058
+down 7
+  depth: 29409 length: 362 aim: 119 product area: 10646058
+up 9
+  depth: 29409 length: 362 aim: 110 product area: 10646058
+down 5
+  depth: 29409 length: 362 aim: 115 product area: 10646058
+up 1
+  depth: 29409 length: 362 aim: 114 product area: 10646058
+forward 7
+  depth: 30207 length: 369 aim: 114 product area: 11146383
+down 5
+  depth: 30207 length: 369 aim: 119 product area: 11146383
+down 9
+  depth: 30207 length: 369 aim: 128 product area: 11146383
+down 2
+  depth: 30207 length: 369 aim: 130 product area: 11146383
+down 8
+  depth: 30207 length: 369 aim: 138 product area: 11146383
+down 4
+  depth: 30207 length: 369 aim: 142 product area: 11146383
+forward 2
+  depth: 30491 length: 371 aim: 142 product area: 11312161
+forward 2
+  depth: 30775 length: 373 aim: 142 product area: 11479075
+forward 1
+  depth: 30917 length: 374 aim: 142 product area: 11562958
+down 6
+  depth: 30917 length: 374 aim: 148 product area: 11562958
+up 7
+  depth: 30917 length: 374 aim: 141 product area: 11562958
+forward 2
+  depth: 31199 length: 376 aim: 141 product area: 11730824
+down 1
+  depth: 31199 length: 376 aim: 142 product area: 11730824
+down 5
+  depth: 31199 length: 376 aim: 147 product area: 11730824
+forward 3
+  depth: 31640 length: 379 aim: 147 product area: 11991560
+forward 8
+  depth: 32816 length: 387 aim: 147 product area: 12699792
+down 4
+  depth: 32816 length: 387 aim: 151 product area: 12699792
+up 2
+  depth: 32816 length: 387 aim: 149 product area: 12699792
+up 9
+  depth: 32816 length: 387 aim: 140 product area: 12699792
+up 7
+  depth: 32816 length: 387 aim: 133 product area: 12699792
+forward 7
+  depth: 33747 length: 394 aim: 133 product area: 13296318
+forward 4
+  depth: 34279 length: 398 aim: 133 product area: 13643042
+up 8
+  depth: 34279 length: 398 aim: 125 product area: 13643042
+up 3
+  depth: 34279 length: 398 aim: 122 product area: 13643042
+up 4
+  depth: 34279 length: 398 aim: 118 product area: 13643042
+forward 6
+  depth: 34987 length: 404 aim: 118 product area: 14134748
+down 7
+  depth: 34987 length: 404 aim: 125 product area: 14134748
+forward 7
+  depth: 35862 length: 411 aim: 125 product area: 14739282
+up 6
+  depth: 35862 length: 411 aim: 119 product area: 14739282
+down 9
+  depth: 35862 length: 411 aim: 128 product area: 14739282
+up 6
+  depth: 35862 length: 411 aim: 122 product area: 14739282
+forward 4
+  depth: 36350 length: 415 aim: 122 product area: 15085250
+up 3
+  depth: 36350 length: 415 aim: 119 product area: 15085250
+down 3
+  depth: 36350 length: 415 aim: 122 product area: 15085250
+up 6
+  depth: 36350 length: 415 aim: 116 product area: 15085250
+down 9
+  depth: 36350 length: 415 aim: 125 product area: 15085250
+down 6
+  depth: 36350 length: 415 aim: 131 product area: 15085250
+forward 7
+  depth: 37267 length: 422 aim: 131 product area: 15726674
+forward 9
+  depth: 38446 length: 431 aim: 131 product area: 16570226
+forward 2
+  depth: 38708 length: 433 aim: 131 product area: 16760564
+down 6
+  depth: 38708 length: 433 aim: 137 product area: 16760564
+up 3
+  depth: 38708 length: 433 aim: 134 product area: 16760564
+up 9
+  depth: 38708 length: 433 aim: 125 product area: 16760564
+forward 9
+  depth: 39833 length: 442 aim: 125 product area: 17606186
+forward 8
+  depth: 40833 length: 450 aim: 125 product area: 18374850
+up 4
+  depth: 40833 length: 450 aim: 121 product area: 18374850
+up 5
+  depth: 40833 length: 450 aim: 116 product area: 18374850
+forward 6
+  depth: 41529 length: 456 aim: 116 product area: 18937224
+down 5
+  depth: 41529 length: 456 aim: 121 product area: 18937224
+up 4
+  depth: 41529 length: 456 aim: 117 product area: 18937224
+up 9
+  depth: 41529 length: 456 aim: 108 product area: 18937224
+down 8
+  depth: 41529 length: 456 aim: 116 product area: 18937224
+forward 5
+  depth: 42109 length: 461 aim: 116 product area: 19412249
+up 5
+  depth: 42109 length: 461 aim: 111 product area: 19412249
+forward 7
+  depth: 42886 length: 468 aim: 111 product area: 20070648
+forward 6
+  depth: 43552 length: 474 aim: 111 product area: 20643648
+down 8
+  depth: 43552 length: 474 aim: 119 product area: 20643648
+down 5
+  depth: 43552 length: 474 aim: 124 product area: 20643648
+down 2
+  depth: 43552 length: 474 aim: 126 product area: 20643648
+up 5
+  depth: 43552 length: 474 aim: 121 product area: 20643648
+down 8
+  depth: 43552 length: 474 aim: 129 product area: 20643648
+forward 7
+  depth: 44455 length: 481 aim: 129 product area: 21382855
+forward 7
+  depth: 45358 length: 488 aim: 129 product area: 22134704
+up 6
+  depth: 45358 length: 488 aim: 123 product area: 22134704
+forward 3
+  depth: 45727 length: 491 aim: 123 product area: 22451957
+down 8
+  depth: 45727 length: 491 aim: 131 product area: 22451957
+forward 5
+  depth: 46382 length: 496 aim: 131 product area: 23005472
+forward 8
+  depth: 47430 length: 504 aim: 131 product area: 23904720
+down 7
+  depth: 47430 length: 504 aim: 138 product area: 23904720
+forward 6
+  depth: 48258 length: 510 aim: 138 product area: 24611580
+down 2
+  depth: 48258 length: 510 aim: 140 product area: 24611580
+forward 2
+  depth: 48538 length: 512 aim: 140 product area: 24851456
+forward 8
+  depth: 49658 length: 520 aim: 140 product area: 25822160
+down 4
+  depth: 49658 length: 520 aim: 144 product area: 25822160
+forward 5
+  depth: 50378 length: 525 aim: 144 product area: 26448450
+forward 7
+  depth: 51386 length: 532 aim: 144 product area: 27337352
+forward 5
+  depth: 52106 length: 537 aim: 144 product area: 27980922
+forward 8
+  depth: 53258 length: 545 aim: 144 product area: 29025610
+forward 9
+  depth: 54554 length: 554 aim: 144 product area: 30222916
+forward 6
+  depth: 55418 length: 560 aim: 144 product area: 31034080
+down 6
+  depth: 55418 length: 560 aim: 150 product area: 31034080
+up 7
+  depth: 55418 length: 560 aim: 143 product area: 31034080
+down 9
+  depth: 55418 length: 560 aim: 152 product area: 31034080
+forward 7
+  depth: 56482 length: 567 aim: 152 product area: 32025294
+forward 1
+  depth: 56634 length: 568 aim: 152 product area: 32168112
+up 2
+  depth: 56634 length: 568 aim: 150 product area: 32168112
+forward 8
+  depth: 57834 length: 576 aim: 150 product area: 33312384
+down 1
+  depth: 57834 length: 576 aim: 151 product area: 33312384
+up 9
+  depth: 57834 length: 576 aim: 142 product area: 33312384
+forward 7
+  depth: 58828 length: 583 aim: 142 product area: 34296724
+down 2
+  depth: 58828 length: 583 aim: 144 product area: 34296724
+up 2
+  depth: 58828 length: 583 aim: 142 product area: 34296724
+forward 5
+  depth: 59538 length: 588 aim: 142 product area: 35008344
+down 4
+  depth: 59538 length: 588 aim: 146 product area: 35008344
+down 3
+  depth: 59538 length: 588 aim: 149 product area: 35008344
+up 8
+  depth: 59538 length: 588 aim: 141 product area: 35008344
+up 6
+  depth: 59538 length: 588 aim: 135 product area: 35008344
+forward 3
+  depth: 59943 length: 591 aim: 135 product area: 35426313
+up 4
+  depth: 59943 length: 591 aim: 131 product area: 35426313
+forward 3
+  depth: 60336 length: 594 aim: 131 product area: 35839584
+forward 1
+  depth: 60467 length: 595 aim: 131 product area: 35977865
+forward 1
+  depth: 60598 length: 596 aim: 131 product area: 36116408
+up 9
+  depth: 60598 length: 596 aim: 122 product area: 36116408
+down 2
+  depth: 60598 length: 596 aim: 124 product area: 36116408
+down 9
+  depth: 60598 length: 596 aim: 133 product area: 36116408
+up 4
+  depth: 60598 length: 596 aim: 129 product area: 36116408
+forward 4
+  depth: 61114 length: 600 aim: 129 product area: 36668400
+forward 4
+  depth: 61630 length: 604 aim: 129 product area: 37224520
+forward 2
+  depth: 61888 length: 606 aim: 129 product area: 37504128
+forward 5
+  depth: 62533 length: 611 aim: 129 product area: 38207663
+forward 9
+  depth: 63694 length: 620 aim: 129 product area: 39490280
+forward 7
+  depth: 64597 length: 627 aim: 129 product area: 40502319
+up 4
+  depth: 64597 length: 627 aim: 125 product area: 40502319
+up 5
+  depth: 64597 length: 627 aim: 120 product area: 40502319
+down 5
+  depth: 64597 length: 627 aim: 125 product area: 40502319
+forward 9
+  depth: 65722 length: 636 aim: 125 product area: 41799192
+down 1
+  depth: 65722 length: 636 aim: 126 product area: 41799192
+forward 2
+  depth: 65974 length: 638 aim: 126 product area: 42091412
+down 6
+  depth: 65974 length: 638 aim: 132 product area: 42091412
+forward 9
+  depth: 67162 length: 647 aim: 132 product area: 43453814
+down 4
+  depth: 67162 length: 647 aim: 136 product area: 43453814
+down 2
+  depth: 67162 length: 647 aim: 138 product area: 43453814
+forward 2
+  depth: 67438 length: 649 aim: 138 product area: 43767262
+up 7
+  depth: 67438 length: 649 aim: 131 product area: 43767262
+forward 7
+  depth: 68355 length: 656 aim: 131 product area: 44840880
+forward 8
+  depth: 69403 length: 664 aim: 131 product area: 46083592
+up 9
+  depth: 69403 length: 664 aim: 122 product area: 46083592
+forward 3
+  depth: 69769 length: 667 aim: 122 product area: 46535923
+up 1
+  depth: 69769 length: 667 aim: 121 product area: 46535923
+down 5
+  depth: 69769 length: 667 aim: 126 product area: 46535923
+forward 5
+  depth: 70399 length: 672 aim: 126 product area: 47308128
+down 1
+  depth: 70399 length: 672 aim: 127 product area: 47308128
+up 5
+  depth: 70399 length: 672 aim: 122 product area: 47308128
+forward 4
+  depth: 70887 length: 676 aim: 122 product area: 47919612
+forward 5
+  depth: 71497 length: 681 aim: 122 product area: 48689457
+up 3
+  depth: 71497 length: 681 aim: 119 product area: 48689457
+down 4
+  depth: 71497 length: 681 aim: 123 product area: 48689457
+up 6
+  depth: 71497 length: 681 aim: 117 product area: 48689457
+up 1
+  depth: 71497 length: 681 aim: 116 product area: 48689457
+down 2
+  depth: 71497 length: 681 aim: 118 product area: 48689457
+forward 6
+  depth: 72205 length: 687 aim: 118 product area: 49604835
+down 8
+  depth: 72205 length: 687 aim: 126 product area: 49604835
+up 9
+  depth: 72205 length: 687 aim: 117 product area: 49604835
+down 7
+  depth: 72205 length: 687 aim: 124 product area: 49604835
+forward 9
+  depth: 73321 length: 696 aim: 124 product area: 51031416
+down 8
+  depth: 73321 length: 696 aim: 132 product area: 51031416
+forward 3
+  depth: 73717 length: 699 aim: 132 product area: 51528183
+forward 8
+  depth: 74773 length: 707 aim: 132 product area: 52864511
+down 1
+  depth: 74773 length: 707 aim: 133 product area: 52864511
+down 7
+  depth: 74773 length: 707 aim: 140 product area: 52864511
+forward 6
+  depth: 75613 length: 713 aim: 140 product area: 53912069
+up 6
+  depth: 75613 length: 713 aim: 134 product area: 53912069
+down 1
+  depth: 75613 length: 713 aim: 135 product area: 53912069
+down 5
+  depth: 75613 length: 713 aim: 140 product area: 53912069
+forward 6
+  depth: 76453 length: 719 aim: 140 product area: 54969707
+down 7
+  depth: 76453 length: 719 aim: 147 product area: 54969707
+down 2
+  depth: 76453 length: 719 aim: 149 product area: 54969707
+forward 6
+  depth: 77347 length: 725 aim: 149 product area: 56076575
+forward 2
+  depth: 77645 length: 727 aim: 149 product area: 56447915
+forward 8
+  depth: 78837 length: 735 aim: 149 product area: 57945195
+forward 7
+  depth: 79880 length: 742 aim: 149 product area: 59270960
+forward 2
+  depth: 80178 length: 744 aim: 149 product area: 59652432
+down 7
+  depth: 80178 length: 744 aim: 156 product area: 59652432
+up 2
+  depth: 80178 length: 744 aim: 154 product area: 59652432
+down 7
+  depth: 80178 length: 744 aim: 161 product area: 59652432
+forward 8
+  depth: 81466 length: 752 aim: 161 product area: 61262432
+forward 8
+  depth: 82754 length: 760 aim: 161 product area: 62893040
+forward 2
+  depth: 83076 length: 762 aim: 161 product area: 63303912
+forward 4
+  depth: 83720 length: 766 aim: 161 product area: 64129520
+down 1
+  depth: 83720 length: 766 aim: 162 product area: 64129520
+down 6
+  depth: 83720 length: 766 aim: 168 product area: 64129520
+down 1
+  depth: 83720 length: 766 aim: 169 product area: 64129520
+down 4
+  depth: 83720 length: 766 aim: 173 product area: 64129520
+down 4
+  depth: 83720 length: 766 aim: 177 product area: 64129520
+down 2
+  depth: 83720 length: 766 aim: 179 product area: 64129520
+down 7
+  depth: 83720 length: 766 aim: 186 product area: 64129520
+up 5
+  depth: 83720 length: 766 aim: 181 product area: 64129520
+up 5
+  depth: 83720 length: 766 aim: 176 product area: 64129520
+down 1
+  depth: 83720 length: 766 aim: 177 product area: 64129520
+forward 3
+  depth: 84251 length: 769 aim: 177 product area: 64789019
+up 1
+  depth: 84251 length: 769 aim: 176 product area: 64789019
+down 3
+  depth: 84251 length: 769 aim: 179 product area: 64789019
+forward 9
+  depth: 85862 length: 778 aim: 179 product area: 66800636
+forward 4
+  depth: 86578 length: 782 aim: 179 product area: 67703996
+forward 7
+  depth: 87831 length: 789 aim: 179 product area: 69298659
+down 4
+  depth: 87831 length: 789 aim: 183 product area: 69298659
+down 4
+  depth: 87831 length: 789 aim: 187 product area: 69298659
+down 2
+  depth: 87831 length: 789 aim: 189 product area: 69298659
+forward 2
+  depth: 88209 length: 791 aim: 189 product area: 69773319
+forward 1
+  depth: 88398 length: 792 aim: 189 product area: 70011216
+forward 9
+  depth: 90099 length: 801 aim: 189 product area: 72169299
+down 1
+  depth: 90099 length: 801 aim: 190 product area: 72169299
+down 4
+  depth: 90099 length: 801 aim: 194 product area: 72169299
+down 1
+  depth: 90099 length: 801 aim: 195 product area: 72169299
+forward 4
+  depth: 90879 length: 805 aim: 195 product area: 73157595
+up 8
+  depth: 90879 length: 805 aim: 187 product area: 73157595
+forward 3
+  depth: 91440 length: 808 aim: 187 product area: 73883520
+down 6
+  depth: 91440 length: 808 aim: 193 product area: 73883520
+forward 5
+  depth: 92405 length: 813 aim: 193 product area: 75125265
+forward 9
+  depth: 94142 length: 822 aim: 193 product area: 77384724
+forward 1
+  depth: 94335 length: 823 aim: 193 product area: 77637705
+up 8
+  depth: 94335 length: 823 aim: 185 product area: 77637705
+down 7
+  depth: 94335 length: 823 aim: 192 product area: 77637705
+down 8
+  depth: 94335 length: 823 aim: 200 product area: 77637705
+forward 4
+  depth: 95135 length: 827 aim: 200 product area: 78676645
+down 4
+  depth: 95135 length: 827 aim: 204 product area: 78676645
+up 5
+  depth: 95135 length: 827 aim: 199 product area: 78676645
+down 3
+  depth: 95135 length: 827 aim: 202 product area: 78676645
+forward 3
+  depth: 95741 length: 830 aim: 202 product area: 79465030
+down 6
+  depth: 95741 length: 830 aim: 208 product area: 79465030
+down 1
+  depth: 95741 length: 830 aim: 209 product area: 79465030
+down 9
+  depth: 95741 length: 830 aim: 218 product area: 79465030
+forward 8
+  depth: 97485 length: 838 aim: 218 product area: 81692430
+up 5
+  depth: 97485 length: 838 aim: 213 product area: 81692430
+down 7
+  depth: 97485 length: 838 aim: 220 product area: 81692430
+up 7
+  depth: 97485 length: 838 aim: 213 product area: 81692430
+forward 3
+  depth: 98124 length: 841 aim: 213 product area: 82522284
+up 5
+  depth: 98124 length: 841 aim: 208 product area: 82522284
+up 7
+  depth: 98124 length: 841 aim: 201 product area: 82522284
+down 4
+  depth: 98124 length: 841 aim: 205 product area: 82522284
+up 2
+  depth: 98124 length: 841 aim: 203 product area: 82522284
+down 2
+  depth: 98124 length: 841 aim: 205 product area: 82522284
+down 8
+  depth: 98124 length: 841 aim: 213 product area: 82522284
+up 6
+  depth: 98124 length: 841 aim: 207 product area: 82522284
+down 4
+  depth: 98124 length: 841 aim: 211 product area: 82522284
+up 1
+  depth: 98124 length: 841 aim: 210 product area: 82522284
+down 8
+  depth: 98124 length: 841 aim: 218 product area: 82522284
+down 4
+  depth: 98124 length: 841 aim: 222 product area: 82522284
+forward 7
+  depth: 99678 length: 848 aim: 222 product area: 84526944
+down 4
+  depth: 99678 length: 848 aim: 226 product area: 84526944
+up 3
+  depth: 99678 length: 848 aim: 223 product area: 84526944
+down 9
+  depth: 99678 length: 848 aim: 232 product area: 84526944
+forward 3
+  depth: 100374 length: 851 aim: 232 product area: 85418274
+up 4
+  depth: 100374 length: 851 aim: 228 product area: 85418274
+up 1
+  depth: 100374 length: 851 aim: 227 product area: 85418274
+up 5
+  depth: 100374 length: 851 aim: 222 product area: 85418274
+down 4
+  depth: 100374 length: 851 aim: 226 product area: 85418274
+forward 4
+  depth: 101278 length: 855 aim: 226 product area: 86592690
+forward 4
+  depth: 102182 length: 859 aim: 226 product area: 87774338
+down 2
+  depth: 102182 length: 859 aim: 228 product area: 87774338
+down 3
+  depth: 102182 length: 859 aim: 231 product area: 87774338
+down 4
+  depth: 102182 length: 859 aim: 235 product area: 87774338
+forward 2
+  depth: 102652 length: 861 aim: 235 product area: 88383372
+down 9
+  depth: 102652 length: 861 aim: 244 product area: 88383372
+down 9
+  depth: 102652 length: 861 aim: 253 product area: 88383372
+down 6
+  depth: 102652 length: 861 aim: 259 product area: 88383372
+forward 5
+  depth: 103947 length: 866 aim: 259 product area: 90018102
+forward 7
+  depth: 105760 length: 873 aim: 259 product area: 92328480
+down 3
+  depth: 105760 length: 873 aim: 262 product area: 92328480
+forward 2
+  depth: 106284 length: 875 aim: 262 product area: 92998500
+up 8
+  depth: 106284 length: 875 aim: 254 product area: 92998500
+down 6
+  depth: 106284 length: 875 aim: 260 product area: 92998500
+down 8
+  depth: 106284 length: 875 aim: 268 product area: 92998500
+down 2
+  depth: 106284 length: 875 aim: 270 product area: 92998500
+up 9
+  depth: 106284 length: 875 aim: 261 product area: 92998500
+down 1
+  depth: 106284 length: 875 aim: 262 product area: 92998500
+forward 8
+  depth: 108380 length: 883 aim: 262 product area: 95699540
+forward 1
+  depth: 108642 length: 884 aim: 262 product area: 96039528
+forward 8
+  depth: 110738 length: 892 aim: 262 product area: 98778296
+up 4
+  depth: 110738 length: 892 aim: 258 product area: 98778296
+up 1
+  depth: 110738 length: 892 aim: 257 product area: 98778296
+down 8
+  depth: 110738 length: 892 aim: 265 product area: 98778296
+up 2
+  depth: 110738 length: 892 aim: 263 product area: 98778296
+forward 5
+  depth: 112053 length: 897 aim: 263 product area: 100511541
+down 3
+  depth: 112053 length: 897 aim: 266 product area: 100511541
+forward 5
+  depth: 113383 length: 902 aim: 266 product area: 102271466
+forward 4
+  depth: 114447 length: 906 aim: 266 product area: 103688982
+forward 1
+  depth: 114713 length: 907 aim: 266 product area: 104044691
+down 9
+  depth: 114713 length: 907 aim: 275 product area: 104044691
+forward 2
+  depth: 115263 length: 909 aim: 275 product area: 104774067
+forward 5
+  depth: 116638 length: 914 aim: 275 product area: 106607132
+forward 4
+  depth: 117738 length: 918 aim: 275 product area: 108083484
+forward 3
+  depth: 118563 length: 921 aim: 275 product area: 109196523
+down 7
+  depth: 118563 length: 921 aim: 282 product area: 109196523
+up 9
+  depth: 118563 length: 921 aim: 273 product area: 109196523
+forward 7
+  depth: 120474 length: 928 aim: 273 product area: 111799872
+up 8
+  depth: 120474 length: 928 aim: 265 product area: 111799872
+forward 3
+  depth: 121269 length: 931 aim: 265 product area: 112901439
+forward 3
+  depth: 122064 length: 934 aim: 265 product area: 114007776
+down 5
+  depth: 122064 length: 934 aim: 270 product area: 114007776
+forward 7
+  depth: 123954 length: 941 aim: 270 product area: 116640714
+forward 5
+  depth: 125304 length: 946 aim: 270 product area: 118537584
+down 4
+  depth: 125304 length: 946 aim: 274 product area: 118537584
+forward 6
+  depth: 126948 length: 952 aim: 274 product area: 120854496
+down 6
+  depth: 126948 length: 952 aim: 280 product area: 120854496
+up 3
+  depth: 126948 length: 952 aim: 277 product area: 120854496
+down 3
+  depth: 126948 length: 952 aim: 280 product area: 120854496
+forward 7
+  depth: 128908 length: 959 aim: 280 product area: 123622772
+forward 8
+  depth: 131148 length: 967 aim: 280 product area: 126820116
+up 3
+  depth: 131148 length: 967 aim: 277 product area: 126820116
+up 8
+  depth: 131148 length: 967 aim: 269 product area: 126820116
+forward 8
+  depth: 133300 length: 975 aim: 269 product area: 129967500
+up 4
+  depth: 133300 length: 975 aim: 265 product area: 129967500
+forward 5
+  depth: 134625 length: 980 aim: 265 product area: 131932500
+up 4
+  depth: 134625 length: 980 aim: 261 product area: 131932500
+down 7
+  depth: 134625 length: 980 aim: 268 product area: 131932500
+forward 4
+  depth: 135697 length: 984 aim: 268 product area: 133525848
+down 8
+  depth: 135697 length: 984 aim: 276 product area: 133525848
+down 6
+  depth: 135697 length: 984 aim: 282 product area: 133525848
+forward 7
+  depth: 137671 length: 991 aim: 282 product area: 136431961
+down 4
+  depth: 137671 length: 991 aim: 286 product area: 136431961
+up 7
+  depth: 137671 length: 991 aim: 279 product area: 136431961
+down 6
+  depth: 137671 length: 991 aim: 285 product area: 136431961
+up 5
+  depth: 137671 length: 991 aim: 280 product area: 136431961
+down 2
+  depth: 137671 length: 991 aim: 282 product area: 136431961
+forward 7
+  depth: 139645 length: 998 aim: 282 product area: 139365710
+down 7
+  depth: 139645 length: 998 aim: 289 product area: 139365710
+up 3
+  depth: 139645 length: 998 aim: 286 product area: 139365710
+up 3
+  depth: 139645 length: 998 aim: 283 product area: 139365710
+down 3
+  depth: 139645 length: 998 aim: 286 product area: 139365710
+down 5
+  depth: 139645 length: 998 aim: 291 product area: 139365710
+forward 3
+  depth: 140518 length: 1001 aim: 291 product area: 140658518
+forward 5
+  depth: 141973 length: 1006 aim: 291 product area: 142824838
+forward 8
+  depth: 144301 length: 1014 aim: 291 product area: 146321214
+down 3
+  depth: 144301 length: 1014 aim: 294 product area: 146321214
+down 8
+  depth: 144301 length: 1014 aim: 302 product area: 146321214
+forward 3
+  depth: 145207 length: 1017 aim: 302 product area: 147675519
+down 1
+  depth: 145207 length: 1017 aim: 303 product area: 147675519
+forward 4
+  depth: 146419 length: 1021 aim: 303 product area: 149493799
+up 5
+  depth: 146419 length: 1021 aim: 298 product area: 149493799
+forward 8
+  depth: 148803 length: 1029 aim: 298 product area: 153118287
+up 1
+  depth: 148803 length: 1029 aim: 297 product area: 153118287
+up 4
+  depth: 148803 length: 1029 aim: 293 product area: 153118287
+down 4
+  depth: 148803 length: 1029 aim: 297 product area: 153118287
+forward 1
+  depth: 149100 length: 1030 aim: 297 product area: 153573000
+forward 6
+  depth: 150882 length: 1036 aim: 297 product area: 156313752
+up 7
+  depth: 150882 length: 1036 aim: 290 product area: 156313752
+up 1
+  depth: 150882 length: 1036 aim: 289 product area: 156313752
+up 7
+  depth: 150882 length: 1036 aim: 282 product area: 156313752
+down 5
+  depth: 150882 length: 1036 aim: 287 product area: 156313752
+forward 8
+  depth: 153178 length: 1044 aim: 287 product area: 159917832
+down 1
+  depth: 153178 length: 1044 aim: 288 product area: 159917832
+forward 1
+  depth: 153466 length: 1045 aim: 288 product area: 160371970
+forward 6
+  depth: 155194 length: 1051 aim: 288 product area: 163108894
+up 9
+  depth: 155194 length: 1051 aim: 279 product area: 163108894
+up 6
+  depth: 155194 length: 1051 aim: 273 product area: 163108894
+down 4
+  depth: 155194 length: 1051 aim: 277 product area: 163108894
+forward 5
+  depth: 156579 length: 1056 aim: 277 product area: 165347424
+down 1
+  depth: 156579 length: 1056 aim: 278 product area: 165347424
+forward 7
+  depth: 158525 length: 1063 aim: 278 product area: 168512075
+down 8
+  depth: 158525 length: 1063 aim: 286 product area: 168512075
+up 3
+  depth: 158525 length: 1063 aim: 283 product area: 168512075
+down 9
+  depth: 158525 length: 1063 aim: 292 product area: 168512075
+down 1
+  depth: 158525 length: 1063 aim: 293 product area: 168512075
+up 7
+  depth: 158525 length: 1063 aim: 286 product area: 168512075
+up 6
+  depth: 158525 length: 1063 aim: 280 product area: 168512075
+forward 8
+  depth: 160765 length: 1071 aim: 280 product area: 172179315
+down 9
+  depth: 160765 length: 1071 aim: 289 product area: 172179315
+down 4
+  depth: 160765 length: 1071 aim: 293 product area: 172179315
+forward 4
+  depth: 161937 length: 1075 aim: 293 product area: 174082275
+up 7
+  depth: 161937 length: 1075 aim: 286 product area: 174082275
+down 3
+  depth: 161937 length: 1075 aim: 289 product area: 174082275
+forward 5
+  depth: 163382 length: 1080 aim: 289 product area: 176452560
+forward 8
+  depth: 165694 length: 1088 aim: 289 product area: 180275072
+up 5
+  depth: 165694 length: 1088 aim: 284 product area: 180275072
+down 7
+  depth: 165694 length: 1088 aim: 291 product area: 180275072
+up 2
+  depth: 165694 length: 1088 aim: 289 product area: 180275072
+forward 3
+  depth: 166561 length: 1091 aim: 289 product area: 181718051
+forward 3
+  depth: 167428 length: 1094 aim: 289 product area: 183166232
+forward 4
+  depth: 168584 length: 1098 aim: 289 product area: 185105232
+down 1
+  depth: 168584 length: 1098 aim: 290 product area: 185105232
+forward 5
+  depth: 170034 length: 1103 aim: 290 product area: 187547502
+forward 7
+  depth: 172064 length: 1110 aim: 290 product area: 190991040
+up 7
+  depth: 172064 length: 1110 aim: 283 product area: 190991040
+forward 7
+  depth: 174045 length: 1117 aim: 283 product area: 194408265
+forward 1
+  depth: 174328 length: 1118 aim: 283 product area: 194898704
+forward 3
+  depth: 175177 length: 1121 aim: 283 product area: 196373417
+forward 9
+  depth: 177724 length: 1130 aim: 283 product area: 200828120
+down 3
+  depth: 177724 length: 1130 aim: 286 product area: 200828120
+forward 5
+  depth: 179154 length: 1135 aim: 286 product area: 203339790
+down 9
+  depth: 179154 length: 1135 aim: 295 product area: 203339790
+down 7
+  depth: 179154 length: 1135 aim: 302 product area: 203339790
+down 4
+  depth: 179154 length: 1135 aim: 306 product area: 203339790
+down 8
+  depth: 179154 length: 1135 aim: 314 product area: 203339790
+up 3
+  depth: 179154 length: 1135 aim: 311 product area: 203339790
+down 1
+  depth: 179154 length: 1135 aim: 312 product area: 203339790
+up 5
+  depth: 179154 length: 1135 aim: 307 product area: 203339790
+down 5
+  depth: 179154 length: 1135 aim: 312 product area: 203339790
+forward 2
+  depth: 179778 length: 1137 aim: 312 product area: 204407586
+down 6
+  depth: 179778 length: 1137 aim: 318 product area: 204407586
+down 5
+  depth: 179778 length: 1137 aim: 323 product area: 204407586
+forward 2
+  depth: 180424 length: 1139 aim: 323 product area: 205502936
+forward 6
+  depth: 182362 length: 1145 aim: 323 product area: 208804490
+down 6
+  depth: 182362 length: 1145 aim: 329 product area: 208804490
+up 6
+  depth: 182362 length: 1145 aim: 323 product area: 208804490
+down 8
+  depth: 182362 length: 1145 aim: 331 product area: 208804490
+up 1
+  depth: 182362 length: 1145 aim: 330 product area: 208804490
+forward 4
+  depth: 183682 length: 1149 aim: 330 product area: 211050618
+forward 2
+  depth: 184342 length: 1151 aim: 330 product area: 212177642
+forward 1
+  depth: 184672 length: 1152 aim: 330 product area: 212742144
+up 1
+  depth: 184672 length: 1152 aim: 329 product area: 212742144
+forward 5
+  depth: 186317 length: 1157 aim: 329 product area: 215568769
+forward 3
+  depth: 187304 length: 1160 aim: 329 product area: 217272640
+forward 7
+  depth: 189607 length: 1167 aim: 329 product area: 221271369
+down 9
+  depth: 189607 length: 1167 aim: 338 product area: 221271369
+forward 3
+  depth: 190621 length: 1170 aim: 338 product area: 223026570
+down 9
+  depth: 190621 length: 1170 aim: 347 product area: 223026570
+up 5
+  depth: 190621 length: 1170 aim: 342 product area: 223026570
+down 7
+  depth: 190621 length: 1170 aim: 349 product area: 223026570
+down 2
+  depth: 190621 length: 1170 aim: 351 product area: 223026570
+down 3
+  depth: 190621 length: 1170 aim: 354 product area: 223026570
+up 5
+  depth: 190621 length: 1170 aim: 349 product area: 223026570
+up 3
+  depth: 190621 length: 1170 aim: 346 product area: 223026570
+down 2
+  depth: 190621 length: 1170 aim: 348 product area: 223026570
+forward 4
+  depth: 192013 length: 1174 aim: 348 product area: 225423262
+forward 1
+  depth: 192361 length: 1175 aim: 348 product area: 226024175
+down 3
+  depth: 192361 length: 1175 aim: 351 product area: 226024175
+up 4
+  depth: 192361 length: 1175 aim: 347 product area: 226024175
+down 8
+  depth: 192361 length: 1175 aim: 355 product area: 226024175
+down 1
+  depth: 192361 length: 1175 aim: 356 product area: 226024175
+forward 6
+  depth: 194497 length: 1181 aim: 356 product area: 229700957
+down 3
+  depth: 194497 length: 1181 aim: 359 product area: 229700957
+forward 9
+  depth: 197728 length: 1190 aim: 359 product area: 235296320
+down 7
+  depth: 197728 length: 1190 aim: 366 product area: 235296320
+down 3
+  depth: 197728 length: 1190 aim: 369 product area: 235296320
+down 4
+  depth: 197728 length: 1190 aim: 373 product area: 235296320
+down 5
+  depth: 197728 length: 1190 aim: 378 product area: 235296320
+up 1
+  depth: 197728 length: 1190 aim: 377 product area: 235296320
+forward 8
+  depth: 200744 length: 1198 aim: 377 product area: 240491312
+forward 2
+  depth: 201498 length: 1200 aim: 377 product area: 241797600
+up 3
+  depth: 201498 length: 1200 aim: 374 product area: 241797600
+up 7
+  depth: 201498 length: 1200 aim: 367 product area: 241797600
+up 1
+  depth: 201498 length: 1200 aim: 366 product area: 241797600
+forward 3
+  depth: 202596 length: 1203 aim: 366 product area: 243722988
+forward 9
+  depth: 205890 length: 1212 aim: 366 product area: 249538680
+up 5
+  depth: 205890 length: 1212 aim: 361 product area: 249538680
+forward 6
+  depth: 208056 length: 1218 aim: 361 product area: 253412208
+down 8
+  depth: 208056 length: 1218 aim: 369 product area: 253412208
+down 9
+  depth: 208056 length: 1218 aim: 378 product area: 253412208
+down 5
+  depth: 208056 length: 1218 aim: 383 product area: 253412208
+forward 6
+  depth: 210354 length: 1224 aim: 383 product area: 257473296
+forward 3
+  depth: 211503 length: 1227 aim: 383 product area: 259514181
+forward 8
+  depth: 214567 length: 1235 aim: 383 product area: 264990245
+forward 7
+  depth: 217248 length: 1242 aim: 383 product area: 269822016
+forward 9
+  depth: 220695 length: 1251 aim: 383 product area: 276089445
+forward 2
+  depth: 221461 length: 1253 aim: 383 product area: 277490633
+up 9
+  depth: 221461 length: 1253 aim: 374 product area: 277490633
+forward 8
+  depth: 224453 length: 1261 aim: 374 product area: 283035233
+down 2
+  depth: 224453 length: 1261 aim: 376 product area: 283035233
+down 6
+  depth: 224453 length: 1261 aim: 382 product area: 283035233
+down 9
+  depth: 224453 length: 1261 aim: 391 product area: 283035233
+down 5
+  depth: 224453 length: 1261 aim: 396 product area: 283035233
+forward 1
+  depth: 224849 length: 1262 aim: 396 product area: 283759438
+down 7
+  depth: 224849 length: 1262 aim: 403 product area: 283759438
+forward 2
+  depth: 225655 length: 1264 aim: 403 product area: 285227920
+down 4
+  depth: 225655 length: 1264 aim: 407 product area: 285227920
+down 1
+  depth: 225655 length: 1264 aim: 408 product area: 285227920
+up 1
+  depth: 225655 length: 1264 aim: 407 product area: 285227920
+down 2
+  depth: 225655 length: 1264 aim: 409 product area: 285227920
+forward 5
+  depth: 227700 length: 1269 aim: 409 product area: 288951300
+forward 8
+  depth: 230972 length: 1277 aim: 409 product area: 294951244
+down 9
+  depth: 230972 length: 1277 aim: 418 product area: 294951244
+up 6
+  depth: 230972 length: 1277 aim: 412 product area: 294951244
+forward 8
+  depth: 234268 length: 1285 aim: 412 product area: 301034380
+forward 3
+  depth: 235504 length: 1288 aim: 412 product area: 303329152
+up 6
+  depth: 235504 length: 1288 aim: 406 product area: 303329152
+up 2
+  depth: 235504 length: 1288 aim: 404 product area: 303329152
+forward 8
+  depth: 238736 length: 1296 aim: 404 product area: 309401856
+down 8
+  depth: 238736 length: 1296 aim: 412 product area: 309401856
+up 1
+  depth: 238736 length: 1296 aim: 411 product area: 309401856
+down 6
+  depth: 238736 length: 1296 aim: 417 product area: 309401856
+down 2
+  depth: 238736 length: 1296 aim: 419 product area: 309401856
+down 6
+  depth: 238736 length: 1296 aim: 425 product area: 309401856
+forward 5
+  depth: 240861 length: 1301 aim: 425 product area: 313360161
+forward 6
+  depth: 243411 length: 1307 aim: 425 product area: 318138177
+down 4
+  depth: 243411 length: 1307 aim: 429 product area: 318138177
+forward 1
+  depth: 243840 length: 1308 aim: 429 product area: 318942720
+down 4
+  depth: 243840 length: 1308 aim: 433 product area: 318942720
+up 7
+  depth: 243840 length: 1308 aim: 426 product area: 318942720
+forward 4
+  depth: 245544 length: 1312 aim: 426 product area: 322153728
+up 1
+  depth: 245544 length: 1312 aim: 425 product area: 322153728
+forward 9
+  depth: 249369 length: 1321 aim: 425 product area: 329416449
+forward 7
+  depth: 252344 length: 1328 aim: 425 product area: 335112832
+up 3
+  depth: 252344 length: 1328 aim: 422 product area: 335112832
+down 7
+  depth: 252344 length: 1328 aim: 429 product area: 335112832
+down 4
+  depth: 252344 length: 1328 aim: 433 product area: 335112832
+forward 3
+  depth: 253643 length: 1331 aim: 433 product area: 337598833
+forward 8
+  depth: 257107 length: 1339 aim: 433 product area: 344266273
+forward 6
+  depth: 259705 length: 1345 aim: 433 product area: 349303225
+forward 6
+  depth: 262303 length: 1351 aim: 433 product area: 354371353
+up 1
+  depth: 262303 length: 1351 aim: 432 product area: 354371353
+up 2
+  depth: 262303 length: 1351 aim: 430 product area: 354371353
+up 8
+  depth: 262303 length: 1351 aim: 422 product area: 354371353
+down 7
+  depth: 262303 length: 1351 aim: 429 product area: 354371353
+forward 8
+  depth: 265735 length: 1359 aim: 429 product area: 361133865
+down 5
+  depth: 265735 length: 1359 aim: 434 product area: 361133865
+forward 6
+  depth: 268339 length: 1365 aim: 434 product area: 366282735
+down 1
+  depth: 268339 length: 1365 aim: 435 product area: 366282735
+down 9
+  depth: 268339 length: 1365 aim: 444 product area: 366282735
+down 2
+  depth: 268339 length: 1365 aim: 446 product area: 366282735
+forward 6
+  depth: 271015 length: 1371 aim: 446 product area: 371561565
+up 3
+  depth: 271015 length: 1371 aim: 443 product area: 371561565
+down 5
+  depth: 271015 length: 1371 aim: 448 product area: 371561565
+down 6
+  depth: 271015 length: 1371 aim: 454 product area: 371561565
+forward 1
+  depth: 271469 length: 1372 aim: 454 product area: 372455468
+forward 2
+  depth: 272377 length: 1374 aim: 454 product area: 374245998
+down 3
+  depth: 272377 length: 1374 aim: 457 product area: 374245998
+forward 8
+  depth: 276033 length: 1382 aim: 457 product area: 381477606
+forward 1
+  depth: 276490 length: 1383 aim: 457 product area: 382385670
+up 5
+  depth: 276490 length: 1383 aim: 452 product area: 382385670
+down 8
+  depth: 276490 length: 1383 aim: 460 product area: 382385670
+down 4
+  depth: 276490 length: 1383 aim: 464 product area: 382385670
+up 9
+  depth: 276490 length: 1383 aim: 455 product area: 382385670
+up 2
+  depth: 276490 length: 1383 aim: 453 product area: 382385670
+forward 7
+  depth: 279661 length: 1390 aim: 453 product area: 388728790
+forward 9
+  depth: 283738 length: 1399 aim: 453 product area: 396949462
+up 8
+  depth: 283738 length: 1399 aim: 445 product area: 396949462
+up 6
+  depth: 283738 length: 1399 aim: 439 product area: 396949462
+forward 1
+  depth: 284177 length: 1400 aim: 439 product area: 397847800
+down 7
+  depth: 284177 length: 1400 aim: 446 product area: 397847800
+up 1
+  depth: 284177 length: 1400 aim: 445 product area: 397847800
+down 3
+  depth: 284177 length: 1400 aim: 448 product area: 397847800
+forward 2
+  depth: 285073 length: 1402 aim: 448 product area: 399672346
+forward 3
+  depth: 286417 length: 1405 aim: 448 product area: 402415885
+down 3
+  depth: 286417 length: 1405 aim: 451 product area: 402415885
+down 2
+  depth: 286417 length: 1405 aim: 453 product area: 402415885
+forward 3
+  depth: 287776 length: 1408 aim: 453 product area: 405188608
+down 7
+  depth: 287776 length: 1408 aim: 460 product area: 405188608
+forward 3
+  depth: 289156 length: 1411 aim: 460 product area: 407999116
+forward 7
+  depth: 292376 length: 1418 aim: 460 product area: 414589168
+forward 7
+  depth: 295596 length: 1425 aim: 460 product area: 421224300
+down 8
+  depth: 295596 length: 1425 aim: 468 product area: 421224300
+down 4
+  depth: 295596 length: 1425 aim: 472 product area: 421224300
+forward 3
+  depth: 297012 length: 1428 aim: 472 product area: 424133136
+forward 4
+  depth: 298900 length: 1432 aim: 472 product area: 428024800
+down 7
+  depth: 298900 length: 1432 aim: 479 product area: 428024800
+down 9
+  depth: 298900 length: 1432 aim: 488 product area: 428024800
+down 4
+  depth: 298900 length: 1432 aim: 492 product area: 428024800
+down 2
+  depth: 298900 length: 1432 aim: 494 product area: 428024800
+forward 7
+  depth: 302358 length: 1439 aim: 494 product area: 435093162
+up 8
+  depth: 302358 length: 1439 aim: 486 product area: 435093162
+down 4
+  depth: 302358 length: 1439 aim: 490 product area: 435093162
+down 3
+  depth: 302358 length: 1439 aim: 493 product area: 435093162
+forward 9
+  depth: 306795 length: 1448 aim: 493 product area: 444239160
+down 5
+  depth: 306795 length: 1448 aim: 498 product area: 444239160
+up 6
+  depth: 306795 length: 1448 aim: 492 product area: 444239160
+up 2
+  depth: 306795 length: 1448 aim: 490 product area: 444239160
+down 5
+  depth: 306795 length: 1448 aim: 495 product area: 444239160
+down 6
+  depth: 306795 length: 1448 aim: 501 product area: 444239160
+forward 2
+  depth: 307797 length: 1450 aim: 501 product area: 446305650
+forward 8
+  depth: 311805 length: 1458 aim: 501 product area: 454611690
+down 1
+  depth: 311805 length: 1458 aim: 502 product area: 454611690
+forward 6
+  depth: 314817 length: 1464 aim: 502 product area: 460892088
+up 7
+  depth: 314817 length: 1464 aim: 495 product area: 460892088
+down 6
+  depth: 314817 length: 1464 aim: 501 product area: 460892088
+forward 4
+  depth: 316821 length: 1468 aim: 501 product area: 465093228
+down 2
+  depth: 316821 length: 1468 aim: 503 product area: 465093228
+down 5
+  depth: 316821 length: 1468 aim: 508 product area: 465093228
+down 9
+  depth: 316821 length: 1468 aim: 517 product area: 465093228
+forward 7
+  depth: 320440 length: 1475 aim: 517 product area: 472649000
+up 4
+  depth: 320440 length: 1475 aim: 513 product area: 472649000
+forward 9
+  depth: 325057 length: 1484 aim: 513 product area: 482384588
+up 7
+  depth: 325057 length: 1484 aim: 506 product area: 482384588
+down 4
+  depth: 325057 length: 1484 aim: 510 product area: 482384588
+down 6
+  depth: 325057 length: 1484 aim: 516 product area: 482384588
+up 9
+  depth: 325057 length: 1484 aim: 507 product area: 482384588
+forward 1
+  depth: 325564 length: 1485 aim: 507 product area: 483462540
+up 7
+  depth: 325564 length: 1485 aim: 500 product area: 483462540
+down 5
+  depth: 325564 length: 1485 aim: 505 product area: 483462540
+forward 3
+  depth: 327079 length: 1488 aim: 505 product area: 486693552
+forward 3
+  depth: 328594 length: 1491 aim: 505 product area: 489933654
+down 7
+  depth: 328594 length: 1491 aim: 512 product area: 489933654
+down 1
+  depth: 328594 length: 1491 aim: 513 product area: 489933654
+down 7
+  depth: 328594 length: 1491 aim: 520 product area: 489933654
+down 7
+  depth: 328594 length: 1491 aim: 527 product area: 489933654
+down 1
+  depth: 328594 length: 1491 aim: 528 product area: 489933654
+forward 8
+  depth: 332818 length: 1499 aim: 528 product area: 498894182
+forward 9
+  depth: 337570 length: 1508 aim: 528 product area: 509055560
+forward 8
+  depth: 341794 length: 1516 aim: 528 product area: 518159704
+down 9
+  depth: 341794 length: 1516 aim: 537 product area: 518159704
+down 8
+  depth: 341794 length: 1516 aim: 545 product area: 518159704
+down 5
+  depth: 341794 length: 1516 aim: 550 product area: 518159704
+down 3
+  depth: 341794 length: 1516 aim: 553 product area: 518159704
+forward 4
+  depth: 344006 length: 1520 aim: 553 product area: 522889120
+forward 1
+  depth: 344559 length: 1521 aim: 553 product area: 524074239
+down 1
+  depth: 344559 length: 1521 aim: 554 product area: 524074239
+forward 1
+  depth: 345113 length: 1522 aim: 554 product area: 525261986
+down 7
+  depth: 345113 length: 1522 aim: 561 product area: 525261986
+forward 7
+  depth: 349040 length: 1529 aim: 561 product area: 533682160
+forward 3
+  depth: 350723 length: 1532 aim: 561 product area: 537307636
+down 8
+  depth: 350723 length: 1532 aim: 569 product area: 537307636
+forward 3
+  depth: 352430 length: 1535 aim: 569 product area: 540980050
+forward 9
+  depth: 357551 length: 1544 aim: 569 product area: 552058744
+forward 8
+  depth: 362103 length: 1552 aim: 569 product area: 561983856
+down 7
+  depth: 362103 length: 1552 aim: 576 product area: 561983856
+forward 8
+  depth: 366711 length: 1560 aim: 576 product area: 572069160
+down 2
+  depth: 366711 length: 1560 aim: 578 product area: 572069160
+up 5
+  depth: 366711 length: 1560 aim: 573 product area: 572069160
+forward 7
+  depth: 370722 length: 1567 aim: 573 product area: 580921374
+forward 4
+  depth: 373014 length: 1571 aim: 573 product area: 586004994
+down 2
+  depth: 373014 length: 1571 aim: 575 product area: 586004994
+up 6
+  depth: 373014 length: 1571 aim: 569 product area: 586004994
+up 8
+  depth: 373014 length: 1571 aim: 561 product area: 586004994
+forward 7
+  depth: 376941 length: 1578 aim: 561 product area: 594812898
+down 9
+  depth: 376941 length: 1578 aim: 570 product area: 594812898
+up 3
+  depth: 376941 length: 1578 aim: 567 product area: 594812898
+forward 4
+  depth: 379209 length: 1582 aim: 567 product area: 599908638
+up 9
+  depth: 379209 length: 1582 aim: 558 product area: 599908638
+up 5
+  depth: 379209 length: 1582 aim: 553 product area: 599908638
+up 5
+  depth: 379209 length: 1582 aim: 548 product area: 599908638
+up 6
+  depth: 379209 length: 1582 aim: 542 product area: 599908638
+down 4
+  depth: 379209 length: 1582 aim: 546 product area: 599908638
+down 5
+  depth: 379209 length: 1582 aim: 551 product area: 599908638
+up 5
+  depth: 379209 length: 1582 aim: 546 product area: 599908638
+forward 7
+  depth: 383031 length: 1589 aim: 546 product area: 608636259
+forward 6
+  depth: 386307 length: 1595 aim: 546 product area: 616159665
+down 4
+  depth: 386307 length: 1595 aim: 550 product area: 616159665
+forward 5
+  depth: 389057 length: 1600 aim: 550 product area: 622491200
+forward 4
+  depth: 391257 length: 1604 aim: 550 product area: 627576228
+up 7
+  depth: 391257 length: 1604 aim: 543 product area: 627576228
+forward 8
+  depth: 395601 length: 1612 aim: 543 product area: 637708812
+down 2
+  depth: 395601 length: 1612 aim: 545 product area: 637708812
+forward 1
+  depth: 396146 length: 1613 aim: 545 product area: 638983498
+down 9
+  depth: 396146 length: 1613 aim: 554 product area: 638983498
+down 8
+  depth: 396146 length: 1613 aim: 562 product area: 638983498
+forward 7
+  depth: 400080 length: 1620 aim: 562 product area: 648129600
+down 7
+  depth: 400080 length: 1620 aim: 569 product area: 648129600
+down 1
+  depth: 400080 length: 1620 aim: 570 product area: 648129600
+forward 9
+  depth: 405210 length: 1629 aim: 570 product area: 660087090
+down 7
+  depth: 405210 length: 1629 aim: 577 product area: 660087090
+forward 6
+  depth: 408672 length: 1635 aim: 577 product area: 668178720
+down 2
+  depth: 408672 length: 1635 aim: 579 product area: 668178720
+up 9
+  depth: 408672 length: 1635 aim: 570 product area: 668178720
+forward 1
+  depth: 409242 length: 1636 aim: 570 product area: 669519912
+up 9
+  depth: 409242 length: 1636 aim: 561 product area: 669519912
+down 3
+  depth: 409242 length: 1636 aim: 564 product area: 669519912
+up 9
+  depth: 409242 length: 1636 aim: 555 product area: 669519912
+down 1
+  depth: 409242 length: 1636 aim: 556 product area: 669519912
+forward 1
+  depth: 409798 length: 1637 aim: 556 product area: 670839326
+down 1
+  depth: 409798 length: 1637 aim: 557 product area: 670839326
+up 6
+  depth: 409798 length: 1637 aim: 551 product area: 670839326
+down 8
+  depth: 409798 length: 1637 aim: 559 product area: 670839326
+up 2
+  depth: 409798 length: 1637 aim: 557 product area: 670839326
+down 3
+  depth: 409798 length: 1637 aim: 560 product area: 670839326
+forward 1
+  depth: 410358 length: 1638 aim: 560 product area: 672166404
+down 4
+  depth: 410358 length: 1638 aim: 564 product area: 672166404
+up 5
+  depth: 410358 length: 1638 aim: 559 product area: 672166404
+down 5
+  depth: 410358 length: 1638 aim: 564 product area: 672166404
+down 4
+  depth: 410358 length: 1638 aim: 568 product area: 672166404
+forward 5
+  depth: 413198 length: 1643 aim: 568 product area: 678884314
+forward 4
+  depth: 415470 length: 1647 aim: 568 product area: 684279090
+down 9
+  depth: 415470 length: 1647 aim: 577 product area: 684279090
+up 7
+  depth: 415470 length: 1647 aim: 570 product area: 684279090
+down 7
+  depth: 415470 length: 1647 aim: 577 product area: 684279090
+forward 7
+  depth: 419509 length: 1654 aim: 577 product area: 693867886
+forward 6
+  depth: 422971 length: 1660 aim: 577 product area: 702131860
+forward 8
+  depth: 427587 length: 1668 aim: 577 product area: 713215116
+down 8
+  depth: 427587 length: 1668 aim: 585 product area: 713215116
+forward 8
+  depth: 432267 length: 1676 aim: 585 product area: 724479492
+down 1
+  depth: 432267 length: 1676 aim: 586 product area: 724479492
+down 1
+  depth: 432267 length: 1676 aim: 587 product area: 724479492
+down 8
+  depth: 432267 length: 1676 aim: 595 product area: 724479492
+down 2
+  depth: 432267 length: 1676 aim: 597 product area: 724479492
+up 2
+  depth: 432267 length: 1676 aim: 595 product area: 724479492
+up 1
+  depth: 432267 length: 1676 aim: 594 product area: 724479492
+forward 5
+  depth: 435237 length: 1681 aim: 594 product area: 731633397
+down 1
+  depth: 435237 length: 1681 aim: 595 product area: 731633397
+up 5
+  depth: 435237 length: 1681 aim: 590 product area: 731633397
+up 2
+  depth: 435237 length: 1681 aim: 588 product area: 731633397
+down 6
+  depth: 435237 length: 1681 aim: 594 product area: 731633397
+up 8
+  depth: 435237 length: 1681 aim: 586 product area: 731633397
+forward 5
+  depth: 438167 length: 1686 aim: 586 product area: 738749562
+down 8
+  depth: 438167 length: 1686 aim: 594 product area: 738749562
+down 1
+  depth: 438167 length: 1686 aim: 595 product area: 738749562
+up 5
+  depth: 438167 length: 1686 aim: 590 product area: 738749562
+down 1
+  depth: 438167 length: 1686 aim: 591 product area: 738749562
+forward 4
+  depth: 440531 length: 1690 aim: 591 product area: 744497390
+down 6
+  depth: 440531 length: 1690 aim: 597 product area: 744497390
+down 4
+  depth: 440531 length: 1690 aim: 601 product area: 744497390
+forward 2
+  depth: 441733 length: 1692 aim: 601 product area: 747412236
+forward 2
+  depth: 442935 length: 1694 aim: 601 product area: 750331890
+down 1
+  depth: 442935 length: 1694 aim: 602 product area: 750331890
+up 4
+  depth: 442935 length: 1694 aim: 598 product area: 750331890
+up 8
+  depth: 442935 length: 1694 aim: 590 product area: 750331890
+down 6
+  depth: 442935 length: 1694 aim: 596 product area: 750331890
+down 2
+  depth: 442935 length: 1694 aim: 598 product area: 750331890
+forward 5
+  depth: 445925 length: 1699 aim: 598 product area: 757626575
+forward 8
+  depth: 450709 length: 1707 aim: 598 product area: 769360263
+forward 7
+  depth: 454895 length: 1714 aim: 598 product area: 779690030
+down 5
+  depth: 454895 length: 1714 aim: 603 product area: 779690030
+down 7
+  depth: 454895 length: 1714 aim: 610 product area: 779690030
+down 3
+  depth: 454895 length: 1714 aim: 613 product area: 779690030
+forward 6
+  depth: 458573 length: 1720 aim: 613 product area: 788745560
+down 3
+  depth: 458573 length: 1720 aim: 616 product area: 788745560
+down 3
+  depth: 458573 length: 1720 aim: 619 product area: 788745560
+forward 6
+  depth: 462287 length: 1726 aim: 619 product area: 797907362
+forward 6
+  depth: 466001 length: 1732 aim: 619 product area: 807113732
+forward 6
+  depth: 469715 length: 1738 aim: 619 product area: 816364670
+up 7
+  depth: 469715 length: 1738 aim: 612 product area: 816364670
+forward 1
+  depth: 470327 length: 1739 aim: 612 product area: 817898653
+down 5
+  depth: 470327 length: 1739 aim: 617 product area: 817898653
+down 2
+  depth: 470327 length: 1739 aim: 619 product area: 817898653
+up 8
+  depth: 470327 length: 1739 aim: 611 product area: 817898653
+forward 6
+  depth: 473993 length: 1745 aim: 611 product area: 827117785
+down 7
+  depth: 473993 length: 1745 aim: 618 product area: 827117785
+down 6
+  depth: 473993 length: 1745 aim: 624 product area: 827117785
+forward 1
+  depth: 474617 length: 1746 aim: 624 product area: 828681282
+up 5
+  depth: 474617 length: 1746 aim: 619 product area: 828681282
+down 4
+  depth: 474617 length: 1746 aim: 623 product area: 828681282
+up 9
+  depth: 474617 length: 1746 aim: 614 product area: 828681282
+forward 3
+  depth: 476459 length: 1749 aim: 614 product area: 833326791
+up 3
+  depth: 476459 length: 1749 aim: 611 product area: 833326791
+forward 9
+  depth: 481958 length: 1758 aim: 611 product area: 847282164
+forward 9
+  depth: 487457 length: 1767 aim: 611 product area: 861336519
+forward 7
+  depth: 491734 length: 1774 aim: 611 product area: 872336116
+forward 5
+  depth: 494789 length: 1779 aim: 611 product area: 880229631
+down 9
+  depth: 494789 length: 1779 aim: 620 product area: 880229631
+forward 1
+  depth: 495409 length: 1780 aim: 620 product area: 881828020
+forward 6
+  depth: 499129 length: 1786 aim: 620 product area: 891444394
+up 8
+  depth: 499129 length: 1786 aim: 612 product area: 891444394
+down 7
+  depth: 499129 length: 1786 aim: 619 product area: 891444394
+forward 9
+  depth: 504700 length: 1795 aim: 619 product area: 905936500
+forward 5
+  depth: 507795 length: 1800 aim: 619 product area: 914031000
+up 4
+  depth: 507795 length: 1800 aim: 615 product area: 914031000
+down 8
+  depth: 507795 length: 1800 aim: 623 product area: 914031000
+forward 8
+  depth: 512779 length: 1808 aim: 623 product area: 927104432
+forward 4
+  depth: 515271 length: 1812 aim: 623 product area: 933671052
+down 9
+  depth: 515271 length: 1812 aim: 632 product area: 933671052
+up 2
+  depth: 515271 length: 1812 aim: 630 product area: 933671052
+forward 5
+  depth: 518421 length: 1817 aim: 630 product area: 941970957
+forward 8
+  depth: 523461 length: 1825 aim: 630 product area: 955316325
+down 8
+  depth: 523461 length: 1825 aim: 638 product area: 955316325
+down 9
+  depth: 523461 length: 1825 aim: 647 product area: 955316325
+down 9
+  depth: 523461 length: 1825 aim: 656 product area: 955316325
+forward 4
+  depth: 526085 length: 1829 aim: 656 product area: 962209465
+forward 8
+  depth: 531333 length: 1837 aim: 656 product area: 976058721
+down 5
+  depth: 531333 length: 1837 aim: 661 product area: 976058721
+down 5
+  depth: 531333 length: 1837 aim: 666 product area: 976058721
+forward 5
+  depth: 534663 length: 1842 aim: 666 product area: 984849246
+forward 5
+  depth: 537993 length: 1847 aim: 666 product area: 993673071
+up 9
+  depth: 537993 length: 1847 aim: 657 product area: 993673071
+up 7
+  depth: 537993 length: 1847 aim: 650 product area: 993673071
+forward 3
+  depth: 539943 length: 1850 aim: 650 product area: 998894550
+up 4
+  depth: 539943 length: 1850 aim: 646 product area: 998894550
+down 8
+  depth: 539943 length: 1850 aim: 654 product area: 998894550
+up 6
+  depth: 539943 length: 1850 aim: 648 product area: 998894550
+up 6
+  depth: 539943 length: 1850 aim: 642 product area: 998894550
+down 4
+  depth: 539943 length: 1850 aim: 646 product area: 998894550
+down 3
+  depth: 539943 length: 1850 aim: 649 product area: 998894550
+forward 2
+  depth: 541241 length: 1852 aim: 649 product area: 1002378332
+forward 9
+  depth: 547082 length: 1861 aim: 649 product area: 1018119602
+down 4
+  depth: 547082 length: 1861 aim: 653 product area: 1018119602
+down 2
+  depth: 547082 length: 1861 aim: 655 product area: 1018119602
+forward 4
+  depth: 549702 length: 1865 aim: 655 product area: 1025194230
+up 9
+  depth: 549702 length: 1865 aim: 646 product area: 1025194230
+forward 1
+  depth: 550348 length: 1866 aim: 646 product area: 1026949368
+down 8
+  depth: 550348 length: 1866 aim: 654 product area: 1026949368
+down 9
+  depth: 550348 length: 1866 aim: 663 product area: 1026949368
+down 9
+  depth: 550348 length: 1866 aim: 672 product area: 1026949368
+down 3
+  depth: 550348 length: 1866 aim: 675 product area: 1026949368
+forward 1
+  depth: 551023 length: 1867 aim: 675 product area: 1028759941
+down 5
+  depth: 551023 length: 1867 aim: 680 product area: 1028759941
+up 9
+  depth: 551023 length: 1867 aim: 671 product area: 1028759941
+forward 6
+  depth: 555049 length: 1873 aim: 671 product area: 1039606777
+up 4
+  depth: 555049 length: 1873 aim: 667 product area: 1039606777
+forward 2
+  depth: 556383 length: 1875 aim: 667 product area: 1043218125
+forward 2
+  depth: 557717 length: 1877 aim: 667 product area: 1046834809
+forward 4
+  depth: 560385 length: 1881 aim: 667 product area: 1054084185
+down 9
+  depth: 560385 length: 1881 aim: 676 product area: 1054084185
+up 5
+  depth: 560385 length: 1881 aim: 671 product area: 1054084185
+up 1
+  depth: 560385 length: 1881 aim: 670 product area: 1054084185
+down 6
+  depth: 560385 length: 1881 aim: 676 product area: 1054084185
+forward 7
+  depth: 565117 length: 1888 aim: 676 product area: 1066940896
+down 8
+  depth: 565117 length: 1888 aim: 684 product area: 1066940896
+forward 4
+  depth: 567853 length: 1892 aim: 684 product area: 1074377876
+forward 9
+  depth: 574009 length: 1901 aim: 684 product area: 1091191109
+up 9
+  depth: 574009 length: 1901 aim: 675 product area: 1091191109
+up 4
+  depth: 574009 length: 1901 aim: 671 product area: 1091191109
+down 5
+  depth: 574009 length: 1901 aim: 676 product area: 1091191109
+down 3
+  depth: 574009 length: 1901 aim: 679 product area: 1091191109
+forward 2
+  depth: 575367 length: 1903 aim: 679 product area: 1094923401
+down 8
+  depth: 575367 length: 1903 aim: 687 product area: 1094923401
+down 6
+  depth: 575367 length: 1903 aim: 693 product area: 1094923401
+forward 3
+  depth: 577446 length: 1906 aim: 693 product area: 1100612076
+down 2
+  depth: 577446 length: 1906 aim: 695 product area: 1100612076
+forward 6
+  depth: 581616 length: 1912 aim: 695 product area: 1112049792
+up 2
+  depth: 581616 length: 1912 aim: 693 product area: 1112049792
+forward 6
+  depth: 585774 length: 1918 aim: 693 product area: 1123514532
+down 7
+  depth: 585774 length: 1918 aim: 700 product area: 1123514532
+up 4
+  depth: 585774 length: 1918 aim: 696 product area: 1123514532
+forward 1
+  depth: 586470 length: 1919 aim: 696 product area: 1125435930
+forward 4
+  depth: 589254 length: 1923 aim: 696 product area: 1133135442
+up 4
+  depth: 589254 length: 1923 aim: 692 product area: 1133135442
+forward 6
+  depth: 593406 length: 1929 aim: 692 product area: 1144680174
+forward 8
+  depth: 598942 length: 1937 aim: 692 product area: 1160150654
+down 7
+  depth: 598942 length: 1937 aim: 699 product area: 1160150654
+down 6
+  depth: 598942 length: 1937 aim: 705 product area: 1160150654
+up 7
+  depth: 598942 length: 1937 aim: 698 product area: 1160150654
+down 2
+  depth: 598942 length: 1937 aim: 700 product area: 1160150654
+down 4
+  depth: 598942 length: 1937 aim: 704 product area: 1160150654
+down 5
+  depth: 598942 length: 1937 aim: 709 product area: 1160150654
+forward 1
+  depth: 599651 length: 1938 aim: 709 product area: 1162123638
+up 4
+  depth: 599651 length: 1938 aim: 705 product area: 1162123638
+forward 8
+  depth: 605291 length: 1946 aim: 705 product area: 1177896286
+forward 6
+  depth: 609521 length: 1952 aim: 705 product area: 1189784992
+down 8
+  depth: 609521 length: 1952 aim: 713 product area: 1189784992
+up 5
+  depth: 609521 length: 1952 aim: 708 product area: 1189784992
+up 2
+  depth: 609521 length: 1952 aim: 706 product area: 1189784992
+up 9
+  depth: 609521 length: 1952 aim: 697 product area: 1189784992
+up 5
+  depth: 609521 length: 1952 aim: 692 product area: 1189784992
+forward 6
+  depth: 613673 length: 1958 aim: 692 product area: 1201571734
+down 4
+  depth: 613673 length: 1958 aim: 696 product area: 1201571734
+up 3
+  depth: 613673 length: 1958 aim: 693 product area: 1201571734
+down 8
+  depth: 613673 length: 1958 aim: 701 product area: 1201571734
+down 6
+  depth: 613673 length: 1958 aim: 707 product area: 1201571734
+down 2
+  depth: 613673 length: 1958 aim: 709 product area: 1201571734
+up 3
+  depth: 613673 length: 1958 aim: 706 product area: 1201571734
+up 5
+  depth: 613673 length: 1958 aim: 701 product area: 1201571734
+down 1
+  depth: 613673 length: 1958 aim: 702 product area: 1201571734
+forward 9
+  depth: 619991 length: 1967 aim: 702 product area: 1219522297
+up 8
+  depth: 619991 length: 1967 aim: 694 product area: 1219522297
+up 2
+  depth: 619991 length: 1967 aim: 692 product area: 1219522297
+down 3
+  depth: 619991 length: 1967 aim: 695 product area: 1219522297
+forward 6
+  depth: 624161 length: 1973 aim: 695 product area: 1231469653
+down 1
+  depth: 624161 length: 1973 aim: 696 product area: 1231469653
+forward 5
+  depth: 627641 length: 1978 aim: 696 product area: 1241473898
+down 3
+  depth: 627641 length: 1978 aim: 699 product area: 1241473898
+up 1
+  depth: 627641 length: 1978 aim: 698 product area: 1241473898
+up 2
+  depth: 627641 length: 1978 aim: 696 product area: 1241473898
+down 5
+  depth: 627641 length: 1978 aim: 701 product area: 1241473898
+down 7
+  depth: 627641 length: 1978 aim: 708 product area: 1241473898
+forward 8
+  depth: 633305 length: 1986 aim: 708 product area: 1257743730
+down 8
+  depth: 633305 length: 1986 aim: 716 product area: 1257743730
+up 9
+  depth: 633305 length: 1986 aim: 707 product area: 1257743730
+forward 3
+  depth: 635426 length: 1989 aim: 707 product area: 1263862314
+down 8
+  depth: 635426 length: 1989 aim: 715 product area: 1263862314
+down 8
+  depth: 635426 length: 1989 aim: 723 product area: 1263862314
+forward 1
+  depth: 636149 length: 1990 aim: 723 product area: 1265936510
+down 4
+  depth: 636149 length: 1990 aim: 727 product area: 1265936510
+down 4
+  depth: 636149 length: 1990 aim: 731 product area: 1265936510
+forward 3
+  depth: 638342 length: 1993 aim: 731 product area: 1272215606
+up 6
+  depth: 638342 length: 1993 aim: 725 product area: 1272215606
+down 3
+  depth: 638342 length: 1993 aim: 728 product area: 1272215606
+down 7
+  depth: 638342 length: 1993 aim: 735 product area: 1272215606
+down 7
+  depth: 638342 length: 1993 aim: 742 product area: 1272215606
+up 1
+  depth: 638342 length: 1993 aim: 741 product area: 1272215606
+forward 3
+  depth: 640565 length: 1996 aim: 741 product area: 1278567740
+forward 2
+  depth: 642047 length: 1998 aim: 741 product area: 1282809906
+Final depth: 642047 length: 1998 aim: 741 product area: 1282809906
