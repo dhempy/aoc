@@ -1,6 +1,6 @@
 #! /usr/local/bin/python3
-filename = "tiny_power.txt"
-# filename = "power.txt"
+# filename = "tiny_power.txt"
+filename = "power.txt"
 
 def count_ones(list, bit_count):
   # Count of how many (1) bits are in each column (binary position)
@@ -8,14 +8,14 @@ def count_ones(list, bit_count):
   ones = [0] * bit_count
 
   for binary in list:
-    print(f"\nReading: {binary}")
+    # print(f"\nReading: {binary}")
     for index, bit in enumerate(binary):
-      print(f"{index}: {bit}")
+      # print(f"{index}: {bit}")
       if bit == '1':
-        print("Anohter one!")
+        # print("Anohter one!")
         ones[index] += 1
 
-    print(ones)
+    # print(ones)
 
   return ones
 
@@ -55,7 +55,7 @@ def life_support_report(all_readings):
 
   oxygen_list = list(all_readings)
   for column in range(bit_count):
-    oxygen_list = comb(oxygen_list, column, 'o2')
+    oxygen_list = comb(oxygen_list, column, 'most_common')
     if len(oxygen_list) <= 1:
       break
 
@@ -65,7 +65,7 @@ def life_support_report(all_readings):
 
   co2_list = list(all_readings)
   for column in range(bit_count):
-    co2_list = comb(co2_list, column, 'co2')
+    co2_list = comb(co2_list, column, 'least_common')
     if len(co2_list) <= 1:
       break
 
@@ -91,32 +91,30 @@ def life_support_report(all_readings):
 # If 0 and 1 are equally common, keep values with a 1 in the
 # position being considered.
 
-def build_matchers(list):
-  most_common = []
-  least_common = []
-  threshold = int(len(list) / 2)
-
-  for value in list:
-    if value >= threshold:
-      print(f"is {value} >= {threshold}? Yes.")
-      most_common.append('1')
-      least_common.append('0')
-    else:
-      print(f"is {value} >= {threshold}? No.")
-      most_common.append('0')
-      least_common.append('1')
-
-  return most_common, least_common
-
-def comb(input_list, column, match):
-  [o2_match_list, co2_match_list] = build_matchers(input_list)
-  if match == 'o2':
-    match_list = o2_match_list
+def matcher(ones, column, line_count, match_type):
+  half = line_count / 2 # Okay if this is a half-step float value.
+  # print(f"matcher({ones}, {column}, {line_count}, {match_type})... half={half}")
+  if ones[column] >= half:
+    # print(f"is {ones[column]} >= {half}? Yes.")
+    return '1' if match_type == 'most_common' else '0'
   else:
-    match_list = co2_match_list
-  print(f"comb({input_list}, {column}, {match_list})")
+    # print(f"is {ones[column]} >= {half}? No.")
+    return '0' if match_type == 'most_common' else '1'
+
+def comb(input_list, column, match_type):
+  line_count = len(input_list)
+  bit_count = len(input_list[0])
+  ones = count_ones(input_list, bit_count)
+
+  match_val = matcher(ones, column, line_count, match_type)
+  # [o2_match_list, co2_match_list] = build_matchers(input_list)
+  # if match_type == 'most_common':
+  #   match_list = o2_match_list
+  # else:
+  #   match_list = co2_match_list
+  # print(f"comb({input_list}, {column}, match_val:{match_val})")
   # return [val for val in input_list if val[column] == match_list[column]]
-  new_list = [val for val in input_list if val[column] == match_list[column]]
+  new_list = [val for val in input_list if val[column] == match_val]
 
   # new_list = []
   # for val in input_list:
@@ -128,7 +126,7 @@ def comb(input_list, column, match):
   #   else:
   #     print("no match!")
 
-  print(f"combed list:{new_list} ")
+  # print(f"combed list:{new_list} ")
   return new_list
 
 
@@ -139,14 +137,12 @@ def slurp_file(filename):
 
   line_count = len(all_readings)
   bit_count = len(all_readings[0])
-
   print(f"{line_count} readings found.")
   print(f"Readings have {bit_count} bits.")
 
-  for reading in all_readings:
-    print(reading)
-  print()
-
+  # for reading in all_readings:
+  #   print(reading)
+  # print()
   return all_readings
 
 def main():
