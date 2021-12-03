@@ -9,22 +9,22 @@ line_num = 0
 bit_count = -1
 
 for power in file:
-  # print(power.rstrip())
+  print(power.rstrip())
   lines += 1
 
   if bit_count < 0:
     bit_count = len(power)-1
-    # print(f"Initialize array to {bit_count} items.")
+    print(f"Initialize array to {bit_count} items.")
     ones = [0] * bit_count
-    # print(ones)
+    print(ones)
 
   for index, bit in enumerate(power):
-    # print(f"{index}: {bit}")
+    print(f"{index}: {bit}")
     if bit == '1':
-      # print("increment")
+      print("increment")
       ones[index] += 1
 
-    # print(ones)
+    print(ones)
 
 gamma_rate = 0
 epsilon_rate = 0
