@@ -12,8 +12,8 @@ line_num = 0
 sample_size = 3
 
 for depth in file:
-  print(depth.rstrip())
   depth = int(depth)
+  print(depth)
 
   # Single readings:
   if depth > prev and prev > 0:
