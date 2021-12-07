@@ -105,28 +105,11 @@ def comb(input_list, column, match_type):
   line_count = len(input_list)
   bit_count = len(input_list[0])
   ones = count_ones(input_list, bit_count)
-
   match_val = matcher(ones, column, line_count, match_type)
-  # [o2_match_list, co2_match_list] = build_matchers(input_list)
-  # if match_type == 'most_common':
-  #   match_list = o2_match_list
-  # else:
-  #   match_list = co2_match_list
-  # print(f"comb({input_list}, {column}, match_val:{match_val})")
-  # return [val for val in input_list if val[column] == match_list[column]]
+
+  print(f"comb({input_list}, {column}, match_val:{match_val})")
   new_list = [val for val in input_list if val[column] == match_val]
-
-  # new_list = []
-  # for val in input_list:
-  #   print(f"val:{val} column:{column}...")
-  #   print(f"val:{val} column:{column} val[{column}]:{val[column]} match_list[{column}]:{match_list[column]}")
-  #   if val[column] == match_list[column]:
-  #     print("Adding value!")
-  #     new_list.append(val)
-  #   else:
-  #     print("no match!")
-
-  # print(f"combed list:{new_list} ")
+  print(f"combed list:{new_list} ")
   return new_list
 
 
