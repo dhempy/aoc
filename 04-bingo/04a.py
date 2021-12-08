@@ -1,37 +1,53 @@
 #! /usr/local/bin/python3
-# filename = "input-test.txt"
-filename = "input-solo.txt"
+filename = "input-test.txt"
+# filename = "input-solo.txt"
 # filename = "input.txt"
+
+debug = False
+debug = True
 
 def find_winner(draws, boards):
   for draw in draws:
     for board in boards:
-      if board.play_wins(draw): return board
+      if board.play(draw): return board
   return None
+
+def log(m):
+  if debug: print(m)
 
 class Board:
   def __init__(self, name, lines):
-    print(f"Board.init({name}, {lines})...")
+    log(f"Board.init({name}, {lines})...")
     self.name = name
     self.lines = lines
+    self.last_hit = 0
 
   def dump(self):
-    print(f"Board {self.name}: score={self.score()}")
+    if not debug: return
+
+    log(f"Board {self.name}: last_hit:{self.last_hit} score={self.score()}")
     for line in self.lines:
-      print(f"  {line}")
+      log(f"  {line}")
 
   def score(self):
-    return 987654321
+    return self.last_hit * sum(sum(self.lines[0:5], [])) # only the rows, not the (redundant) columns
+
+  def summary(self):
+    return f"Board {self.name}: score={self.score()}"
+
 
   # plays a number (draw) on the board.
   # returns true if that draw was a winner.
-  def play_wins(self, draw):
-    print(f"Play {draw} on board {self.name}: ")
-    self.dump()
+  def play(self, draw):
+    if debug:
+      log(f"Play {draw} on board {self.name}: ")
+      self.dump()
+
     winner = False
     for line in self.lines:
       if draw in line:
         line.remove(draw)
+        self.last_hit = draw
         if not line: winner = True # but still need to remove draw from the other line.
     return winner
 
@@ -39,38 +55,37 @@ def slurp(filename):
   file = open(filename)
   draws = [int(i) for i in file.readline().split(',')]
   file.readline()
-  # print(f"draws: {draws}")
+  # log(f"draws: {draws}")
 
   boards = []
   index = 0
   for grid in file.read().split('\n\n'):
-    # print(f"grid: \n{grid}\n")
+    # log(f"grid: \n{grid}\n")
     string = ' '.join(grid.split('\n'))
-    # print(f"string: {string}\n")
+    # log(f"string: {string}\n")
     flat = [int(i) for i in string.split()]
-    # print(f"flat: {flat}\n")
+    # log(f"flat: {flat}\n")
     rows = [flat[start:start+5] for start in range(0, 25, 5)]
-    # print(f"rows: {rows}\n")
+    # log(f"rows: {rows}\n")
     cols = [flat[start::5] for start in range(0, 5)]
-    # print(f"cols: {cols}\n")
+    # log(f"cols: {cols}\n")
     lines = rows + cols
-    # print(f"lines: {lines}\n")
+    # log(f"lines: {lines}\n")
     boards.append(Board(index, lines))
     index += 1
 
+  [board.dump() for board in boards]
   return draws, boards
 
 def main():
   draws, boards = slurp(filename)
-  [board.dump() for board in boards]
-
   winner = find_winner(draws, boards)
 
-  print(f"The winning board:")
   winner.dump()
-  print(f"The winning board is {winner}, with a score of {score}")
-  assert winner.score == 4512, "NOPE! Winning score should be 4512"
-  # life_support_report(boards)
+
+  print(f"\nThe winning board: ")
+  print(winner.summary())
+  # assert winner.score == 4512, "NOPE! Winning score should be 4512"
 
 main()
 
