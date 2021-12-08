@@ -11,62 +11,6 @@ debug = True
 def log(m):
   if debug: print(m)
 
-class Board:
-  def __init__(self, name, lines):
-    log(f"Board.init({name}, {lines})...")
-    self.name = name
-    self.lines = lines
-    self.last_hit = 0
-
-  def summary(self):
-    return f"Board {self.name}: score={self.score()}"
-
-  def dump(self):
-    if not debug: return
-
-    log(f"Board {self.name}: last_hit:{self.last_hit} score={self.score()}")
-    for line in self.lines:
-      log(f"  {line}")
-
-
-
-def slurp(filename):
-  file = open(filename)
-  draws = [int(i) for i in file.readline().split(',')]
-  file.readline()
-  # log(f"draws: {draws}")
-
-  boards = []
-  index = 0
-  for grid in file.read().split('\n\n'):
-    # log(f"grid: \n{grid}\n")
-    string = ' '.join(grid.split('\n'))
-    # log(f"string: {string}\n")
-    flat = [int(i) for i in string.split()]
-    # log(f"flat: {flat}\n")
-    rows = [flat[start:start+5] for start in range(0, 25, 5)]
-    # log(f"rows: {rows}\n")
-    cols = [flat[start::5] for start in range(0, 5)]
-    # log(f"cols: {cols}\n")
-    lines = rows + cols
-    # log(f"lines: {lines}\n")
-    boards.append(Board(index, lines))
-    index += 1
-
-  [board.dump() for board in boards]
-  return draws, boards
-
-def parse(line):
-  log(f"decode: {line}")
-  raw_clues, raw_display = line.split('|')
-  log(f"raw_clues: {raw_clues}")
-  log(f"raw_display: {raw_display}")
-  clues = [c for c in raw_clues.split()]
-  log(f"clues: {clues}")
-  display = [d for d in raw_display.split()]
-  log(f"display: {display}")
-  return clues, display
-
 def digits_with_length(clues, length):
   matches = [clue for clue in clues if len(clue) == length]
   log(f"digits_with_length({clues}, {length}) => {matches} ")
@@ -163,10 +107,24 @@ def solve(clues):
   log(f"key: {key}")
   return key
 
+def evalute(key, display):
+  return 9999
+
+def parse(line):
+  log(f"decode: {line}")
+  raw_clues, raw_display = line.split('|')
+  log(f"raw_clues: {raw_clues}")
+  log(f"raw_display: {raw_display}")
+  clues = [c for c in raw_clues.split()]
+  log(f"clues: {clues}")
+  display = [d for d in raw_display.split()]
+  log(f"display: {display}")
+  return clues, display
+
 def decode(line):
   clues, display = parse(line)
   key = solve(clues)
-  return 1
+  return evalute(key, display)
 
 def main():
   total = 0
