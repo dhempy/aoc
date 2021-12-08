@@ -33,9 +33,26 @@ def digits_without(digits, c):
   return matches
 
 def digits_with(digits, c):
+  log(f"digits_with({digits}, {c}) ")
   matches = [digit for digit in digits if c in digit]
   log(f"digits_with({digits}, {c})  => {matches}")
   return matches
+
+def has_both(clues, segments, a, b):
+  log(f"has_both({clues}, {segments}, {a}, {b}) ")
+  log(f" a: {segments[a]}")
+  log(f" b: {segments[b]}")
+  matches = set(digits_with(clues, segments[a])).intersection(set(digits_with(clues, segments[b])))
+  log(f"has_both({clues}, {segments}, {segments[a]}, {segments[b]}) => {matches} <<<<<<<<<< ")
+  return matches
+
+def has_not(clues, segments, a):
+  log(f"has_not({clues}, {segments}, {a}) ")
+  log(f" a: {segments[a]}")
+  matches = set(clues) - set(digits_with(clues, segments[a]))
+  log(f"has_not({clues}, {segments}, {segments[a]}) => {matches} <<<<<<<<<< ")
+  return matches
+
 
 def solve(clues):
   seg_count = Counter()
@@ -71,37 +88,39 @@ def solve(clues):
   # now the tricky ones:
   segments[0] = difference(digits[7], digits[1])
   segments[2] = (set(segment_by_count[8]) - set([segments[0]])).pop()
-  segments[6] = set(segment_by_count[7]) - segments_not_in(digits[4])
-  segments[3] = set(segment_by_count[7]) - set(segments[6])
+  segments[6] = (set(segment_by_count[7]) - segments_not_in(digits[4])).pop()
+  segments[3] = (set(segment_by_count[7]) - set(segments[6])).pop()
 
-  digits[2] = digits_without(clues, segments[5])[0]
+  # digits[2] = digits_without(clues, segments[5])[0]
+  # print(f"digits[2]: {digits[2]}")
 
-  two_and_five = set(digits_with(clues, segments[2])).intersection(set(digits_with(clues, segments[5])))
-  log(f"two_and_five: {two_and_five}")
+  # digits[3] = set(digits_with_length(clues, 5)).intersection(has_both(clues, segments, 2, 5)).pop()
+  # print(f"digits[3]: {digits[3]}")
 
-  digits[3] = set(digits_with_length(clues, 5)
-                ).intersection(
-                  two_and_five
-                ).pop()
+  # digits[5] = (set(digits_with_length(clues, 5)) - set([digits[2], digits[3]])).pop()
+  # print(f"digits[5]: {digits[5]}")
 
-  todo text: digits[5]
-  todo text: digits[5]
-  todo text: digits[5]
-  todo text: digits[5]
-  todo text: digits[5]
+  # digits[6] = set(digits_with_length(clues, 6)).intersection(has_both(clues, segments, 3, 4)).pop()
+  # print(f"digits[6]: {digits[6]}")
+  # digits[9] = set(digits_with_length(clues, 6)).intersection(has_both(clues, segments, 2, 3)).pop()
+  # print(f"digits[9]: {digits[9]}")
+
+  # digits[0] = set(digits_with_length(clues, 6)).intersection(has_both(clues, segments, 3)).pop()
+  # print(f"digits[0]: {digits[0]}")
+  #   shows:  has_both(['abcdefg', 'bcdef', 'acdfg', 'abcdf', 'abd', 'abcdef', 'bcdefg', 'abef', 'abcdeg', 'ab'], {1: 'e', 4: 'g', 5: 'b', 0: 'd', 2: 'a', 6: 'f', 3: 'c'}, a, g) => {'acdfg', 'abcdeg', 'abcdefg'} <<<<<<<<<<
+  #           digits[0]: abcdeg
+
+  digits[0] = set(digits_with_length(clues, 6)).intersection(has_not(clues, segments, 3)).pop()
+  print(f"digits[0]: {digits[0]}")
+
 
   log(f"digits[3]: {digits[3]}")
-
-  segments[2] = segments[2]
-  segments[6] = segments[6].pop()
-  segments[3] = segments[3].pop()
 
   log(f"segments: {segments}")
   # log(f"segments resolved: {sorted(segments)}")
 
   wires = { wire: segment for segment, wire in segments.items() }
   log(f"wires: {wires}")
-  log(f"wires['c'] : {wires['c'] }")
 
   log(f"digits: {digits}")
   key = { s: n for n, s in digits.items() }
@@ -116,9 +135,9 @@ def parse(line):
   raw_clues, raw_display = line.split('|')
   log(f"raw_clues: {raw_clues}")
   log(f"raw_display: {raw_display}")
-  clues = [c for c in raw_clues.split()]
+  clues = [''.join(sorted(c)) for c in raw_clues.split()]
   log(f"clues: {clues}")
-  display = [d for d in raw_display.split()]
+  display = [''.join(sorted(d)) for d in raw_display.split()]
   log(f"display: {display}")
   return clues, display
 
@@ -134,7 +153,7 @@ def main():
     total += decode(line)
 
   print(f"\nTotal: {total}")
-  # assert total == 4512, "NOPE! the total should be 61229"
+  # assert total == 61229, "NOPE! the total should be 61229"
 
 main()
 
