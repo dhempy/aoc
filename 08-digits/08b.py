@@ -57,21 +57,22 @@ def solve(clues):
   segments = {}
   digits = {}
 
-  segments[1] = segment_by_count[6][0]
-  segments[4] = segment_by_count[4][0]
-  segments[5] = segment_by_count[9][0]
-
+  # easy ones by length:
   digits[1] = digits_with_length(clues, 2)[0]
   digits[7] = digits_with_length(clues, 3)[0]
   digits[4] = digits_with_length(clues, 4)[0]
   digits[8] = digits_with_length(clues, 7)[0]
 
+  # easy segments by count:
+  segments[1] = segment_by_count[6][0]
+  segments[4] = segment_by_count[4][0]
+  segments[5] = segment_by_count[9][0]
+
+  # now the tricky ones:
   segments[0] = difference(digits[7], digits[1])
   segments[2] = (set(segment_by_count[8]) - set([segments[0]])).pop()
   segments[6] = set(segment_by_count[7]) - segments_not_in(digits[4])
   segments[3] = set(segment_by_count[7]) - set(segments[6])
-  # segments[0] = segment_by_count[8]
-  # segments[2] = segment_by_count[8]
 
   digits[2] = digits_without(clues, segments[5])[0]
 
