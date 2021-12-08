@@ -107,7 +107,7 @@ def comb(input_list, column, match_type):
   ones = count_ones(input_list, bit_count)
   match_val = matcher(ones, column, line_count, match_type)
 
-  print(f"comb({input_list}, {column}, match_val:{match_val})")
+  # print(f"comb({input_list}, {column}, match_val:{match_val})")
   new_list = [val for val in input_list if val[column] == match_val]
   print(f"combed list:{new_list} ")
   return new_list
