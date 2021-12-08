@@ -12,7 +12,7 @@ def count_ones(list, bit_count):
     for index, bit in enumerate(binary):
       # print(f"{index}: {bit}")
       if bit == '1':
-        # print("Anohter one!")
+        # print("Another one!")
         ones[index] += 1
 
     # print(ones)
