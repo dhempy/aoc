@@ -7,8 +7,8 @@
 # turn them off for now.
 # Like: Game of life. Matrix math.
 
-filename = "input-test.txt"
-# filename = "input-solo.txt"
+# filename = "input-test.txt"
+filename = "input-solo.txt"
 # filename = "input.txt"
 
 import math
@@ -21,14 +21,26 @@ def log(m):
 class Octopus:
   def __init__(self, board, pos, power):
     log(f"Board.init({filename}")
+    self.board = board
     self.pos = pos
     self.power = power
     self.row = int(pos/board.size)
     self.col = pos - self.row * board.size
-    self.dump()
+    self.neighbors = []
+    # self.dump()
+
+  def init_neighbors(self):
+    log("\n init_neighbors... ")
+    for r in range(-1,2):
+      for c in range(-1,2):
+        row = self.row + r
+        col = self.col + c
+        if (r != 0 or c != 0) and row >= 0 and col >= 0 and row < self.board.size and col < self.board.size:
+          self.neighbors.append(row * self.board.size + col)
 
   def dump(self):
     log(f"  Octopus: {self.pos} at {self.row},{self.col} with power {self.power}")
+    log(f"           {self.neighbors}")
 
 class Board:
   def __init__(self, filename):
@@ -43,10 +55,17 @@ class Board:
     for pos, power in enumerate(self.flat):
       print(f"power:{power} pos:{pos} ({type(pos)})")
       octopii.append(Octopus(self, pos, power))
+    for o in octopii:
+      o.init_neighbors()
+      o.dump()
 
   def slurp(self):
     file = open(self.filename)
-    self.flat = ''.join(file.read().split())
+    raw = file.read()
+    log(raw)
+    grid = raw.split()
+    log(grid)
+    self.flat = ''.join(grid)
     log(f"flat: {self.flat}")
 
 
@@ -69,7 +88,7 @@ def main():
   board = Board(filename)
   board.dump()
 
-  for day in range(100):
+  for day in range(5):
     board.advance()
 
   print(f"\nNumber of flashes: ")
