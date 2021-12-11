@@ -1,0 +1,163 @@
+Board.init(input-chain.txt)
+987
+777
+888
+['987', '777', '888']
+flat: 987777888
+power:9 pos:0 (<class 'int'>)
+Board.init(input-chain.txt
+power:8 pos:1 (<class 'int'>)
+Board.init(input-chain.txt
+power:7 pos:2 (<class 'int'>)
+Board.init(input-chain.txt
+power:7 pos:3 (<class 'int'>)
+Board.init(input-chain.txt
+power:7 pos:4 (<class 'int'>)
+Board.init(input-chain.txt
+power:7 pos:5 (<class 'int'>)
+Board.init(input-chain.txt
+power:8 pos:6 (<class 'int'>)
+Board.init(input-chain.txt
+power:8 pos:7 (<class 'int'>)
+Board.init(input-chain.txt
+power:8 pos:8 (<class 'int'>)
+Board.init(input-chain.txt
+
+ init_neighbors... 
+  Octopus: 0 at 0,0 with power 9
+           [<__main__.Octopus object at 0x1089e77f0>, <__main__.Octopus object at 0x1089e7730>, <__main__.Octopus object at 0x1089e7700>]
+
+ init_neighbors... 
+  Octopus: 1 at 0,1 with power 8
+           [<__main__.Octopus object at 0x1089e8fd0>, <__main__.Octopus object at 0x1089e7760>, <__main__.Octopus object at 0x1089e7730>, <__main__.Octopus object at 0x1089e7700>, <__main__.Octopus object at 0x1089e7670>]
+
+ init_neighbors... 
+  Octopus: 2 at 0,2 with power 7
+           [<__main__.Octopus object at 0x1089e77f0>, <__main__.Octopus object at 0x1089e7700>, <__main__.Octopus object at 0x1089e7670>]
+
+ init_neighbors... 
+  Octopus: 3 at 1,0 with power 7
+           [<__main__.Octopus object at 0x1089e8fd0>, <__main__.Octopus object at 0x1089e77f0>, <__main__.Octopus object at 0x1089e7700>, <__main__.Octopus object at 0x1089e75e0>, <__main__.Octopus object at 0x1089e7550>]
+
+ init_neighbors... 
+  Octopus: 4 at 1,1 with power 7
+           [<__main__.Octopus object at 0x1089e8fd0>, <__main__.Octopus object at 0x1089e77f0>, <__main__.Octopus object at 0x1089e7760>, <__main__.Octopus object at 0x1089e7730>, <__main__.Octopus object at 0x1089e7670>, <__main__.Octopus object at 0x1089e75e0>, <__main__.Octopus object at 0x1089e7550>, <__main__.Octopus object at 0x1089e74f0>]
+
+ init_neighbors... 
+  Octopus: 5 at 1,2 with power 7
+           [<__main__.Octopus object at 0x1089e77f0>, <__main__.Octopus object at 0x1089e7760>, <__main__.Octopus object at 0x1089e7700>, <__main__.Octopus object at 0x1089e7550>, <__main__.Octopus object at 0x1089e74f0>]
+
+ init_neighbors... 
+  Octopus: 6 at 2,0 with power 8
+           [<__main__.Octopus object at 0x1089e7730>, <__main__.Octopus object at 0x1089e7700>, <__main__.Octopus object at 0x1089e7550>]
+
+ init_neighbors... 
+  Octopus: 7 at 2,1 with power 8
+           [<__main__.Octopus object at 0x1089e7730>, <__main__.Octopus object at 0x1089e7700>, <__main__.Octopus object at 0x1089e7670>, <__main__.Octopus object at 0x1089e75e0>, <__main__.Octopus object at 0x1089e74f0>]
+
+ init_neighbors... 
+  Octopus: 8 at 2,2 with power 8
+           [<__main__.Octopus object at 0x1089e7700>, <__main__.Octopus object at 0x1089e7670>, <__main__.Octopus object at 0x1089e7550>]
+<function Board.summary at 0x1089a3af0>
+================================== advance from day 0:
+oct(0,0 powering to 10
+oct(0,0 flashing on day 1  POW!!!
+oct(0,1 powering to 9
+oct(1,0 powering to 8
+oct(1,1 powering to 8
+oct(0,1 powering to 10
+oct(0,1 flashing on day 1  POW!!!
+oct(0,0 powering to 11
+oct(0,2 powering to 8
+oct(1,0 powering to 9
+oct(1,1 powering to 9
+oct(1,2 powering to 8
+oct(0,2 powering to 9
+oct(1,0 powering to 10
+oct(1,0 flashing on day 1  POW!!!
+oct(0,0 powering to 12
+oct(0,1 powering to 11
+oct(1,1 powering to 10
+oct(1,1 flashing on day 1  POW!!!
+oct(0,0 powering to 13
+oct(0,1 powering to 12
+oct(0,2 powering to 10
+oct(0,2 flashing on day 1  POW!!!
+oct(0,1 powering to 13
+oct(1,1 powering to 11
+oct(1,2 powering to 9
+oct(1,0 powering to 11
+oct(1,2 powering to 10
+oct(1,2 flashing on day 1  POW!!!
+oct(0,1 powering to 14
+oct(0,2 powering to 11
+oct(1,1 powering to 12
+oct(2,1 powering to 9
+oct(2,2 powering to 9
+oct(2,0 powering to 9
+oct(2,1 powering to 10
+oct(2,1 flashing on day 1  POW!!!
+oct(1,0 powering to 12
+oct(1,1 powering to 13
+oct(1,2 powering to 11
+oct(2,0 powering to 10
+oct(2,0 flashing on day 1  POW!!!
+oct(1,0 powering to 13
+oct(1,1 powering to 14
+oct(2,1 powering to 11
+oct(2,2 powering to 10
+oct(2,2 flashing on day 1  POW!!!
+oct(1,1 powering to 15
+oct(1,2 powering to 12
+oct(2,1 powering to 12
+oct(2,2 powering to 11
+oct(2,0 powering to 11
+oct(2,1 powering to 13
+oct(1,1 powering to 16
+oct(1,2 powering to 13
+oct(2,0 powering to 12
+oct(2,1 powering to 14
+oct(2,2 powering to 12
+================================== advance from day 1:
+oct(0,0 powering to 1
+oct(0,1 powering to 1
+oct(0,2 powering to 1
+oct(1,0 powering to 1
+oct(1,1 powering to 1
+oct(1,2 powering to 1
+oct(2,0 powering to 1
+oct(2,1 powering to 1
+oct(2,2 powering to 1
+================================== advance from day 2:
+oct(0,0 powering to 2
+oct(0,1 powering to 2
+oct(0,2 powering to 2
+oct(1,0 powering to 2
+oct(1,1 powering to 2
+oct(1,2 powering to 2
+oct(2,0 powering to 2
+oct(2,1 powering to 2
+oct(2,2 powering to 2
+================================== advance from day 3:
+oct(0,0 powering to 3
+oct(0,1 powering to 3
+oct(0,2 powering to 3
+oct(1,0 powering to 3
+oct(1,1 powering to 3
+oct(1,2 powering to 3
+oct(2,0 powering to 3
+oct(2,1 powering to 3
+oct(2,2 powering to 3
+================================== advance from day 4:
+oct(0,0 powering to 4
+oct(0,1 powering to 4
+oct(0,2 powering to 4
+oct(1,0 powering to 4
+oct(1,1 powering to 4
+oct(1,2 powering to 4
+oct(2,0 powering to 4
+oct(2,1 powering to 4
+oct(2,2 powering to 4
+
+Number of flashes: 
+9

@@ -1,0 +1,4003 @@
+Board.init(input-test.txt)
+5483143223
+2745854711
+5264556173
+6141336146
+6357385478
+4167524645
+2176841721
+6882881134
+4846848554
+5283751526
+
+['5483143223', '2745854711', '5264556173', '6141336146', '6357385478', '4167524645', '2176841721', '6882881134', '4846848554', '5283751526']
+flat: 5483143223274585471152645561736141336146635738547841675246452176841721688288113448468485545283751526
+power:5 pos:0 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:1 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:2 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:3 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:4 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:5 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:6 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:7 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:8 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:9 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:10 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:11 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:12 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:13 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:14 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:15 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:16 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:17 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:18 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:19 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:20 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:21 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:22 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:23 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:24 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:25 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:26 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:27 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:28 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:29 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:30 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:31 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:32 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:33 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:34 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:35 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:36 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:37 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:38 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:39 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:40 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:41 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:42 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:43 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:44 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:45 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:46 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:47 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:48 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:49 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:50 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:51 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:52 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:53 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:54 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:55 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:56 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:57 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:58 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:59 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:60 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:61 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:62 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:63 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:64 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:65 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:66 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:67 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:68 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:69 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:70 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:71 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:72 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:73 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:74 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:75 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:76 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:77 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:78 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:79 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:80 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:81 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:82 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:83 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:84 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:85 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:86 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:87 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:88 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:89 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:90 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:91 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:92 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:93 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:94 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:95 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:96 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:97 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:98 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:99 (<class 'int'>)
+Board.init(input-test.txt
+
+ init_neighbors... 
+  Octopus: 0 at 0,0 with power 5
+           [<__main__.Octopus object at 0x10407d850>, <__main__.Octopus object at 0x10407d4c0>, <__main__.Octopus object at 0x10407d490>]
+
+ init_neighbors... 
+  Octopus: 1 at 0,1 with power 4
+           [<__main__.Octopus object at 0x10407ef70>, <__main__.Octopus object at 0x10407d7f0>, <__main__.Octopus object at 0x10407d4c0>, <__main__.Octopus object at 0x10407d490>, <__main__.Octopus object at 0x10407d460>]
+
+ init_neighbors... 
+  Octopus: 2 at 0,2 with power 8
+           [<__main__.Octopus object at 0x10407d850>, <__main__.Octopus object at 0x10407d760>, <__main__.Octopus object at 0x10407d490>, <__main__.Octopus object at 0x10407d460>, <__main__.Octopus object at 0x10407d430>]
+
+ init_neighbors... 
+  Octopus: 3 at 0,3 with power 3
+           [<__main__.Octopus object at 0x10407d7f0>, <__main__.Octopus object at 0x10407d730>, <__main__.Octopus object at 0x10407d460>, <__main__.Octopus object at 0x10407d430>, <__main__.Octopus object at 0x10407d400>]
+
+ init_neighbors... 
+  Octopus: 4 at 0,4 with power 1
+           [<__main__.Octopus object at 0x10407d760>, <__main__.Octopus object at 0x10407d700>, <__main__.Octopus object at 0x10407d430>, <__main__.Octopus object at 0x10407d400>, <__main__.Octopus object at 0x10407d3d0>]
+
+ init_neighbors... 
+  Octopus: 5 at 0,5 with power 4
+           [<__main__.Octopus object at 0x10407d730>, <__main__.Octopus object at 0x10407d610>, <__main__.Octopus object at 0x10407d400>, <__main__.Octopus object at 0x10407d3d0>, <__main__.Octopus object at 0x10407d3a0>]
+
+ init_neighbors... 
+  Octopus: 6 at 0,6 with power 3
+           [<__main__.Octopus object at 0x10407d700>, <__main__.Octopus object at 0x10407d580>, <__main__.Octopus object at 0x10407d3d0>, <__main__.Octopus object at 0x10407d3a0>, <__main__.Octopus object at 0x10407d370>]
+
+ init_neighbors... 
+  Octopus: 7 at 0,7 with power 2
+           [<__main__.Octopus object at 0x10407d610>, <__main__.Octopus object at 0x10407d520>, <__main__.Octopus object at 0x10407d3a0>, <__main__.Octopus object at 0x10407d370>, <__main__.Octopus object at 0x10407d340>]
+
+ init_neighbors... 
+  Octopus: 8 at 0,8 with power 2
+           [<__main__.Octopus object at 0x10407d580>, <__main__.Octopus object at 0x10407d4f0>, <__main__.Octopus object at 0x10407d370>, <__main__.Octopus object at 0x10407d340>, <__main__.Octopus object at 0x10407d310>]
+
+ init_neighbors... 
+  Octopus: 9 at 0,9 with power 3
+           [<__main__.Octopus object at 0x10407d520>, <__main__.Octopus object at 0x10407d340>, <__main__.Octopus object at 0x10407d310>]
+
+ init_neighbors... 
+  Octopus: 10 at 1,0 with power 2
+           [<__main__.Octopus object at 0x10407ef70>, <__main__.Octopus object at 0x10407d850>, <__main__.Octopus object at 0x10407d490>, <__main__.Octopus object at 0x10407d2e0>, <__main__.Octopus object at 0x10407d2b0>]
+
+ init_neighbors... 
+  Octopus: 11 at 1,1 with power 7
+           [<__main__.Octopus object at 0x10407ef70>, <__main__.Octopus object at 0x10407d850>, <__main__.Octopus object at 0x10407d7f0>, <__main__.Octopus object at 0x10407d4c0>, <__main__.Octopus object at 0x10407d460>, <__main__.Octopus object at 0x10407d2e0>, <__main__.Octopus object at 0x10407d2b0>, <__main__.Octopus object at 0x10407d280>]
+
+ init_neighbors... 
+  Octopus: 12 at 1,2 with power 4
+           [<__main__.Octopus object at 0x10407d850>, <__main__.Octopus object at 0x10407d7f0>, <__main__.Octopus object at 0x10407d760>, <__main__.Octopus object at 0x10407d490>, <__main__.Octopus object at 0x10407d430>, <__main__.Octopus object at 0x10407d2b0>, <__main__.Octopus object at 0x10407d280>, <__main__.Octopus object at 0x10407d250>]
+
+ init_neighbors... 
+  Octopus: 13 at 1,3 with power 5
+           [<__main__.Octopus object at 0x10407d7f0>, <__main__.Octopus object at 0x10407d760>, <__main__.Octopus object at 0x10407d730>, <__main__.Octopus object at 0x10407d460>, <__main__.Octopus object at 0x10407d400>, <__main__.Octopus object at 0x10407d280>, <__main__.Octopus object at 0x10407d250>, <__main__.Octopus object at 0x10407d220>]
+
+ init_neighbors... 
+  Octopus: 14 at 1,4 with power 8
+           [<__main__.Octopus object at 0x10407d760>, <__main__.Octopus object at 0x10407d730>, <__main__.Octopus object at 0x10407d700>, <__main__.Octopus object at 0x10407d430>, <__main__.Octopus object at 0x10407d3d0>, <__main__.Octopus object at 0x10407d250>, <__main__.Octopus object at 0x10407d220>, <__main__.Octopus object at 0x10407d1f0>]
+
+ init_neighbors... 
+  Octopus: 15 at 1,5 with power 5
+           [<__main__.Octopus object at 0x10407d730>, <__main__.Octopus object at 0x10407d700>, <__main__.Octopus object at 0x10407d610>, <__main__.Octopus object at 0x10407d400>, <__main__.Octopus object at 0x10407d3a0>, <__main__.Octopus object at 0x10407d220>, <__main__.Octopus object at 0x10407d1f0>, <__main__.Octopus object at 0x10407d1c0>]
+
+ init_neighbors... 
+  Octopus: 16 at 1,6 with power 4
+           [<__main__.Octopus object at 0x10407d700>, <__main__.Octopus object at 0x10407d610>, <__main__.Octopus object at 0x10407d580>, <__main__.Octopus object at 0x10407d3d0>, <__main__.Octopus object at 0x10407d370>, <__main__.Octopus object at 0x10407d1f0>, <__main__.Octopus object at 0x10407d1c0>, <__main__.Octopus object at 0x10407d190>]
+
+ init_neighbors... 
+  Octopus: 17 at 1,7 with power 7
+           [<__main__.Octopus object at 0x10407d610>, <__main__.Octopus object at 0x10407d580>, <__main__.Octopus object at 0x10407d520>, <__main__.Octopus object at 0x10407d3a0>, <__main__.Octopus object at 0x10407d340>, <__main__.Octopus object at 0x10407d1c0>, <__main__.Octopus object at 0x10407d190>, <__main__.Octopus object at 0x10407d160>]
+
+ init_neighbors... 
+  Octopus: 18 at 1,8 with power 1
+           [<__main__.Octopus object at 0x10407d580>, <__main__.Octopus object at 0x10407d520>, <__main__.Octopus object at 0x10407d4f0>, <__main__.Octopus object at 0x10407d370>, <__main__.Octopus object at 0x10407d310>, <__main__.Octopus object at 0x10407d190>, <__main__.Octopus object at 0x10407d160>, <__main__.Octopus object at 0x10407d130>]
+
+ init_neighbors... 
+  Octopus: 19 at 1,9 with power 1
+           [<__main__.Octopus object at 0x10407d520>, <__main__.Octopus object at 0x10407d4f0>, <__main__.Octopus object at 0x10407d340>, <__main__.Octopus object at 0x10407d160>, <__main__.Octopus object at 0x10407d130>]
+
+ init_neighbors... 
+  Octopus: 20 at 2,0 with power 5
+           [<__main__.Octopus object at 0x10407d4c0>, <__main__.Octopus object at 0x10407d490>, <__main__.Octopus object at 0x10407d2b0>, <__main__.Octopus object at 0x10407d100>, <__main__.Octopus object at 0x10407d0d0>]
+
+ init_neighbors... 
+  Octopus: 21 at 2,1 with power 2
+           [<__main__.Octopus object at 0x10407d4c0>, <__main__.Octopus object at 0x10407d490>, <__main__.Octopus object at 0x10407d460>, <__main__.Octopus object at 0x10407d2e0>, <__main__.Octopus object at 0x10407d280>, <__main__.Octopus object at 0x10407d100>, <__main__.Octopus object at 0x10407d0d0>, <__main__.Octopus object at 0x10407d0a0>]
+
+ init_neighbors... 
+  Octopus: 22 at 2,2 with power 6
+           [<__main__.Octopus object at 0x10407d490>, <__main__.Octopus object at 0x10407d460>, <__main__.Octopus object at 0x10407d430>, <__main__.Octopus object at 0x10407d2b0>, <__main__.Octopus object at 0x10407d250>, <__main__.Octopus object at 0x10407d0d0>, <__main__.Octopus object at 0x10407d0a0>, <__main__.Octopus object at 0x10407d070>]
+
+ init_neighbors... 
+  Octopus: 23 at 2,3 with power 4
+           [<__main__.Octopus object at 0x10407d460>, <__main__.Octopus object at 0x10407d430>, <__main__.Octopus object at 0x10407d400>, <__main__.Octopus object at 0x10407d280>, <__main__.Octopus object at 0x10407d220>, <__main__.Octopus object at 0x10407d0a0>, <__main__.Octopus object at 0x10407d070>, <__main__.Octopus object at 0x10407d040>]
+
+ init_neighbors... 
+  Octopus: 24 at 2,4 with power 5
+           [<__main__.Octopus object at 0x10407d430>, <__main__.Octopus object at 0x10407d400>, <__main__.Octopus object at 0x10407d3d0>, <__main__.Octopus object at 0x10407d250>, <__main__.Octopus object at 0x10407d1f0>, <__main__.Octopus object at 0x10407d070>, <__main__.Octopus object at 0x10407d040>, <__main__.Octopus object at 0x10406afd0>]
+
+ init_neighbors... 
+  Octopus: 25 at 2,5 with power 5
+           [<__main__.Octopus object at 0x10407d400>, <__main__.Octopus object at 0x10407d3d0>, <__main__.Octopus object at 0x10407d3a0>, <__main__.Octopus object at 0x10407d220>, <__main__.Octopus object at 0x10407d1c0>, <__main__.Octopus object at 0x10407d040>, <__main__.Octopus object at 0x10406afd0>, <__main__.Octopus object at 0x10406afa0>]
+
+ init_neighbors... 
+  Octopus: 26 at 2,6 with power 6
+           [<__main__.Octopus object at 0x10407d3d0>, <__main__.Octopus object at 0x10407d3a0>, <__main__.Octopus object at 0x10407d370>, <__main__.Octopus object at 0x10407d1f0>, <__main__.Octopus object at 0x10407d190>, <__main__.Octopus object at 0x10406afd0>, <__main__.Octopus object at 0x10406afa0>, <__main__.Octopus object at 0x10406af70>]
+
+ init_neighbors... 
+  Octopus: 27 at 2,7 with power 1
+           [<__main__.Octopus object at 0x10407d3a0>, <__main__.Octopus object at 0x10407d370>, <__main__.Octopus object at 0x10407d340>, <__main__.Octopus object at 0x10407d1c0>, <__main__.Octopus object at 0x10407d160>, <__main__.Octopus object at 0x10406afa0>, <__main__.Octopus object at 0x10406af70>, <__main__.Octopus object at 0x10406af40>]
+
+ init_neighbors... 
+  Octopus: 28 at 2,8 with power 7
+           [<__main__.Octopus object at 0x10407d370>, <__main__.Octopus object at 0x10407d340>, <__main__.Octopus object at 0x10407d310>, <__main__.Octopus object at 0x10407d190>, <__main__.Octopus object at 0x10407d130>, <__main__.Octopus object at 0x10406af70>, <__main__.Octopus object at 0x10406af40>, <__main__.Octopus object at 0x10406af10>]
+
+ init_neighbors... 
+  Octopus: 29 at 2,9 with power 3
+           [<__main__.Octopus object at 0x10407d340>, <__main__.Octopus object at 0x10407d310>, <__main__.Octopus object at 0x10407d160>, <__main__.Octopus object at 0x10406af40>, <__main__.Octopus object at 0x10406af10>]
+
+ init_neighbors... 
+  Octopus: 30 at 3,0 with power 6
+           [<__main__.Octopus object at 0x10407d2e0>, <__main__.Octopus object at 0x10407d2b0>, <__main__.Octopus object at 0x10407d0d0>, <__main__.Octopus object at 0x10406aee0>, <__main__.Octopus object at 0x10406aeb0>]
+
+ init_neighbors... 
+  Octopus: 31 at 3,1 with power 1
+           [<__main__.Octopus object at 0x10407d2e0>, <__main__.Octopus object at 0x10407d2b0>, <__main__.Octopus object at 0x10407d280>, <__main__.Octopus object at 0x10407d100>, <__main__.Octopus object at 0x10407d0a0>, <__main__.Octopus object at 0x10406aee0>, <__main__.Octopus object at 0x10406aeb0>, <__main__.Octopus object at 0x10406ae80>]
+
+ init_neighbors... 
+  Octopus: 32 at 3,2 with power 4
+           [<__main__.Octopus object at 0x10407d2b0>, <__main__.Octopus object at 0x10407d280>, <__main__.Octopus object at 0x10407d250>, <__main__.Octopus object at 0x10407d0d0>, <__main__.Octopus object at 0x10407d070>, <__main__.Octopus object at 0x10406aeb0>, <__main__.Octopus object at 0x10406ae80>, <__main__.Octopus object at 0x10406ae50>]
+
+ init_neighbors... 
+  Octopus: 33 at 3,3 with power 1
+           [<__main__.Octopus object at 0x10407d280>, <__main__.Octopus object at 0x10407d250>, <__main__.Octopus object at 0x10407d220>, <__main__.Octopus object at 0x10407d0a0>, <__main__.Octopus object at 0x10407d040>, <__main__.Octopus object at 0x10406ae80>, <__main__.Octopus object at 0x10406ae50>, <__main__.Octopus object at 0x10406ae20>]
+
+ init_neighbors... 
+  Octopus: 34 at 3,4 with power 3
+           [<__main__.Octopus object at 0x10407d250>, <__main__.Octopus object at 0x10407d220>, <__main__.Octopus object at 0x10407d1f0>, <__main__.Octopus object at 0x10407d070>, <__main__.Octopus object at 0x10406afd0>, <__main__.Octopus object at 0x10406ae50>, <__main__.Octopus object at 0x10406ae20>, <__main__.Octopus object at 0x10406adf0>]
+
+ init_neighbors... 
+  Octopus: 35 at 3,5 with power 3
+           [<__main__.Octopus object at 0x10407d220>, <__main__.Octopus object at 0x10407d1f0>, <__main__.Octopus object at 0x10407d1c0>, <__main__.Octopus object at 0x10407d040>, <__main__.Octopus object at 0x10406afa0>, <__main__.Octopus object at 0x10406ae20>, <__main__.Octopus object at 0x10406adf0>, <__main__.Octopus object at 0x10406adc0>]
+
+ init_neighbors... 
+  Octopus: 36 at 3,6 with power 6
+           [<__main__.Octopus object at 0x10407d1f0>, <__main__.Octopus object at 0x10407d1c0>, <__main__.Octopus object at 0x10407d190>, <__main__.Octopus object at 0x10406afd0>, <__main__.Octopus object at 0x10406af70>, <__main__.Octopus object at 0x10406adf0>, <__main__.Octopus object at 0x10406adc0>, <__main__.Octopus object at 0x10406ad90>]
+
+ init_neighbors... 
+  Octopus: 37 at 3,7 with power 1
+           [<__main__.Octopus object at 0x10407d1c0>, <__main__.Octopus object at 0x10407d190>, <__main__.Octopus object at 0x10407d160>, <__main__.Octopus object at 0x10406afa0>, <__main__.Octopus object at 0x10406af40>, <__main__.Octopus object at 0x10406adc0>, <__main__.Octopus object at 0x10406ad90>, <__main__.Octopus object at 0x10406ad60>]
+
+ init_neighbors... 
+  Octopus: 38 at 3,8 with power 4
+           [<__main__.Octopus object at 0x10407d190>, <__main__.Octopus object at 0x10407d160>, <__main__.Octopus object at 0x10407d130>, <__main__.Octopus object at 0x10406af70>, <__main__.Octopus object at 0x10406af10>, <__main__.Octopus object at 0x10406ad90>, <__main__.Octopus object at 0x10406ad60>, <__main__.Octopus object at 0x10406ad30>]
+
+ init_neighbors... 
+  Octopus: 39 at 3,9 with power 6
+           [<__main__.Octopus object at 0x10407d160>, <__main__.Octopus object at 0x10407d130>, <__main__.Octopus object at 0x10406af40>, <__main__.Octopus object at 0x10406ad60>, <__main__.Octopus object at 0x10406ad30>]
+
+ init_neighbors... 
+  Octopus: 40 at 4,0 with power 6
+           [<__main__.Octopus object at 0x10407d100>, <__main__.Octopus object at 0x10407d0d0>, <__main__.Octopus object at 0x10406aeb0>, <__main__.Octopus object at 0x10406ad00>, <__main__.Octopus object at 0x10406acd0>]
+
+ init_neighbors... 
+  Octopus: 41 at 4,1 with power 3
+           [<__main__.Octopus object at 0x10407d100>, <__main__.Octopus object at 0x10407d0d0>, <__main__.Octopus object at 0x10407d0a0>, <__main__.Octopus object at 0x10406aee0>, <__main__.Octopus object at 0x10406ae80>, <__main__.Octopus object at 0x10406ad00>, <__main__.Octopus object at 0x10406acd0>, <__main__.Octopus object at 0x10406aca0>]
+
+ init_neighbors... 
+  Octopus: 42 at 4,2 with power 5
+           [<__main__.Octopus object at 0x10407d0d0>, <__main__.Octopus object at 0x10407d0a0>, <__main__.Octopus object at 0x10407d070>, <__main__.Octopus object at 0x10406aeb0>, <__main__.Octopus object at 0x10406ae50>, <__main__.Octopus object at 0x10406acd0>, <__main__.Octopus object at 0x10406aca0>, <__main__.Octopus object at 0x10406ac70>]
+
+ init_neighbors... 
+  Octopus: 43 at 4,3 with power 7
+           [<__main__.Octopus object at 0x10407d0a0>, <__main__.Octopus object at 0x10407d070>, <__main__.Octopus object at 0x10407d040>, <__main__.Octopus object at 0x10406ae80>, <__main__.Octopus object at 0x10406ae20>, <__main__.Octopus object at 0x10406aca0>, <__main__.Octopus object at 0x10406ac70>, <__main__.Octopus object at 0x10406ac40>]
+
+ init_neighbors... 
+  Octopus: 44 at 4,4 with power 3
+           [<__main__.Octopus object at 0x10407d070>, <__main__.Octopus object at 0x10407d040>, <__main__.Octopus object at 0x10406afd0>, <__main__.Octopus object at 0x10406ae50>, <__main__.Octopus object at 0x10406adf0>, <__main__.Octopus object at 0x10406ac70>, <__main__.Octopus object at 0x10406ac40>, <__main__.Octopus object at 0x10406ac10>]
+
+ init_neighbors... 
+  Octopus: 45 at 4,5 with power 8
+           [<__main__.Octopus object at 0x10407d040>, <__main__.Octopus object at 0x10406afd0>, <__main__.Octopus object at 0x10406afa0>, <__main__.Octopus object at 0x10406ae20>, <__main__.Octopus object at 0x10406adc0>, <__main__.Octopus object at 0x10406ac40>, <__main__.Octopus object at 0x10406ac10>, <__main__.Octopus object at 0x10406abe0>]
+
+ init_neighbors... 
+  Octopus: 46 at 4,6 with power 5
+           [<__main__.Octopus object at 0x10406afd0>, <__main__.Octopus object at 0x10406afa0>, <__main__.Octopus object at 0x10406af70>, <__main__.Octopus object at 0x10406adf0>, <__main__.Octopus object at 0x10406ad90>, <__main__.Octopus object at 0x10406ac10>, <__main__.Octopus object at 0x10406abe0>, <__main__.Octopus object at 0x10406abb0>]
+
+ init_neighbors... 
+  Octopus: 47 at 4,7 with power 4
+           [<__main__.Octopus object at 0x10406afa0>, <__main__.Octopus object at 0x10406af70>, <__main__.Octopus object at 0x10406af40>, <__main__.Octopus object at 0x10406adc0>, <__main__.Octopus object at 0x10406ad60>, <__main__.Octopus object at 0x10406abe0>, <__main__.Octopus object at 0x10406abb0>, <__main__.Octopus object at 0x10406ab80>]
+
+ init_neighbors... 
+  Octopus: 48 at 4,8 with power 7
+           [<__main__.Octopus object at 0x10406af70>, <__main__.Octopus object at 0x10406af40>, <__main__.Octopus object at 0x10406af10>, <__main__.Octopus object at 0x10406ad90>, <__main__.Octopus object at 0x10406ad30>, <__main__.Octopus object at 0x10406abb0>, <__main__.Octopus object at 0x10406ab80>, <__main__.Octopus object at 0x10406ab50>]
+
+ init_neighbors... 
+  Octopus: 49 at 4,9 with power 8
+           [<__main__.Octopus object at 0x10406af40>, <__main__.Octopus object at 0x10406af10>, <__main__.Octopus object at 0x10406ad60>, <__main__.Octopus object at 0x10406ab80>, <__main__.Octopus object at 0x10406ab50>]
+
+ init_neighbors... 
+  Octopus: 50 at 5,0 with power 4
+           [<__main__.Octopus object at 0x10406aee0>, <__main__.Octopus object at 0x10406aeb0>, <__main__.Octopus object at 0x10406acd0>, <__main__.Octopus object at 0x10406ab20>, <__main__.Octopus object at 0x10406aaf0>]
+
+ init_neighbors... 
+  Octopus: 51 at 5,1 with power 1
+           [<__main__.Octopus object at 0x10406aee0>, <__main__.Octopus object at 0x10406aeb0>, <__main__.Octopus object at 0x10406ae80>, <__main__.Octopus object at 0x10406ad00>, <__main__.Octopus object at 0x10406aca0>, <__main__.Octopus object at 0x10406ab20>, <__main__.Octopus object at 0x10406aaf0>, <__main__.Octopus object at 0x10406aac0>]
+
+ init_neighbors... 
+  Octopus: 52 at 5,2 with power 6
+           [<__main__.Octopus object at 0x10406aeb0>, <__main__.Octopus object at 0x10406ae80>, <__main__.Octopus object at 0x10406ae50>, <__main__.Octopus object at 0x10406acd0>, <__main__.Octopus object at 0x10406ac70>, <__main__.Octopus object at 0x10406aaf0>, <__main__.Octopus object at 0x10406aac0>, <__main__.Octopus object at 0x10406aa90>]
+
+ init_neighbors... 
+  Octopus: 53 at 5,3 with power 7
+           [<__main__.Octopus object at 0x10406ae80>, <__main__.Octopus object at 0x10406ae50>, <__main__.Octopus object at 0x10406ae20>, <__main__.Octopus object at 0x10406aca0>, <__main__.Octopus object at 0x10406ac40>, <__main__.Octopus object at 0x10406aac0>, <__main__.Octopus object at 0x10406aa90>, <__main__.Octopus object at 0x10406aa60>]
+
+ init_neighbors... 
+  Octopus: 54 at 5,4 with power 5
+           [<__main__.Octopus object at 0x10406ae50>, <__main__.Octopus object at 0x10406ae20>, <__main__.Octopus object at 0x10406adf0>, <__main__.Octopus object at 0x10406ac70>, <__main__.Octopus object at 0x10406ac10>, <__main__.Octopus object at 0x10406aa90>, <__main__.Octopus object at 0x10406aa60>, <__main__.Octopus object at 0x10406aa30>]
+
+ init_neighbors... 
+  Octopus: 55 at 5,5 with power 2
+           [<__main__.Octopus object at 0x10406ae20>, <__main__.Octopus object at 0x10406adf0>, <__main__.Octopus object at 0x10406adc0>, <__main__.Octopus object at 0x10406ac40>, <__main__.Octopus object at 0x10406abe0>, <__main__.Octopus object at 0x10406aa60>, <__main__.Octopus object at 0x10406aa30>, <__main__.Octopus object at 0x10406aa00>]
+
+ init_neighbors... 
+  Octopus: 56 at 5,6 with power 4
+           [<__main__.Octopus object at 0x10406adf0>, <__main__.Octopus object at 0x10406adc0>, <__main__.Octopus object at 0x10406ad90>, <__main__.Octopus object at 0x10406ac10>, <__main__.Octopus object at 0x10406abb0>, <__main__.Octopus object at 0x10406aa30>, <__main__.Octopus object at 0x10406aa00>, <__main__.Octopus object at 0x10406a9d0>]
+
+ init_neighbors... 
+  Octopus: 57 at 5,7 with power 6
+           [<__main__.Octopus object at 0x10406adc0>, <__main__.Octopus object at 0x10406ad90>, <__main__.Octopus object at 0x10406ad60>, <__main__.Octopus object at 0x10406abe0>, <__main__.Octopus object at 0x10406ab80>, <__main__.Octopus object at 0x10406aa00>, <__main__.Octopus object at 0x10406a9d0>, <__main__.Octopus object at 0x10406a910>]
+
+ init_neighbors... 
+  Octopus: 58 at 5,8 with power 4
+           [<__main__.Octopus object at 0x10406ad90>, <__main__.Octopus object at 0x10406ad60>, <__main__.Octopus object at 0x10406ad30>, <__main__.Octopus object at 0x10406abb0>, <__main__.Octopus object at 0x10406ab50>, <__main__.Octopus object at 0x10406a9d0>, <__main__.Octopus object at 0x10406a910>, <__main__.Octopus object at 0x10406a8e0>]
+
+ init_neighbors... 
+  Octopus: 59 at 5,9 with power 5
+           [<__main__.Octopus object at 0x10406ad60>, <__main__.Octopus object at 0x10406ad30>, <__main__.Octopus object at 0x10406ab80>, <__main__.Octopus object at 0x10406a910>, <__main__.Octopus object at 0x10406a8e0>]
+
+ init_neighbors... 
+  Octopus: 60 at 6,0 with power 2
+           [<__main__.Octopus object at 0x10406ad00>, <__main__.Octopus object at 0x10406acd0>, <__main__.Octopus object at 0x10406aaf0>, <__main__.Octopus object at 0x10406a730>, <__main__.Octopus object at 0x10406a7c0>]
+
+ init_neighbors... 
+  Octopus: 61 at 6,1 with power 1
+           [<__main__.Octopus object at 0x10406ad00>, <__main__.Octopus object at 0x10406acd0>, <__main__.Octopus object at 0x10406aca0>, <__main__.Octopus object at 0x10406ab20>, <__main__.Octopus object at 0x10406aac0>, <__main__.Octopus object at 0x10406a730>, <__main__.Octopus object at 0x10406a7c0>, <__main__.Octopus object at 0x10406a880>]
+
+ init_neighbors... 
+  Octopus: 62 at 6,2 with power 7
+           [<__main__.Octopus object at 0x10406acd0>, <__main__.Octopus object at 0x10406aca0>, <__main__.Octopus object at 0x10406ac70>, <__main__.Octopus object at 0x10406aaf0>, <__main__.Octopus object at 0x10406aa90>, <__main__.Octopus object at 0x10406a7c0>, <__main__.Octopus object at 0x10406a880>, <__main__.Octopus object at 0x10406a8b0>]
+
+ init_neighbors... 
+  Octopus: 63 at 6,3 with power 6
+           [<__main__.Octopus object at 0x10406aca0>, <__main__.Octopus object at 0x10406ac70>, <__main__.Octopus object at 0x10406ac40>, <__main__.Octopus object at 0x10406aac0>, <__main__.Octopus object at 0x10406aa60>, <__main__.Octopus object at 0x10406a880>, <__main__.Octopus object at 0x10406a8b0>, <__main__.Octopus object at 0x10406a940>]
+
+ init_neighbors... 
+  Octopus: 64 at 6,4 with power 8
+           [<__main__.Octopus object at 0x10406ac70>, <__main__.Octopus object at 0x10406ac40>, <__main__.Octopus object at 0x10406ac10>, <__main__.Octopus object at 0x10406aa90>, <__main__.Octopus object at 0x10406aa30>, <__main__.Octopus object at 0x10406a8b0>, <__main__.Octopus object at 0x10406a940>, <__main__.Octopus object at 0x104069ca0>]
+
+ init_neighbors... 
+  Octopus: 65 at 6,5 with power 4
+           [<__main__.Octopus object at 0x10406ac40>, <__main__.Octopus object at 0x10406ac10>, <__main__.Octopus object at 0x10406abe0>, <__main__.Octopus object at 0x10406aa60>, <__main__.Octopus object at 0x10406aa00>, <__main__.Octopus object at 0x10406a940>, <__main__.Octopus object at 0x104069ca0>, <__main__.Octopus object at 0x104069c70>]
+
+ init_neighbors... 
+  Octopus: 66 at 6,6 with power 1
+           [<__main__.Octopus object at 0x10406ac10>, <__main__.Octopus object at 0x10406abe0>, <__main__.Octopus object at 0x10406abb0>, <__main__.Octopus object at 0x10406aa30>, <__main__.Octopus object at 0x10406a9d0>, <__main__.Octopus object at 0x104069ca0>, <__main__.Octopus object at 0x104069c70>, <__main__.Octopus object at 0x104069c40>]
+
+ init_neighbors... 
+  Octopus: 67 at 6,7 with power 7
+           [<__main__.Octopus object at 0x10406abe0>, <__main__.Octopus object at 0x10406abb0>, <__main__.Octopus object at 0x10406ab80>, <__main__.Octopus object at 0x10406aa00>, <__main__.Octopus object at 0x10406a910>, <__main__.Octopus object at 0x104069c70>, <__main__.Octopus object at 0x104069c40>, <__main__.Octopus object at 0x104069c10>]
+
+ init_neighbors... 
+  Octopus: 68 at 6,8 with power 2
+           [<__main__.Octopus object at 0x10406abb0>, <__main__.Octopus object at 0x10406ab80>, <__main__.Octopus object at 0x10406ab50>, <__main__.Octopus object at 0x10406a9d0>, <__main__.Octopus object at 0x10406a8e0>, <__main__.Octopus object at 0x104069c40>, <__main__.Octopus object at 0x104069c10>, <__main__.Octopus object at 0x104069be0>]
+
+ init_neighbors... 
+  Octopus: 69 at 6,9 with power 1
+           [<__main__.Octopus object at 0x10406ab80>, <__main__.Octopus object at 0x10406ab50>, <__main__.Octopus object at 0x10406a910>, <__main__.Octopus object at 0x104069c10>, <__main__.Octopus object at 0x104069be0>]
+
+ init_neighbors... 
+  Octopus: 70 at 7,0 with power 6
+           [<__main__.Octopus object at 0x10406ab20>, <__main__.Octopus object at 0x10406aaf0>, <__main__.Octopus object at 0x10406a7c0>, <__main__.Octopus object at 0x104069bb0>, <__main__.Octopus object at 0x104069b80>]
+
+ init_neighbors... 
+  Octopus: 71 at 7,1 with power 8
+           [<__main__.Octopus object at 0x10406ab20>, <__main__.Octopus object at 0x10406aaf0>, <__main__.Octopus object at 0x10406aac0>, <__main__.Octopus object at 0x10406a730>, <__main__.Octopus object at 0x10406a880>, <__main__.Octopus object at 0x104069bb0>, <__main__.Octopus object at 0x104069b80>, <__main__.Octopus object at 0x104069b50>]
+
+ init_neighbors... 
+  Octopus: 72 at 7,2 with power 8
+           [<__main__.Octopus object at 0x10406aaf0>, <__main__.Octopus object at 0x10406aac0>, <__main__.Octopus object at 0x10406aa90>, <__main__.Octopus object at 0x10406a7c0>, <__main__.Octopus object at 0x10406a8b0>, <__main__.Octopus object at 0x104069b80>, <__main__.Octopus object at 0x104069b50>, <__main__.Octopus object at 0x104069b20>]
+
+ init_neighbors... 
+  Octopus: 73 at 7,3 with power 2
+           [<__main__.Octopus object at 0x10406aac0>, <__main__.Octopus object at 0x10406aa90>, <__main__.Octopus object at 0x10406aa60>, <__main__.Octopus object at 0x10406a880>, <__main__.Octopus object at 0x10406a940>, <__main__.Octopus object at 0x104069b50>, <__main__.Octopus object at 0x104069b20>, <__main__.Octopus object at 0x104069af0>]
+
+ init_neighbors... 
+  Octopus: 74 at 7,4 with power 8
+           [<__main__.Octopus object at 0x10406aa90>, <__main__.Octopus object at 0x10406aa60>, <__main__.Octopus object at 0x10406aa30>, <__main__.Octopus object at 0x10406a8b0>, <__main__.Octopus object at 0x104069ca0>, <__main__.Octopus object at 0x104069b20>, <__main__.Octopus object at 0x104069af0>, <__main__.Octopus object at 0x104069ac0>]
+
+ init_neighbors... 
+  Octopus: 75 at 7,5 with power 8
+           [<__main__.Octopus object at 0x10406aa60>, <__main__.Octopus object at 0x10406aa30>, <__main__.Octopus object at 0x10406aa00>, <__main__.Octopus object at 0x10406a940>, <__main__.Octopus object at 0x104069c70>, <__main__.Octopus object at 0x104069af0>, <__main__.Octopus object at 0x104069ac0>, <__main__.Octopus object at 0x104069a90>]
+
+ init_neighbors... 
+  Octopus: 76 at 7,6 with power 1
+           [<__main__.Octopus object at 0x10406aa30>, <__main__.Octopus object at 0x10406aa00>, <__main__.Octopus object at 0x10406a9d0>, <__main__.Octopus object at 0x104069ca0>, <__main__.Octopus object at 0x104069c40>, <__main__.Octopus object at 0x104069ac0>, <__main__.Octopus object at 0x104069a90>, <__main__.Octopus object at 0x104069a60>]
+
+ init_neighbors... 
+  Octopus: 77 at 7,7 with power 1
+           [<__main__.Octopus object at 0x10406aa00>, <__main__.Octopus object at 0x10406a9d0>, <__main__.Octopus object at 0x10406a910>, <__main__.Octopus object at 0x104069c70>, <__main__.Octopus object at 0x104069c10>, <__main__.Octopus object at 0x104069a90>, <__main__.Octopus object at 0x104069a60>, <__main__.Octopus object at 0x104069a30>]
+
+ init_neighbors... 
+  Octopus: 78 at 7,8 with power 3
+           [<__main__.Octopus object at 0x10406a9d0>, <__main__.Octopus object at 0x10406a910>, <__main__.Octopus object at 0x10406a8e0>, <__main__.Octopus object at 0x104069c40>, <__main__.Octopus object at 0x104069be0>, <__main__.Octopus object at 0x104069a60>, <__main__.Octopus object at 0x104069a30>, <__main__.Octopus object at 0x104069a00>]
+
+ init_neighbors... 
+  Octopus: 79 at 7,9 with power 4
+           [<__main__.Octopus object at 0x10406a910>, <__main__.Octopus object at 0x10406a8e0>, <__main__.Octopus object at 0x104069c10>, <__main__.Octopus object at 0x104069a30>, <__main__.Octopus object at 0x104069a00>]
+
+ init_neighbors... 
+  Octopus: 80 at 8,0 with power 4
+           [<__main__.Octopus object at 0x10406a730>, <__main__.Octopus object at 0x10406a7c0>, <__main__.Octopus object at 0x104069b80>, <__main__.Octopus object at 0x1040699d0>, <__main__.Octopus object at 0x1040699a0>]
+
+ init_neighbors... 
+  Octopus: 81 at 8,1 with power 8
+           [<__main__.Octopus object at 0x10406a730>, <__main__.Octopus object at 0x10406a7c0>, <__main__.Octopus object at 0x10406a880>, <__main__.Octopus object at 0x104069bb0>, <__main__.Octopus object at 0x104069b50>, <__main__.Octopus object at 0x1040699d0>, <__main__.Octopus object at 0x1040699a0>, <__main__.Octopus object at 0x104069970>]
+
+ init_neighbors... 
+  Octopus: 82 at 8,2 with power 4
+           [<__main__.Octopus object at 0x10406a7c0>, <__main__.Octopus object at 0x10406a880>, <__main__.Octopus object at 0x10406a8b0>, <__main__.Octopus object at 0x104069b80>, <__main__.Octopus object at 0x104069b20>, <__main__.Octopus object at 0x1040699a0>, <__main__.Octopus object at 0x104069970>, <__main__.Octopus object at 0x104069940>]
+
+ init_neighbors... 
+  Octopus: 83 at 8,3 with power 6
+           [<__main__.Octopus object at 0x10406a880>, <__main__.Octopus object at 0x10406a8b0>, <__main__.Octopus object at 0x10406a940>, <__main__.Octopus object at 0x104069b50>, <__main__.Octopus object at 0x104069af0>, <__main__.Octopus object at 0x104069970>, <__main__.Octopus object at 0x104069940>, <__main__.Octopus object at 0x104069910>]
+
+ init_neighbors... 
+  Octopus: 84 at 8,4 with power 8
+           [<__main__.Octopus object at 0x10406a8b0>, <__main__.Octopus object at 0x10406a940>, <__main__.Octopus object at 0x104069ca0>, <__main__.Octopus object at 0x104069b20>, <__main__.Octopus object at 0x104069ac0>, <__main__.Octopus object at 0x104069940>, <__main__.Octopus object at 0x104069910>, <__main__.Octopus object at 0x1040698e0>]
+
+ init_neighbors... 
+  Octopus: 85 at 8,5 with power 4
+           [<__main__.Octopus object at 0x10406a940>, <__main__.Octopus object at 0x104069ca0>, <__main__.Octopus object at 0x104069c70>, <__main__.Octopus object at 0x104069af0>, <__main__.Octopus object at 0x104069a90>, <__main__.Octopus object at 0x104069910>, <__main__.Octopus object at 0x1040698e0>, <__main__.Octopus object at 0x1040698b0>]
+
+ init_neighbors... 
+  Octopus: 86 at 8,6 with power 8
+           [<__main__.Octopus object at 0x104069ca0>, <__main__.Octopus object at 0x104069c70>, <__main__.Octopus object at 0x104069c40>, <__main__.Octopus object at 0x104069ac0>, <__main__.Octopus object at 0x104069a60>, <__main__.Octopus object at 0x1040698e0>, <__main__.Octopus object at 0x1040698b0>, <__main__.Octopus object at 0x104069880>]
+
+ init_neighbors... 
+  Octopus: 87 at 8,7 with power 5
+           [<__main__.Octopus object at 0x104069c70>, <__main__.Octopus object at 0x104069c40>, <__main__.Octopus object at 0x104069c10>, <__main__.Octopus object at 0x104069a90>, <__main__.Octopus object at 0x104069a30>, <__main__.Octopus object at 0x1040698b0>, <__main__.Octopus object at 0x104069880>, <__main__.Octopus object at 0x104069850>]
+
+ init_neighbors... 
+  Octopus: 88 at 8,8 with power 5
+           [<__main__.Octopus object at 0x104069c40>, <__main__.Octopus object at 0x104069c10>, <__main__.Octopus object at 0x104069be0>, <__main__.Octopus object at 0x104069a60>, <__main__.Octopus object at 0x104069a00>, <__main__.Octopus object at 0x104069880>, <__main__.Octopus object at 0x104069850>, <__main__.Octopus object at 0x104069820>]
+
+ init_neighbors... 
+  Octopus: 89 at 8,9 with power 4
+           [<__main__.Octopus object at 0x104069c10>, <__main__.Octopus object at 0x104069be0>, <__main__.Octopus object at 0x104069a30>, <__main__.Octopus object at 0x104069850>, <__main__.Octopus object at 0x104069820>]
+
+ init_neighbors... 
+  Octopus: 90 at 9,0 with power 5
+           [<__main__.Octopus object at 0x104069bb0>, <__main__.Octopus object at 0x104069b80>, <__main__.Octopus object at 0x1040699a0>]
+
+ init_neighbors... 
+  Octopus: 91 at 9,1 with power 2
+           [<__main__.Octopus object at 0x104069bb0>, <__main__.Octopus object at 0x104069b80>, <__main__.Octopus object at 0x104069b50>, <__main__.Octopus object at 0x1040699d0>, <__main__.Octopus object at 0x104069970>]
+
+ init_neighbors... 
+  Octopus: 92 at 9,2 with power 8
+           [<__main__.Octopus object at 0x104069b80>, <__main__.Octopus object at 0x104069b50>, <__main__.Octopus object at 0x104069b20>, <__main__.Octopus object at 0x1040699a0>, <__main__.Octopus object at 0x104069940>]
+
+ init_neighbors... 
+  Octopus: 93 at 9,3 with power 3
+           [<__main__.Octopus object at 0x104069b50>, <__main__.Octopus object at 0x104069b20>, <__main__.Octopus object at 0x104069af0>, <__main__.Octopus object at 0x104069970>, <__main__.Octopus object at 0x104069910>]
+
+ init_neighbors... 
+  Octopus: 94 at 9,4 with power 7
+           [<__main__.Octopus object at 0x104069b20>, <__main__.Octopus object at 0x104069af0>, <__main__.Octopus object at 0x104069ac0>, <__main__.Octopus object at 0x104069940>, <__main__.Octopus object at 0x1040698e0>]
+
+ init_neighbors... 
+  Octopus: 95 at 9,5 with power 5
+           [<__main__.Octopus object at 0x104069af0>, <__main__.Octopus object at 0x104069ac0>, <__main__.Octopus object at 0x104069a90>, <__main__.Octopus object at 0x104069910>, <__main__.Octopus object at 0x1040698b0>]
+
+ init_neighbors... 
+  Octopus: 96 at 9,6 with power 1
+           [<__main__.Octopus object at 0x104069ac0>, <__main__.Octopus object at 0x104069a90>, <__main__.Octopus object at 0x104069a60>, <__main__.Octopus object at 0x1040698e0>, <__main__.Octopus object at 0x104069880>]
+
+ init_neighbors... 
+  Octopus: 97 at 9,7 with power 5
+           [<__main__.Octopus object at 0x104069a90>, <__main__.Octopus object at 0x104069a60>, <__main__.Octopus object at 0x104069a30>, <__main__.Octopus object at 0x1040698b0>, <__main__.Octopus object at 0x104069850>]
+
+ init_neighbors... 
+  Octopus: 98 at 9,8 with power 2
+           [<__main__.Octopus object at 0x104069a60>, <__main__.Octopus object at 0x104069a30>, <__main__.Octopus object at 0x104069a00>, <__main__.Octopus object at 0x104069880>, <__main__.Octopus object at 0x104069820>]
+
+ init_neighbors... 
+  Octopus: 99 at 9,9 with power 6
+           [<__main__.Octopus object at 0x104069a30>, <__main__.Octopus object at 0x104069a00>, <__main__.Octopus object at 0x104069850>]
+<function Board.summary at 0x104039af0>
+================================== advance from day 0:
+================================== advance from day 1:
+oct(0,2) flashing on day 2  POW!!!
+today is 2
+oct(1,1) flashing on day 2  POW!!!
+today is 2
+oct(1,4) flashing on day 2  POW!!!
+today is 2
+oct(4,5) flashing on day 2  POW!!!
+today is 2
+oct(4,9) flashing on day 2  POW!!!
+today is 2
+oct(4,8) flashing on day 2  POW!!!
+today is 2
+oct(3,9) flashing on day 2  POW!!!
+today is 2
+oct(2,8) flashing on day 2  POW!!!
+today is 2
+oct(1,7) flashing on day 2  POW!!!
+today is 2
+oct(3,8) flashing on day 2  POW!!!
+today is 2
+oct(6,4) flashing on day 2  POW!!!
+today is 2
+oct(5,3) flashing on day 2  POW!!!
+today is 2
+oct(4,3) flashing on day 2  POW!!!
+today is 2
+oct(5,2) flashing on day 2  POW!!!
+today is 2
+oct(4,2) flashing on day 2  POW!!!
+today is 2
+oct(6,2) flashing on day 2  POW!!!
+today is 2
+oct(7,1) flashing on day 2  POW!!!
+today is 2
+oct(7,2) flashing on day 2  POW!!!
+today is 2
+oct(6,3) flashing on day 2  POW!!!
+today is 2
+oct(5,4) flashing on day 2  POW!!!
+today is 2
+oct(7,4) flashing on day 2  POW!!!
+today is 2
+oct(7,5) flashing on day 2  POW!!!
+today is 2
+oct(8,4) flashing on day 2  POW!!!
+today is 2
+oct(8,6) flashing on day 2  POW!!!
+today is 2
+oct(8,1) flashing on day 2  POW!!!
+today is 2
+oct(9,2) flashing on day 2  POW!!!
+today is 2
+oct(8,3) flashing on day 2  POW!!!
+today is 2
+oct(9,4) flashing on day 2  POW!!!
+today is 2
+oct(8,5) flashing on day 2  POW!!!
+today is 2
+oct(9,5) flashing on day 2  POW!!!
+today is 2
+oct(8,2) flashing on day 2  POW!!!
+today is 2
+oct(7,3) flashing on day 2  POW!!!
+today is 2
+oct(6,5) flashing on day 2  POW!!!
+today is 2
+oct(7,0) flashing on day 2  POW!!!
+today is 2
+oct(9,3) flashing on day 2  POW!!!
+today is 2
+================================== advance from day 2:
+oct(1,3) flashing on day 3  POW!!!
+today is 3
+oct(1,2) flashing on day 3  POW!!!
+today is 3
+oct(0,1) flashing on day 3  POW!!!
+today is 3
+oct(0,0) flashing on day 3  POW!!!
+today is 3
+oct(0,3) flashing on day 3  POW!!!
+today is 3
+oct(2,2) flashing on day 3  POW!!!
+today is 3
+oct(2,3) flashing on day 3  POW!!!
+today is 3
+oct(3,2) flashing on day 3  POW!!!
+today is 3
+oct(2,4) flashing on day 3  POW!!!
+today is 3
+oct(1,5) flashing on day 3  POW!!!
+today is 3
+oct(2,5) flashing on day 3  POW!!!
+today is 3
+oct(2,6) flashing on day 3  POW!!!
+today is 3
+oct(1,6) flashing on day 3  POW!!!
+today is 3
+oct(0,5) flashing on day 3  POW!!!
+today is 3
+oct(0,6) flashing on day 3  POW!!!
+today is 3
+oct(3,6) flashing on day 3  POW!!!
+today is 3
+oct(3,4) flashing on day 3  POW!!!
+today is 3
+oct(3,3) flashing on day 3  POW!!!
+today is 3
+oct(4,4) flashing on day 3  POW!!!
+today is 3
+oct(3,5) flashing on day 3  POW!!!
+today is 3
+oct(4,6) flashing on day 3  POW!!!
+today is 3
+oct(4,7) flashing on day 3  POW!!!
+today is 3
+oct(3,7) flashing on day 3  POW!!!
+today is 3
+oct(2,7) flashing on day 3  POW!!!
+today is 3
+oct(5,7) flashing on day 3  POW!!!
+today is 3
+oct(5,6) flashing on day 3  POW!!!
+today is 3
+oct(6,7) flashing on day 3  POW!!!
+today is 3
+oct(5,8) flashing on day 3  POW!!!
+today is 3
+oct(5,9) flashing on day 3  POW!!!
+today is 3
+oct(5,5) flashing on day 3  POW!!!
+today is 3
+oct(6,6) flashing on day 3  POW!!!
+today is 3
+oct(7,6) flashing on day 3  POW!!!
+today is 3
+oct(8,0) flashing on day 3  POW!!!
+today is 3
+oct(8,7) flashing on day 3  POW!!!
+today is 3
+oct(9,0) flashing on day 3  POW!!!
+today is 3
+oct(9,1) flashing on day 3  POW!!!
+today is 3
+oct(9,7) flashing on day 3  POW!!!
+today is 3
+oct(8,8) flashing on day 3  POW!!!
+today is 3
+oct(7,7) flashing on day 3  POW!!!
+today is 3
+oct(6,8) flashing on day 3  POW!!!
+today is 3
+oct(7,8) flashing on day 3  POW!!!
+today is 3
+oct(7,9) flashing on day 3  POW!!!
+today is 3
+oct(8,9) flashing on day 3  POW!!!
+today is 3
+oct(9,9) flashing on day 3  POW!!!
+today is 3
+oct(9,8) flashing on day 3  POW!!!
+today is 3
+================================== advance from day 3:
+oct(0,4) flashing on day 4  POW!!!
+today is 4
+oct(1,4) flashing on day 4  POW!!!
+today is 4
+oct(2,0) flashing on day 4  POW!!!
+today is 4
+oct(1,0) flashing on day 4  POW!!!
+today is 4
+oct(2,1) flashing on day 4  POW!!!
+today is 4
+oct(3,0) flashing on day 4  POW!!!
+today is 4
+oct(4,0) flashing on day 4  POW!!!
+today is 4
+oct(4,1) flashing on day 4  POW!!!
+today is 4
+oct(3,1) flashing on day 4  POW!!!
+today is 4
+oct(2,9) flashing on day 4  POW!!!
+today is 4
+oct(5,0) flashing on day 4  POW!!!
+today is 4
+oct(5,1) flashing on day 4  POW!!!
+today is 4
+oct(6,1) flashing on day 4  POW!!!
+today is 4
+oct(6,0) flashing on day 4  POW!!!
+today is 4
+oct(6,9) flashing on day 4  POW!!!
+today is 4
+oct(9,6) flashing on day 4  POW!!!
+today is 4
+================================== advance from day 4:
+oct(0,7) flashing on day 5  POW!!!
+today is 5
+oct(1,8) flashing on day 5  POW!!!
+today is 5
+oct(0,8) flashing on day 5  POW!!!
+today is 5
+oct(0,9) flashing on day 5  POW!!!
+today is 5
+oct(1,9) flashing on day 5  POW!!!
+today is 5
+oct(1,1) flashing on day 5  POW!!!
+today is 5
+oct(1,7) flashing on day 5  POW!!!
+today is 5
+oct(4,5) flashing on day 5  POW!!!
+today is 5
+================================== advance from day 5:
+oct(2,8) flashing on day 6  POW!!!
+today is 6
+================================== advance from day 6:
+oct(0,2) flashing on day 7  POW!!!
+today is 7
+oct(3,8) flashing on day 7  POW!!!
+today is 7
+oct(4,8) flashing on day 7  POW!!!
+today is 7
+oct(4,2) flashing on day 7  POW!!!
+today is 7
+oct(4,3) flashing on day 7  POW!!!
+today is 7
+oct(5,2) flashing on day 7  POW!!!
+today is 7
+oct(8,6) flashing on day 7  POW!!!
+today is 7
+================================== advance from day 7:
+oct(3,2) flashing on day 8  POW!!!
+today is 8
+oct(3,9) flashing on day 8  POW!!!
+today is 8
+oct(4,9) flashing on day 8  POW!!!
+today is 8
+oct(5,3) flashing on day 8  POW!!!
+today is 8
+oct(5,4) flashing on day 8  POW!!!
+today is 8
+oct(6,5) flashing on day 8  POW!!!
+today is 8
+oct(6,2) flashing on day 8  POW!!!
+today is 8
+oct(6,3) flashing on day 8  POW!!!
+today is 8
+oct(6,4) flashing on day 8  POW!!!
+today is 8
+oct(7,5) flashing on day 8  POW!!!
+today is 8
+oct(7,1) flashing on day 8  POW!!!
+today is 8
+oct(7,0) flashing on day 8  POW!!!
+today is 8
+oct(8,1) flashing on day 8  POW!!!
+today is 8
+oct(7,2) flashing on day 8  POW!!!
+today is 8
+oct(7,3) flashing on day 8  POW!!!
+today is 8
+oct(7,4) flashing on day 8  POW!!!
+today is 8
+oct(8,5) flashing on day 8  POW!!!
+today is 8
+oct(8,2) flashing on day 8  POW!!!
+today is 8
+oct(8,3) flashing on day 8  POW!!!
+today is 8
+oct(8,4) flashing on day 8  POW!!!
+today is 8
+oct(9,2) flashing on day 8  POW!!!
+today is 8
+oct(9,3) flashing on day 8  POW!!!
+today is 8
+oct(9,4) flashing on day 8  POW!!!
+today is 8
+oct(9,5) flashing on day 8  POW!!!
+today is 8
+================================== advance from day 8:
+oct(2,2) flashing on day 9  POW!!!
+today is 9
+oct(1,2) flashing on day 9  POW!!!
+today is 9
+oct(0,1) flashing on day 9  POW!!!
+today is 9
+oct(0,3) flashing on day 9  POW!!!
+today is 9
+oct(1,3) flashing on day 9  POW!!!
+today is 9
+oct(2,3) flashing on day 9  POW!!!
+today is 9
+oct(3,3) flashing on day 9  POW!!!
+today is 9
+oct(4,4) flashing on day 9  POW!!!
+today is 9
+oct(3,4) flashing on day 9  POW!!!
+today is 9
+oct(2,4) flashing on day 9  POW!!!
+today is 9
+oct(5,5) flashing on day 9  POW!!!
+today is 9
+oct(2,7) flashing on day 9  POW!!!
+today is 9
+oct(2,9) flashing on day 9  POW!!!
+today is 9
+oct(3,5) flashing on day 9  POW!!!
+today is 9
+oct(2,5) flashing on day 9  POW!!!
+today is 9
+oct(1,4) flashing on day 9  POW!!!
+today is 9
+oct(1,5) flashing on day 9  POW!!!
+today is 9
+oct(0,5) flashing on day 9  POW!!!
+today is 9
+oct(0,4) flashing on day 9  POW!!!
+today is 9
+oct(1,6) flashing on day 9  POW!!!
+today is 9
+oct(0,6) flashing on day 9  POW!!!
+today is 9
+oct(2,6) flashing on day 9  POW!!!
+today is 9
+oct(3,7) flashing on day 9  POW!!!
+today is 9
+oct(3,6) flashing on day 9  POW!!!
+today is 9
+oct(4,6) flashing on day 9  POW!!!
+today is 9
+oct(4,5) flashing on day 9  POW!!!
+today is 9
+oct(4,7) flashing on day 9  POW!!!
+today is 9
+oct(5,6) flashing on day 9  POW!!!
+today is 9
+oct(5,7) flashing on day 9  POW!!!
+today is 9
+oct(5,8) flashing on day 9  POW!!!
+today is 9
+oct(6,6) flashing on day 9  POW!!!
+today is 9
+oct(7,6) flashing on day 9  POW!!!
+today is 9
+oct(6,7) flashing on day 9  POW!!!
+today is 9
+oct(5,9) flashing on day 9  POW!!!
+today is 9
+oct(6,8) flashing on day 9  POW!!!
+today is 9
+oct(7,7) flashing on day 9  POW!!!
+today is 9
+oct(6,1) flashing on day 9  POW!!!
+today is 9
+oct(7,8) flashing on day 9  POW!!!
+today is 9
+oct(8,7) flashing on day 9  POW!!!
+today is 9
+================================== advance from day 9:
+oct(0,0) flashing on day 10  POW!!!
+today is 10
+oct(1,1) flashing on day 10  POW!!!
+today is 10
+oct(1,0) flashing on day 10  POW!!!
+today is 10
+oct(2,1) flashing on day 10  POW!!!
+today is 10
+oct(1,7) flashing on day 10  POW!!!
+today is 10
+oct(2,0) flashing on day 10  POW!!!
+today is 10
+oct(3,1) flashing on day 10  POW!!!
+today is 10
+oct(2,8) flashing on day 10  POW!!!
+today is 10
+oct(1,8) flashing on day 10  POW!!!
+today is 10
+oct(3,8) flashing on day 10  POW!!!
+today is 10
+oct(4,8) flashing on day 10  POW!!!
+today is 10
+oct(4,1) flashing on day 10  POW!!!
+today is 10
+oct(3,0) flashing on day 10  POW!!!
+today is 10
+oct(5,1) flashing on day 10  POW!!!
+today is 10
+oct(4,0) flashing on day 10  POW!!!
+today is 10
+oct(5,0) flashing on day 10  POW!!!
+today is 10
+oct(6,0) flashing on day 10  POW!!!
+today is 10
+oct(6,9) flashing on day 10  POW!!!
+today is 10
+oct(7,9) flashing on day 10  POW!!!
+today is 10
+oct(8,8) flashing on day 10  POW!!!
+today is 10
+oct(9,7) flashing on day 10  POW!!!
+today is 10
+oct(9,6) flashing on day 10  POW!!!
+today is 10
+oct(8,6) flashing on day 10  POW!!!
+today is 10
+oct(8,0) flashing on day 10  POW!!!
+today is 10
+oct(9,1) flashing on day 10  POW!!!
+today is 10
+oct(8,9) flashing on day 10  POW!!!
+today is 10
+oct(9,8) flashing on day 10  POW!!!
+today is 10
+oct(9,0) flashing on day 10  POW!!!
+today is 10
+oct(9,9) flashing on day 10  POW!!!
+today is 10
+================================== advance from day 10:
+oct(0,7) flashing on day 11  POW!!!
+today is 11
+oct(1,9) flashing on day 11  POW!!!
+today is 11
+oct(0,8) flashing on day 11  POW!!!
+today is 11
+oct(4,2) flashing on day 11  POW!!!
+today is 11
+oct(3,2) flashing on day 11  POW!!!
+today is 11
+oct(4,3) flashing on day 11  POW!!!
+today is 11
+oct(5,2) flashing on day 11  POW!!!
+today is 11
+================================== advance from day 11:
+oct(0,2) flashing on day 12  POW!!!
+today is 12
+oct(0,9) flashing on day 12  POW!!!
+today is 12
+================================== advance from day 12:
+================================== advance from day 13:
+oct(3,9) flashing on day 14  POW!!!
+today is 14
+oct(2,9) flashing on day 14  POW!!!
+today is 14
+oct(4,9) flashing on day 14  POW!!!
+today is 14
+oct(5,3) flashing on day 14  POW!!!
+today is 14
+oct(5,4) flashing on day 14  POW!!!
+today is 14
+oct(6,5) flashing on day 14  POW!!!
+today is 14
+oct(6,2) flashing on day 14  POW!!!
+today is 14
+oct(6,1) flashing on day 14  POW!!!
+today is 14
+oct(7,1) flashing on day 14  POW!!!
+today is 14
+oct(7,0) flashing on day 14  POW!!!
+today is 14
+oct(8,1) flashing on day 14  POW!!!
+today is 14
+oct(7,2) flashing on day 14  POW!!!
+today is 14
+oct(6,3) flashing on day 14  POW!!!
+today is 14
+oct(6,4) flashing on day 14  POW!!!
+today is 14
+oct(7,5) flashing on day 14  POW!!!
+today is 14
+oct(7,3) flashing on day 14  POW!!!
+today is 14
+oct(7,4) flashing on day 14  POW!!!
+today is 14
+oct(8,5) flashing on day 14  POW!!!
+today is 14
+oct(8,2) flashing on day 14  POW!!!
+today is 14
+oct(8,3) flashing on day 14  POW!!!
+today is 14
+oct(8,4) flashing on day 14  POW!!!
+today is 14
+oct(8,7) flashing on day 14  POW!!!
+today is 14
+oct(7,6) flashing on day 14  POW!!!
+today is 14
+oct(7,8) flashing on day 14  POW!!!
+today is 14
+oct(7,7) flashing on day 14  POW!!!
+today is 14
+oct(9,2) flashing on day 14  POW!!!
+today is 14
+oct(9,3) flashing on day 14  POW!!!
+today is 14
+oct(9,4) flashing on day 14  POW!!!
+today is 14
+oct(9,5) flashing on day 14  POW!!!
+today is 14
+oct(8,6) flashing on day 14  POW!!!
+today is 14
+================================== advance from day 14:
+oct(0,1) flashing on day 15  POW!!!
+today is 15
+oct(1,2) flashing on day 15  POW!!!
+today is 15
+oct(2,2) flashing on day 15  POW!!!
+today is 15
+oct(1,8) flashing on day 15  POW!!!
+today is 15
+oct(2,7) flashing on day 15  POW!!!
+today is 15
+oct(2,8) flashing on day 15  POW!!!
+today is 15
+oct(1,7) flashing on day 15  POW!!!
+today is 15
+oct(1,6) flashing on day 15  POW!!!
+today is 15
+oct(0,6) flashing on day 15  POW!!!
+today is 15
+oct(2,6) flashing on day 15  POW!!!
+today is 15
+oct(3,7) flashing on day 15  POW!!!
+today is 15
+oct(3,8) flashing on day 15  POW!!!
+today is 15
+oct(3,3) flashing on day 15  POW!!!
+today is 15
+oct(2,3) flashing on day 15  POW!!!
+today is 15
+oct(1,3) flashing on day 15  POW!!!
+today is 15
+oct(4,4) flashing on day 15  POW!!!
+today is 15
+oct(3,4) flashing on day 15  POW!!!
+today is 15
+oct(2,4) flashing on day 15  POW!!!
+today is 15
+oct(1,5) flashing on day 15  POW!!!
+today is 15
+oct(1,4) flashing on day 15  POW!!!
+today is 15
+oct(0,3) flashing on day 15  POW!!!
+today is 15
+oct(0,4) flashing on day 15  POW!!!
+today is 15
+oct(0,5) flashing on day 15  POW!!!
+today is 15
+oct(2,5) flashing on day 15  POW!!!
+today is 15
+oct(3,6) flashing on day 15  POW!!!
+today is 15
+oct(4,7) flashing on day 15  POW!!!
+today is 15
+oct(3,5) flashing on day 15  POW!!!
+today is 15
+oct(4,5) flashing on day 15  POW!!!
+today is 15
+oct(4,6) flashing on day 15  POW!!!
+today is 15
+oct(5,5) flashing on day 15  POW!!!
+today is 15
+oct(6,6) flashing on day 15  POW!!!
+today is 15
+oct(5,6) flashing on day 15  POW!!!
+today is 15
+oct(5,7) flashing on day 15  POW!!!
+today is 15
+oct(4,8) flashing on day 15  POW!!!
+today is 15
+oct(5,8) flashing on day 15  POW!!!
+today is 15
+oct(6,7) flashing on day 15  POW!!!
+today is 15
+oct(6,8) flashing on day 15  POW!!!
+today is 15
+oct(5,9) flashing on day 15  POW!!!
+today is 15
+================================== advance from day 15:
+oct(1,1) flashing on day 16  POW!!!
+today is 16
+oct(2,1) flashing on day 16  POW!!!
+today is 16
+oct(3,1) flashing on day 16  POW!!!
+today is 16
+oct(3,2) flashing on day 16  POW!!!
+today is 16
+oct(4,1) flashing on day 16  POW!!!
+today is 16
+oct(5,1) flashing on day 16  POW!!!
+today is 16
+oct(5,2) flashing on day 16  POW!!!
+today is 16
+oct(4,2) flashing on day 16  POW!!!
+today is 16
+oct(4,3) flashing on day 16  POW!!!
+today is 16
+oct(6,0) flashing on day 16  POW!!!
+today is 16
+oct(5,0) flashing on day 16  POW!!!
+today is 16
+oct(4,0) flashing on day 16  POW!!!
+today is 16
+oct(3,0) flashing on day 16  POW!!!
+today is 16
+oct(2,0) flashing on day 16  POW!!!
+today is 16
+oct(1,0) flashing on day 16  POW!!!
+today is 16
+oct(6,9) flashing on day 16  POW!!!
+today is 16
+oct(9,6) flashing on day 16  POW!!!
+today is 16
+================================== advance from day 16:
+oct(0,0) flashing on day 17  POW!!!
+today is 17
+oct(0,2) flashing on day 17  POW!!!
+today is 17
+oct(0,7) flashing on day 17  POW!!!
+today is 17
+oct(0,8) flashing on day 17  POW!!!
+today is 17
+oct(1,9) flashing on day 17  POW!!!
+today is 17
+oct(7,9) flashing on day 17  POW!!!
+today is 17
+oct(8,8) flashing on day 17  POW!!!
+today is 17
+oct(9,7) flashing on day 17  POW!!!
+today is 17
+oct(8,0) flashing on day 17  POW!!!
+today is 17
+oct(9,1) flashing on day 17  POW!!!
+today is 17
+oct(8,9) flashing on day 17  POW!!!
+today is 17
+oct(9,8) flashing on day 17  POW!!!
+today is 17
+oct(9,0) flashing on day 17  POW!!!
+today is 17
+oct(9,9) flashing on day 17  POW!!!
+today is 17
+================================== advance from day 17:
+oct(7,8) flashing on day 18  POW!!!
+today is 18
+================================== advance from day 18:
+oct(0,9) flashing on day 19  POW!!!
+today is 19
+oct(7,7) flashing on day 19  POW!!!
+today is 19
+oct(8,7) flashing on day 19  POW!!!
+today is 19
+================================== advance from day 19:
+oct(2,9) flashing on day 20  POW!!!
+today is 20
+oct(1,8) flashing on day 20  POW!!!
+today is 20
+oct(3,9) flashing on day 20  POW!!!
+today is 20
+oct(4,9) flashing on day 20  POW!!!
+today is 20
+oct(5,3) flashing on day 20  POW!!!
+today is 20
+oct(5,4) flashing on day 20  POW!!!
+today is 20
+oct(6,1) flashing on day 20  POW!!!
+today is 20
+oct(6,2) flashing on day 20  POW!!!
+today is 20
+oct(6,3) flashing on day 20  POW!!!
+today is 20
+oct(6,4) flashing on day 20  POW!!!
+today is 20
+oct(6,5) flashing on day 20  POW!!!
+today is 20
+oct(7,6) flashing on day 20  POW!!!
+today is 20
+oct(8,6) flashing on day 20  POW!!!
+today is 20
+oct(7,5) flashing on day 20  POW!!!
+today is 20
+oct(7,1) flashing on day 20  POW!!!
+today is 20
+oct(7,0) flashing on day 20  POW!!!
+today is 20
+oct(8,1) flashing on day 20  POW!!!
+today is 20
+oct(7,2) flashing on day 20  POW!!!
+today is 20
+oct(7,3) flashing on day 20  POW!!!
+today is 20
+oct(7,4) flashing on day 20  POW!!!
+today is 20
+oct(8,5) flashing on day 20  POW!!!
+today is 20
+oct(8,2) flashing on day 20  POW!!!
+today is 20
+oct(8,3) flashing on day 20  POW!!!
+today is 20
+oct(8,4) flashing on day 20  POW!!!
+today is 20
+oct(9,2) flashing on day 20  POW!!!
+today is 20
+oct(9,3) flashing on day 20  POW!!!
+today is 20
+oct(9,4) flashing on day 20  POW!!!
+today is 20
+oct(9,5) flashing on day 20  POW!!!
+today is 20
+================================== advance from day 20:
+oct(0,1) flashing on day 21  POW!!!
+today is 21
+oct(1,2) flashing on day 21  POW!!!
+today is 21
+oct(2,2) flashing on day 21  POW!!!
+today is 21
+oct(1,1) flashing on day 21  POW!!!
+today is 21
+oct(2,8) flashing on day 21  POW!!!
+today is 21
+oct(1,7) flashing on day 21  POW!!!
+today is 21
+oct(3,3) flashing on day 21  POW!!!
+today is 21
+oct(2,3) flashing on day 21  POW!!!
+today is 21
+oct(1,3) flashing on day 21  POW!!!
+today is 21
+oct(3,8) flashing on day 21  POW!!!
+today is 21
+oct(2,7) flashing on day 21  POW!!!
+today is 21
+oct(4,4) flashing on day 21  POW!!!
+today is 21
+oct(3,4) flashing on day 21  POW!!!
+today is 21
+oct(2,4) flashing on day 21  POW!!!
+today is 21
+oct(4,3) flashing on day 21  POW!!!
+today is 21
+oct(5,2) flashing on day 21  POW!!!
+today is 21
+oct(5,5) flashing on day 21  POW!!!
+today is 21
+oct(4,5) flashing on day 21  POW!!!
+today is 21
+oct(3,5) flashing on day 21  POW!!!
+today is 21
+oct(6,6) flashing on day 21  POW!!!
+today is 21
+oct(5,6) flashing on day 21  POW!!!
+today is 21
+oct(4,6) flashing on day 21  POW!!!
+today is 21
+oct(3,6) flashing on day 21  POW!!!
+today is 21
+oct(2,5) flashing on day 21  POW!!!
+today is 21
+oct(1,4) flashing on day 21  POW!!!
+today is 21
+oct(0,3) flashing on day 21  POW!!!
+today is 21
+oct(1,6) flashing on day 21  POW!!!
+today is 21
+oct(1,5) flashing on day 21  POW!!!
+today is 21
+oct(0,4) flashing on day 21  POW!!!
+today is 21
+oct(0,5) flashing on day 21  POW!!!
+today is 21
+oct(0,6) flashing on day 21  POW!!!
+today is 21
+oct(2,6) flashing on day 21  POW!!!
+today is 21
+oct(3,7) flashing on day 21  POW!!!
+today is 21
+oct(4,8) flashing on day 21  POW!!!
+today is 21
+oct(4,7) flashing on day 21  POW!!!
+today is 21
+oct(5,7) flashing on day 21  POW!!!
+today is 21
+oct(5,8) flashing on day 21  POW!!!
+today is 21
+oct(6,7) flashing on day 21  POW!!!
+today is 21
+oct(6,8) flashing on day 21  POW!!!
+today is 21
+oct(5,9) flashing on day 21  POW!!!
+today is 21
+oct(6,9) flashing on day 21  POW!!!
+today is 21
+oct(9,6) flashing on day 21  POW!!!
+today is 21
+================================== advance from day 21:
+oct(0,2) flashing on day 22  POW!!!
+today is 22
+oct(3,2) flashing on day 22  POW!!!
+today is 22
+oct(2,1) flashing on day 22  POW!!!
+today is 22
+oct(1,0) flashing on day 22  POW!!!
+today is 22
+oct(4,2) flashing on day 22  POW!!!
+today is 22
+oct(3,1) flashing on day 22  POW!!!
+today is 22
+oct(2,0) flashing on day 22  POW!!!
+today is 22
+oct(4,1) flashing on day 22  POW!!!
+today is 22
+oct(3,0) flashing on day 22  POW!!!
+today is 22
+oct(5,1) flashing on day 22  POW!!!
+today is 22
+oct(4,0) flashing on day 22  POW!!!
+today is 22
+oct(5,0) flashing on day 22  POW!!!
+today is 22
+oct(6,0) flashing on day 22  POW!!!
+today is 22
+================================== advance from day 22:
+oct(0,7) flashing on day 23  POW!!!
+today is 23
+oct(0,8) flashing on day 23  POW!!!
+today is 23
+oct(1,9) flashing on day 23  POW!!!
+today is 23
+oct(7,8) flashing on day 23  POW!!!
+today is 23
+oct(7,7) flashing on day 23  POW!!!
+today is 23
+oct(8,8) flashing on day 23  POW!!!
+today is 23
+oct(7,9) flashing on day 23  POW!!!
+today is 23
+oct(8,7) flashing on day 23  POW!!!
+today is 23
+oct(9,7) flashing on day 23  POW!!!
+today is 23
+oct(8,9) flashing on day 23  POW!!!
+today is 23
+oct(9,8) flashing on day 23  POW!!!
+today is 23
+================================== advance from day 23:
+oct(0,0) flashing on day 24  POW!!!
+today is 24
+oct(1,8) flashing on day 24  POW!!!
+today is 24
+oct(8,0) flashing on day 24  POW!!!
+today is 24
+oct(9,1) flashing on day 24  POW!!!
+today is 24
+oct(9,0) flashing on day 24  POW!!!
+today is 24
+oct(9,9) flashing on day 24  POW!!!
+today is 24
+================================== advance from day 24:
+oct(0,9) flashing on day 25  POW!!!
+today is 25
+================================== advance from day 25:
+oct(1,1) flashing on day 26  POW!!!
+today is 26
+oct(2,9) flashing on day 26  POW!!!
+today is 26
+oct(3,9) flashing on day 26  POW!!!
+today is 26
+oct(4,9) flashing on day 26  POW!!!
+today is 26
+oct(5,3) flashing on day 26  POW!!!
+today is 26
+oct(5,4) flashing on day 26  POW!!!
+today is 26
+oct(6,1) flashing on day 26  POW!!!
+today is 26
+oct(5,2) flashing on day 26  POW!!!
+today is 26
+oct(4,3) flashing on day 26  POW!!!
+today is 26
+oct(6,2) flashing on day 26  POW!!!
+today is 26
+oct(6,3) flashing on day 26  POW!!!
+today is 26
+oct(6,4) flashing on day 26  POW!!!
+today is 26
+oct(6,5) flashing on day 26  POW!!!
+today is 26
+oct(7,6) flashing on day 26  POW!!!
+today is 26
+oct(8,6) flashing on day 26  POW!!!
+today is 26
+oct(7,5) flashing on day 26  POW!!!
+today is 26
+oct(7,1) flashing on day 26  POW!!!
+today is 26
+oct(7,0) flashing on day 26  POW!!!
+today is 26
+oct(8,1) flashing on day 26  POW!!!
+today is 26
+oct(7,2) flashing on day 26  POW!!!
+today is 26
+oct(7,3) flashing on day 26  POW!!!
+today is 26
+oct(7,4) flashing on day 26  POW!!!
+today is 26
+oct(8,5) flashing on day 26  POW!!!
+today is 26
+oct(8,2) flashing on day 26  POW!!!
+today is 26
+oct(8,3) flashing on day 26  POW!!!
+today is 26
+oct(8,4) flashing on day 26  POW!!!
+today is 26
+oct(9,2) flashing on day 26  POW!!!
+today is 26
+oct(9,3) flashing on day 26  POW!!!
+today is 26
+oct(9,4) flashing on day 26  POW!!!
+today is 26
+oct(9,5) flashing on day 26  POW!!!
+today is 26
+oct(9,6) flashing on day 26  POW!!!
+today is 26
+================================== advance from day 26:
+oct(0,1) flashing on day 27  POW!!!
+today is 27
+oct(1,2) flashing on day 27  POW!!!
+today is 27
+oct(2,2) flashing on day 27  POW!!!
+today is 27
+oct(2,8) flashing on day 27  POW!!!
+today is 27
+oct(1,7) flashing on day 27  POW!!!
+today is 27
+oct(3,3) flashing on day 27  POW!!!
+today is 27
+oct(2,3) flashing on day 27  POW!!!
+today is 27
+oct(1,3) flashing on day 27  POW!!!
+today is 27
+oct(3,8) flashing on day 27  POW!!!
+today is 27
+oct(2,7) flashing on day 27  POW!!!
+today is 27
+oct(4,4) flashing on day 27  POW!!!
+today is 27
+oct(3,4) flashing on day 27  POW!!!
+today is 27
+oct(2,4) flashing on day 27  POW!!!
+today is 27
+oct(5,5) flashing on day 27  POW!!!
+today is 27
+oct(4,5) flashing on day 27  POW!!!
+today is 27
+oct(3,5) flashing on day 27  POW!!!
+today is 27
+oct(6,6) flashing on day 27  POW!!!
+today is 27
+oct(5,6) flashing on day 27  POW!!!
+today is 27
+oct(4,6) flashing on day 27  POW!!!
+today is 27
+oct(3,6) flashing on day 27  POW!!!
+today is 27
+oct(2,5) flashing on day 27  POW!!!
+today is 27
+oct(1,4) flashing on day 27  POW!!!
+today is 27
+oct(0,3) flashing on day 27  POW!!!
+today is 27
+oct(0,2) flashing on day 27  POW!!!
+today is 27
+oct(1,6) flashing on day 27  POW!!!
+today is 27
+oct(1,5) flashing on day 27  POW!!!
+today is 27
+oct(0,4) flashing on day 27  POW!!!
+today is 27
+oct(0,5) flashing on day 27  POW!!!
+today is 27
+oct(0,6) flashing on day 27  POW!!!
+today is 27
+oct(2,6) flashing on day 27  POW!!!
+today is 27
+oct(3,7) flashing on day 27  POW!!!
+today is 27
+oct(4,8) flashing on day 27  POW!!!
+today is 27
+oct(4,7) flashing on day 27  POW!!!
+today is 27
+oct(5,7) flashing on day 27  POW!!!
+today is 27
+oct(6,7) flashing on day 27  POW!!!
+today is 27
+oct(5,8) flashing on day 27  POW!!!
+today is 27
+oct(6,8) flashing on day 27  POW!!!
+today is 27
+oct(5,9) flashing on day 27  POW!!!
+today is 27
+oct(6,9) flashing on day 27  POW!!!
+today is 27
+================================== advance from day 27:
+oct(3,2) flashing on day 28  POW!!!
+today is 28
+oct(2,1) flashing on day 28  POW!!!
+today is 28
+oct(1,0) flashing on day 28  POW!!!
+today is 28
+oct(4,2) flashing on day 28  POW!!!
+today is 28
+oct(3,1) flashing on day 28  POW!!!
+today is 28
+oct(2,0) flashing on day 28  POW!!!
+today is 28
+oct(4,1) flashing on day 28  POW!!!
+today is 28
+oct(3,0) flashing on day 28  POW!!!
+today is 28
+oct(5,1) flashing on day 28  POW!!!
+today is 28
+oct(4,0) flashing on day 28  POW!!!
+today is 28
+oct(5,0) flashing on day 28  POW!!!
+today is 28
+oct(6,0) flashing on day 28  POW!!!
+today is 28
+oct(7,7) flashing on day 28  POW!!!
+today is 28
+================================== advance from day 28:
+oct(0,7) flashing on day 29  POW!!!
+today is 29
+oct(1,8) flashing on day 29  POW!!!
+today is 29
+oct(0,8) flashing on day 29  POW!!!
+today is 29
+oct(1,9) flashing on day 29  POW!!!
+today is 29
+oct(1,1) flashing on day 29  POW!!!
+today is 29
+oct(7,8) flashing on day 29  POW!!!
+today is 29
+oct(8,7) flashing on day 29  POW!!!
+today is 29
+oct(8,8) flashing on day 29  POW!!!
+today is 29
+oct(7,9) flashing on day 29  POW!!!
+today is 29
+oct(8,9) flashing on day 29  POW!!!
+today is 29
+oct(9,7) flashing on day 29  POW!!!
+today is 29
+oct(9,8) flashing on day 29  POW!!!
+today is 29
+================================== advance from day 29:
+oct(0,0) flashing on day 30  POW!!!
+today is 30
+================================== advance from day 30:
+oct(4,3) flashing on day 31  POW!!!
+today is 31
+oct(8,0) flashing on day 31  POW!!!
+today is 31
+oct(9,1) flashing on day 31  POW!!!
+today is 31
+oct(9,0) flashing on day 31  POW!!!
+today is 31
+oct(9,9) flashing on day 31  POW!!!
+today is 31
+================================== advance from day 31:
+oct(0,9) flashing on day 32  POW!!!
+today is 32
+oct(2,9) flashing on day 32  POW!!!
+today is 32
+oct(3,9) flashing on day 32  POW!!!
+today is 32
+oct(4,9) flashing on day 32  POW!!!
+today is 32
+oct(5,2) flashing on day 32  POW!!!
+today is 32
+oct(5,3) flashing on day 32  POW!!!
+today is 32
+oct(5,4) flashing on day 32  POW!!!
+today is 32
+oct(6,1) flashing on day 32  POW!!!
+today is 32
+oct(6,2) flashing on day 32  POW!!!
+today is 32
+oct(6,3) flashing on day 32  POW!!!
+today is 32
+oct(6,4) flashing on day 32  POW!!!
+today is 32
+oct(6,5) flashing on day 32  POW!!!
+today is 32
+oct(7,6) flashing on day 32  POW!!!
+today is 32
+oct(7,1) flashing on day 32  POW!!!
+today is 32
+oct(7,0) flashing on day 32  POW!!!
+today is 32
+oct(8,1) flashing on day 32  POW!!!
+today is 32
+oct(7,2) flashing on day 32  POW!!!
+today is 32
+oct(7,3) flashing on day 32  POW!!!
+today is 32
+oct(8,2) flashing on day 32  POW!!!
+today is 32
+oct(7,4) flashing on day 32  POW!!!
+today is 32
+oct(7,5) flashing on day 32  POW!!!
+today is 32
+oct(8,6) flashing on day 32  POW!!!
+today is 32
+oct(8,3) flashing on day 32  POW!!!
+today is 32
+oct(8,4) flashing on day 32  POW!!!
+today is 32
+oct(8,5) flashing on day 32  POW!!!
+today is 32
+oct(9,2) flashing on day 32  POW!!!
+today is 32
+oct(9,3) flashing on day 32  POW!!!
+today is 32
+oct(9,4) flashing on day 32  POW!!!
+today is 32
+oct(9,5) flashing on day 32  POW!!!
+today is 32
+oct(9,6) flashing on day 32  POW!!!
+today is 32
+================================== advance from day 32:
+oct(2,2) flashing on day 33  POW!!!
+today is 33
+oct(2,8) flashing on day 33  POW!!!
+today is 33
+oct(1,7) flashing on day 33  POW!!!
+today is 33
+oct(3,3) flashing on day 33  POW!!!
+today is 33
+oct(3,8) flashing on day 33  POW!!!
+today is 33
+oct(2,7) flashing on day 33  POW!!!
+today is 33
+oct(4,4) flashing on day 33  POW!!!
+today is 33
+oct(5,5) flashing on day 33  POW!!!
+today is 33
+oct(6,6) flashing on day 33  POW!!!
+today is 33
+oct(7,7) flashing on day 33  POW!!!
+today is 33
+oct(6,7) flashing on day 33  POW!!!
+today is 33
+oct(6,8) flashing on day 33  POW!!!
+today is 33
+oct(5,6) flashing on day 33  POW!!!
+today is 33
+oct(4,5) flashing on day 33  POW!!!
+today is 33
+oct(3,4) flashing on day 33  POW!!!
+today is 33
+oct(2,3) flashing on day 33  POW!!!
+today is 33
+oct(1,2) flashing on day 33  POW!!!
+today is 33
+oct(0,1) flashing on day 33  POW!!!
+today is 33
+oct(5,7) flashing on day 33  POW!!!
+today is 33
+oct(4,6) flashing on day 33  POW!!!
+today is 33
+oct(3,5) flashing on day 33  POW!!!
+today is 33
+oct(2,4) flashing on day 33  POW!!!
+today is 33
+oct(1,3) flashing on day 33  POW!!!
+today is 33
+oct(0,2) flashing on day 33  POW!!!
+today is 33
+oct(3,6) flashing on day 33  POW!!!
+today is 33
+oct(2,5) flashing on day 33  POW!!!
+today is 33
+oct(1,4) flashing on day 33  POW!!!
+today is 33
+oct(0,3) flashing on day 33  POW!!!
+today is 33
+oct(1,6) flashing on day 33  POW!!!
+today is 33
+oct(1,5) flashing on day 33  POW!!!
+today is 33
+oct(0,4) flashing on day 33  POW!!!
+today is 33
+oct(0,5) flashing on day 33  POW!!!
+today is 33
+oct(0,6) flashing on day 33  POW!!!
+today is 33
+oct(2,6) flashing on day 33  POW!!!
+today is 33
+oct(3,7) flashing on day 33  POW!!!
+today is 33
+oct(4,8) flashing on day 33  POW!!!
+today is 33
+oct(4,7) flashing on day 33  POW!!!
+today is 33
+oct(5,8) flashing on day 33  POW!!!
+today is 33
+oct(5,9) flashing on day 33  POW!!!
+today is 33
+oct(6,9) flashing on day 33  POW!!!
+today is 33
+================================== advance from day 33:
+oct(1,1) flashing on day 34  POW!!!
+today is 34
+oct(1,0) flashing on day 34  POW!!!
+today is 34
+oct(2,1) flashing on day 34  POW!!!
+today is 34
+oct(3,2) flashing on day 34  POW!!!
+today is 34
+oct(4,2) flashing on day 34  POW!!!
+today is 34
+oct(4,3) flashing on day 34  POW!!!
+today is 34
+oct(1,8) flashing on day 34  POW!!!
+today is 34
+oct(2,0) flashing on day 34  POW!!!
+today is 34
+oct(3,1) flashing on day 34  POW!!!
+today is 34
+oct(4,1) flashing on day 34  POW!!!
+today is 34
+oct(3,0) flashing on day 34  POW!!!
+today is 34
+oct(5,1) flashing on day 34  POW!!!
+today is 34
+oct(4,0) flashing on day 34  POW!!!
+today is 34
+oct(5,0) flashing on day 34  POW!!!
+today is 34
+oct(6,0) flashing on day 34  POW!!!
+today is 34
+================================== advance from day 34:
+oct(0,7) flashing on day 35  POW!!!
+today is 35
+oct(0,8) flashing on day 35  POW!!!
+today is 35
+oct(1,9) flashing on day 35  POW!!!
+today is 35
+oct(7,8) flashing on day 35  POW!!!
+today is 35
+oct(8,7) flashing on day 35  POW!!!
+today is 35
+oct(8,8) flashing on day 35  POW!!!
+today is 35
+oct(7,9) flashing on day 35  POW!!!
+today is 35
+oct(8,9) flashing on day 35  POW!!!
+today is 35
+oct(9,7) flashing on day 35  POW!!!
+today is 35
+oct(9,8) flashing on day 35  POW!!!
+today is 35
+================================== advance from day 35:
+================================== advance from day 36:
+oct(0,0) flashing on day 37  POW!!!
+today is 37
+================================== advance from day 37:
+oct(2,9) flashing on day 38  POW!!!
+today is 38
+oct(3,9) flashing on day 38  POW!!!
+today is 38
+oct(4,9) flashing on day 38  POW!!!
+today is 38
+oct(5,2) flashing on day 38  POW!!!
+today is 38
+oct(5,3) flashing on day 38  POW!!!
+today is 38
+oct(5,4) flashing on day 38  POW!!!
+today is 38
+oct(6,1) flashing on day 38  POW!!!
+today is 38
+oct(6,2) flashing on day 38  POW!!!
+today is 38
+oct(6,3) flashing on day 38  POW!!!
+today is 38
+oct(6,4) flashing on day 38  POW!!!
+today is 38
+oct(6,5) flashing on day 38  POW!!!
+today is 38
+oct(7,6) flashing on day 38  POW!!!
+today is 38
+oct(7,5) flashing on day 38  POW!!!
+today is 38
+oct(7,4) flashing on day 38  POW!!!
+today is 38
+oct(7,3) flashing on day 38  POW!!!
+today is 38
+oct(7,2) flashing on day 38  POW!!!
+today is 38
+oct(7,1) flashing on day 38  POW!!!
+today is 38
+oct(8,0) flashing on day 38  POW!!!
+today is 38
+oct(7,0) flashing on day 38  POW!!!
+today is 38
+oct(9,1) flashing on day 38  POW!!!
+today is 38
+oct(8,1) flashing on day 38  POW!!!
+today is 38
+oct(9,0) flashing on day 38  POW!!!
+today is 38
+oct(8,2) flashing on day 38  POW!!!
+today is 38
+oct(8,6) flashing on day 38  POW!!!
+today is 38
+oct(7,7) flashing on day 38  POW!!!
+today is 38
+oct(8,3) flashing on day 38  POW!!!
+today is 38
+oct(8,4) flashing on day 38  POW!!!
+today is 38
+oct(8,5) flashing on day 38  POW!!!
+today is 38
+oct(9,2) flashing on day 38  POW!!!
+today is 38
+oct(9,3) flashing on day 38  POW!!!
+today is 38
+oct(9,4) flashing on day 38  POW!!!
+today is 38
+oct(9,5) flashing on day 38  POW!!!
+today is 38
+oct(9,6) flashing on day 38  POW!!!
+today is 38
+oct(9,9) flashing on day 38  POW!!!
+today is 38
+================================== advance from day 38:
+oct(0,9) flashing on day 39  POW!!!
+today is 39
+oct(1,8) flashing on day 39  POW!!!
+today is 39
+oct(1,7) flashing on day 39  POW!!!
+today is 39
+oct(2,8) flashing on day 39  POW!!!
+today is 39
+oct(2,2) flashing on day 39  POW!!!
+today is 39
+oct(2,7) flashing on day 39  POW!!!
+today is 39
+oct(3,8) flashing on day 39  POW!!!
+today is 39
+oct(3,3) flashing on day 39  POW!!!
+today is 39
+oct(4,4) flashing on day 39  POW!!!
+today is 39
+oct(4,3) flashing on day 39  POW!!!
+today is 39
+oct(3,4) flashing on day 39  POW!!!
+today is 39
+oct(2,3) flashing on day 39  POW!!!
+today is 39
+oct(1,2) flashing on day 39  POW!!!
+today is 39
+oct(0,1) flashing on day 39  POW!!!
+today is 39
+oct(5,5) flashing on day 39  POW!!!
+today is 39
+oct(4,5) flashing on day 39  POW!!!
+today is 39
+oct(6,6) flashing on day 39  POW!!!
+today is 39
+oct(5,6) flashing on day 39  POW!!!
+today is 39
+oct(6,7) flashing on day 39  POW!!!
+today is 39
+oct(6,8) flashing on day 39  POW!!!
+today is 39
+oct(5,7) flashing on day 39  POW!!!
+today is 39
+oct(4,6) flashing on day 39  POW!!!
+today is 39
+oct(3,5) flashing on day 39  POW!!!
+today is 39
+oct(2,4) flashing on day 39  POW!!!
+today is 39
+oct(1,3) flashing on day 39  POW!!!
+today is 39
+oct(0,2) flashing on day 39  POW!!!
+today is 39
+oct(1,1) flashing on day 39  POW!!!
+today is 39
+oct(3,6) flashing on day 39  POW!!!
+today is 39
+oct(2,5) flashing on day 39  POW!!!
+today is 39
+oct(1,4) flashing on day 39  POW!!!
+today is 39
+oct(0,3) flashing on day 39  POW!!!
+today is 39
+oct(1,6) flashing on day 39  POW!!!
+today is 39
+oct(1,5) flashing on day 39  POW!!!
+today is 39
+oct(0,4) flashing on day 39  POW!!!
+today is 39
+oct(0,5) flashing on day 39  POW!!!
+today is 39
+oct(0,6) flashing on day 39  POW!!!
+today is 39
+oct(2,6) flashing on day 39  POW!!!
+today is 39
+oct(3,7) flashing on day 39  POW!!!
+today is 39
+oct(4,8) flashing on day 39  POW!!!
+today is 39
+oct(4,7) flashing on day 39  POW!!!
+today is 39
+oct(5,8) flashing on day 39  POW!!!
+today is 39
+oct(5,9) flashing on day 39  POW!!!
+today is 39
+oct(6,9) flashing on day 39  POW!!!
+today is 39
+================================== advance from day 39:
+oct(3,2) flashing on day 40  POW!!!
+today is 40
+oct(2,1) flashing on day 40  POW!!!
+today is 40
+oct(1,0) flashing on day 40  POW!!!
+today is 40
+oct(4,2) flashing on day 40  POW!!!
+today is 40
+oct(3,1) flashing on day 40  POW!!!
+today is 40
+oct(2,0) flashing on day 40  POW!!!
+today is 40
+oct(4,1) flashing on day 40  POW!!!
+today is 40
+oct(3,0) flashing on day 40  POW!!!
+today is 40
+oct(5,1) flashing on day 40  POW!!!
+today is 40
+oct(4,0) flashing on day 40  POW!!!
+today is 40
+oct(5,0) flashing on day 40  POW!!!
+today is 40
+oct(6,0) flashing on day 40  POW!!!
+today is 40
+================================== advance from day 40:
+oct(0,7) flashing on day 41  POW!!!
+today is 41
+oct(0,8) flashing on day 41  POW!!!
+today is 41
+oct(1,9) flashing on day 41  POW!!!
+today is 41
+oct(7,8) flashing on day 41  POW!!!
+today is 41
+oct(8,7) flashing on day 41  POW!!!
+today is 41
+oct(8,8) flashing on day 41  POW!!!
+today is 41
+oct(7,9) flashing on day 41  POW!!!
+today is 41
+oct(8,9) flashing on day 41  POW!!!
+today is 41
+oct(9,7) flashing on day 41  POW!!!
+today is 41
+oct(9,8) flashing on day 41  POW!!!
+today is 41
+================================== advance from day 41:
+oct(7,7) flashing on day 42  POW!!!
+today is 42
+================================== advance from day 42:
+================================== advance from day 43:
+oct(0,0) flashing on day 44  POW!!!
+today is 44
+oct(2,9) flashing on day 44  POW!!!
+today is 44
+oct(3,9) flashing on day 44  POW!!!
+today is 44
+oct(4,9) flashing on day 44  POW!!!
+today is 44
+oct(5,2) flashing on day 44  POW!!!
+today is 44
+oct(5,3) flashing on day 44  POW!!!
+today is 44
+oct(5,4) flashing on day 44  POW!!!
+today is 44
+oct(4,3) flashing on day 44  POW!!!
+today is 44
+oct(6,1) flashing on day 44  POW!!!
+today is 44
+oct(6,2) flashing on day 44  POW!!!
+today is 44
+oct(6,3) flashing on day 44  POW!!!
+today is 44
+oct(6,4) flashing on day 44  POW!!!
+today is 44
+oct(6,5) flashing on day 44  POW!!!
+today is 44
+oct(7,6) flashing on day 44  POW!!!
+today is 44
+oct(7,5) flashing on day 44  POW!!!
+today is 44
+oct(7,4) flashing on day 44  POW!!!
+today is 44
+oct(7,3) flashing on day 44  POW!!!
+today is 44
+oct(7,2) flashing on day 44  POW!!!
+today is 44
+oct(7,1) flashing on day 44  POW!!!
+today is 44
+oct(8,6) flashing on day 44  POW!!!
+today is 44
+oct(8,5) flashing on day 44  POW!!!
+today is 44
+oct(8,4) flashing on day 44  POW!!!
+today is 44
+oct(8,3) flashing on day 44  POW!!!
+today is 44
+oct(8,2) flashing on day 44  POW!!!
+today is 44
+oct(9,6) flashing on day 44  POW!!!
+today is 44
+oct(9,5) flashing on day 44  POW!!!
+today is 44
+oct(9,4) flashing on day 44  POW!!!
+today is 44
+oct(9,3) flashing on day 44  POW!!!
+today is 44
+================================== advance from day 44:
+oct(1,1) flashing on day 45  POW!!!
+today is 45
+oct(1,8) flashing on day 45  POW!!!
+today is 45
+oct(2,2) flashing on day 45  POW!!!
+today is 45
+oct(2,8) flashing on day 45  POW!!!
+today is 45
+oct(1,7) flashing on day 45  POW!!!
+today is 45
+oct(3,3) flashing on day 45  POW!!!
+today is 45
+oct(3,8) flashing on day 45  POW!!!
+today is 45
+oct(2,7) flashing on day 45  POW!!!
+today is 45
+oct(4,4) flashing on day 45  POW!!!
+today is 45
+oct(5,5) flashing on day 45  POW!!!
+today is 45
+oct(6,6) flashing on day 45  POW!!!
+today is 45
+oct(6,7) flashing on day 45  POW!!!
+today is 45
+oct(5,6) flashing on day 45  POW!!!
+today is 45
+oct(4,5) flashing on day 45  POW!!!
+today is 45
+oct(3,4) flashing on day 45  POW!!!
+today is 45
+oct(2,3) flashing on day 45  POW!!!
+today is 45
+oct(1,2) flashing on day 45  POW!!!
+today is 45
+oct(0,1) flashing on day 45  POW!!!
+today is 45
+oct(6,8) flashing on day 45  POW!!!
+today is 45
+oct(5,7) flashing on day 45  POW!!!
+today is 45
+oct(4,6) flashing on day 45  POW!!!
+today is 45
+oct(3,5) flashing on day 45  POW!!!
+today is 45
+oct(2,4) flashing on day 45  POW!!!
+today is 45
+oct(1,3) flashing on day 45  POW!!!
+today is 45
+oct(0,2) flashing on day 45  POW!!!
+today is 45
+oct(3,6) flashing on day 45  POW!!!
+today is 45
+oct(2,5) flashing on day 45  POW!!!
+today is 45
+oct(1,4) flashing on day 45  POW!!!
+today is 45
+oct(0,3) flashing on day 45  POW!!!
+today is 45
+oct(1,6) flashing on day 45  POW!!!
+today is 45
+oct(1,5) flashing on day 45  POW!!!
+today is 45
+oct(0,4) flashing on day 45  POW!!!
+today is 45
+oct(0,5) flashing on day 45  POW!!!
+today is 45
+oct(0,6) flashing on day 45  POW!!!
+today is 45
+oct(2,6) flashing on day 45  POW!!!
+today is 45
+oct(3,7) flashing on day 45  POW!!!
+today is 45
+oct(4,8) flashing on day 45  POW!!!
+today is 45
+oct(4,7) flashing on day 45  POW!!!
+today is 45
+oct(5,8) flashing on day 45  POW!!!
+today is 45
+oct(5,9) flashing on day 45  POW!!!
+today is 45
+oct(6,9) flashing on day 45  POW!!!
+today is 45
+oct(7,0) flashing on day 45  POW!!!
+today is 45
+oct(8,1) flashing on day 45  POW!!!
+today is 45
+oct(9,2) flashing on day 45  POW!!!
+today is 45
+oct(8,0) flashing on day 45  POW!!!
+today is 45
+oct(9,1) flashing on day 45  POW!!!
+today is 45
+oct(9,0) flashing on day 45  POW!!!
+today is 45
+oct(9,9) flashing on day 45  POW!!!
+today is 45
+================================== advance from day 45:
+oct(0,9) flashing on day 46  POW!!!
+today is 46
+oct(3,2) flashing on day 46  POW!!!
+today is 46
+oct(2,1) flashing on day 46  POW!!!
+today is 46
+oct(1,0) flashing on day 46  POW!!!
+today is 46
+oct(4,2) flashing on day 46  POW!!!
+today is 46
+oct(3,1) flashing on day 46  POW!!!
+today is 46
+oct(2,0) flashing on day 46  POW!!!
+today is 46
+oct(4,1) flashing on day 46  POW!!!
+today is 46
+oct(3,0) flashing on day 46  POW!!!
+today is 46
+oct(5,1) flashing on day 46  POW!!!
+today is 46
+oct(4,0) flashing on day 46  POW!!!
+today is 46
+oct(5,0) flashing on day 46  POW!!!
+today is 46
+oct(6,0) flashing on day 46  POW!!!
+today is 46
+================================== advance from day 46:
+oct(0,7) flashing on day 47  POW!!!
+today is 47
+oct(0,8) flashing on day 47  POW!!!
+today is 47
+oct(1,9) flashing on day 47  POW!!!
+today is 47
+oct(7,7) flashing on day 47  POW!!!
+today is 47
+oct(7,8) flashing on day 47  POW!!!
+today is 47
+oct(8,7) flashing on day 47  POW!!!
+today is 47
+oct(8,8) flashing on day 47  POW!!!
+today is 47
+oct(7,9) flashing on day 47  POW!!!
+today is 47
+oct(8,9) flashing on day 47  POW!!!
+today is 47
+oct(9,7) flashing on day 47  POW!!!
+today is 47
+oct(9,8) flashing on day 47  POW!!!
+today is 47
+================================== advance from day 47:
+================================== advance from day 48:
+oct(4,3) flashing on day 49  POW!!!
+today is 49
+================================== advance from day 49:
+oct(2,9) flashing on day 50  POW!!!
+today is 50
+oct(1,8) flashing on day 50  POW!!!
+today is 50
+oct(3,9) flashing on day 50  POW!!!
+today is 50
+oct(4,9) flashing on day 50  POW!!!
+today is 50
+oct(5,2) flashing on day 50  POW!!!
+today is 50
+oct(6,1) flashing on day 50  POW!!!
+today is 50
+oct(7,1) flashing on day 50  POW!!!
+today is 50
+oct(5,3) flashing on day 50  POW!!!
+today is 50
+oct(5,4) flashing on day 50  POW!!!
+today is 50
+oct(6,2) flashing on day 50  POW!!!
+today is 50
+oct(6,3) flashing on day 50  POW!!!
+today is 50
+oct(7,2) flashing on day 50  POW!!!
+today is 50
+oct(8,2) flashing on day 50  POW!!!
+today is 50
+oct(6,4) flashing on day 50  POW!!!
+today is 50
+oct(6,5) flashing on day 50  POW!!!
+today is 50
+oct(7,6) flashing on day 50  POW!!!
+today is 50
+oct(7,3) flashing on day 50  POW!!!
+today is 50
+oct(7,4) flashing on day 50  POW!!!
+today is 50
+oct(7,5) flashing on day 50  POW!!!
+today is 50
+oct(8,6) flashing on day 50  POW!!!
+today is 50
+oct(8,3) flashing on day 50  POW!!!
+today is 50
+oct(8,4) flashing on day 50  POW!!!
+today is 50
+oct(8,5) flashing on day 50  POW!!!
+today is 50
+oct(9,3) flashing on day 50  POW!!!
+today is 50
+oct(9,4) flashing on day 50  POW!!!
+today is 50
+oct(9,5) flashing on day 50  POW!!!
+today is 50
+oct(9,6) flashing on day 50  POW!!!
+today is 50
+================================== advance from day 50:
+oct(0,0) flashing on day 51  POW!!!
+today is 51
+oct(1,1) flashing on day 51  POW!!!
+today is 51
+oct(2,2) flashing on day 51  POW!!!
+today is 51
+oct(2,8) flashing on day 51  POW!!!
+today is 51
+oct(1,7) flashing on day 51  POW!!!
+today is 51
+oct(3,3) flashing on day 51  POW!!!
+today is 51
+oct(3,8) flashing on day 51  POW!!!
+today is 51
+oct(2,7) flashing on day 51  POW!!!
+today is 51
+oct(4,4) flashing on day 51  POW!!!
+today is 51
+oct(5,5) flashing on day 51  POW!!!
+today is 51
+oct(6,6) flashing on day 51  POW!!!
+today is 51
+oct(6,7) flashing on day 51  POW!!!
+today is 51
+oct(5,6) flashing on day 51  POW!!!
+today is 51
+oct(4,5) flashing on day 51  POW!!!
+today is 51
+oct(3,4) flashing on day 51  POW!!!
+today is 51
+oct(2,3) flashing on day 51  POW!!!
+today is 51
+oct(1,2) flashing on day 51  POW!!!
+today is 51
+oct(0,1) flashing on day 51  POW!!!
+today is 51
+oct(6,8) flashing on day 51  POW!!!
+today is 51
+oct(5,7) flashing on day 51  POW!!!
+today is 51
+oct(4,6) flashing on day 51  POW!!!
+today is 51
+oct(3,5) flashing on day 51  POW!!!
+today is 51
+oct(2,4) flashing on day 51  POW!!!
+today is 51
+oct(1,3) flashing on day 51  POW!!!
+today is 51
+oct(0,2) flashing on day 51  POW!!!
+today is 51
+oct(3,6) flashing on day 51  POW!!!
+today is 51
+oct(2,5) flashing on day 51  POW!!!
+today is 51
+oct(1,4) flashing on day 51  POW!!!
+today is 51
+oct(0,3) flashing on day 51  POW!!!
+today is 51
+oct(1,6) flashing on day 51  POW!!!
+today is 51
+oct(1,5) flashing on day 51  POW!!!
+today is 51
+oct(0,4) flashing on day 51  POW!!!
+today is 51
+oct(0,5) flashing on day 51  POW!!!
+today is 51
+oct(0,6) flashing on day 51  POW!!!
+today is 51
+oct(2,6) flashing on day 51  POW!!!
+today is 51
+oct(3,7) flashing on day 51  POW!!!
+today is 51
+oct(4,8) flashing on day 51  POW!!!
+today is 51
+oct(4,7) flashing on day 51  POW!!!
+today is 51
+oct(5,8) flashing on day 51  POW!!!
+today is 51
+oct(5,9) flashing on day 51  POW!!!
+today is 51
+oct(6,9) flashing on day 51  POW!!!
+today is 51
+================================== advance from day 51:
+oct(3,2) flashing on day 52  POW!!!
+today is 52
+oct(2,1) flashing on day 52  POW!!!
+today is 52
+oct(1,0) flashing on day 52  POW!!!
+today is 52
+oct(4,2) flashing on day 52  POW!!!
+today is 52
+oct(3,1) flashing on day 52  POW!!!
+today is 52
+oct(2,0) flashing on day 52  POW!!!
+today is 52
+oct(4,3) flashing on day 52  POW!!!
+today is 52
+oct(4,1) flashing on day 52  POW!!!
+today is 52
+oct(3,0) flashing on day 52  POW!!!
+today is 52
+oct(5,1) flashing on day 52  POW!!!
+today is 52
+oct(4,0) flashing on day 52  POW!!!
+today is 52
+oct(5,0) flashing on day 52  POW!!!
+today is 52
+oct(6,0) flashing on day 52  POW!!!
+today is 52
+oct(7,0) flashing on day 52  POW!!!
+today is 52
+oct(8,1) flashing on day 52  POW!!!
+today is 52
+oct(9,2) flashing on day 52  POW!!!
+today is 52
+oct(7,7) flashing on day 52  POW!!!
+today is 52
+oct(8,0) flashing on day 52  POW!!!
+today is 52
+oct(9,1) flashing on day 52  POW!!!
+today is 52
+oct(9,0) flashing on day 52  POW!!!
+today is 52
+oct(9,9) flashing on day 52  POW!!!
+today is 52
+================================== advance from day 52:
+oct(0,7) flashing on day 53  POW!!!
+today is 53
+oct(0,9) flashing on day 53  POW!!!
+today is 53
+oct(0,8) flashing on day 53  POW!!!
+today is 53
+oct(1,9) flashing on day 53  POW!!!
+today is 53
+oct(1,8) flashing on day 53  POW!!!
+today is 53
+oct(7,8) flashing on day 53  POW!!!
+today is 53
+oct(8,7) flashing on day 53  POW!!!
+today is 53
+oct(8,8) flashing on day 53  POW!!!
+today is 53
+oct(7,9) flashing on day 53  POW!!!
+today is 53
+oct(8,9) flashing on day 53  POW!!!
+today is 53
+oct(9,7) flashing on day 53  POW!!!
+today is 53
+oct(9,8) flashing on day 53  POW!!!
+today is 53
+================================== advance from day 53:
+================================== advance from day 54:
+================================== advance from day 55:
+oct(2,9) flashing on day 56  POW!!!
+today is 56
+oct(3,9) flashing on day 56  POW!!!
+today is 56
+oct(4,9) flashing on day 56  POW!!!
+today is 56
+oct(5,2) flashing on day 56  POW!!!
+today is 56
+oct(6,1) flashing on day 56  POW!!!
+today is 56
+oct(7,1) flashing on day 56  POW!!!
+today is 56
+oct(5,3) flashing on day 56  POW!!!
+today is 56
+oct(5,4) flashing on day 56  POW!!!
+today is 56
+oct(6,2) flashing on day 56  POW!!!
+today is 56
+oct(6,3) flashing on day 56  POW!!!
+today is 56
+oct(7,2) flashing on day 56  POW!!!
+today is 56
+oct(8,2) flashing on day 56  POW!!!
+today is 56
+oct(6,4) flashing on day 56  POW!!!
+today is 56
+oct(6,5) flashing on day 56  POW!!!
+today is 56
+oct(7,6) flashing on day 56  POW!!!
+today is 56
+oct(7,3) flashing on day 56  POW!!!
+today is 56
+oct(7,4) flashing on day 56  POW!!!
+today is 56
+oct(7,5) flashing on day 56  POW!!!
+today is 56
+oct(8,6) flashing on day 56  POW!!!
+today is 56
+oct(8,3) flashing on day 56  POW!!!
+today is 56
+oct(8,4) flashing on day 56  POW!!!
+today is 56
+oct(8,5) flashing on day 56  POW!!!
+today is 56
+oct(9,3) flashing on day 56  POW!!!
+today is 56
+oct(9,4) flashing on day 56  POW!!!
+today is 56
+oct(9,5) flashing on day 56  POW!!!
+today is 56
+oct(9,6) flashing on day 56  POW!!!
+today is 56
+================================== advance from day 56:
+oct(2,8) flashing on day 57  POW!!!
+today is 57
+oct(1,7) flashing on day 57  POW!!!
+today is 57
+oct(3,8) flashing on day 57  POW!!!
+today is 57
+oct(2,7) flashing on day 57  POW!!!
+today is 57
+oct(6,6) flashing on day 57  POW!!!
+today is 57
+oct(5,5) flashing on day 57  POW!!!
+today is 57
+oct(4,4) flashing on day 57  POW!!!
+today is 57
+oct(3,3) flashing on day 57  POW!!!
+today is 57
+oct(2,2) flashing on day 57  POW!!!
+today is 57
+oct(1,1) flashing on day 57  POW!!!
+today is 57
+oct(4,3) flashing on day 57  POW!!!
+today is 57
+oct(3,4) flashing on day 57  POW!!!
+today is 57
+oct(2,3) flashing on day 57  POW!!!
+today is 57
+oct(1,2) flashing on day 57  POW!!!
+today is 57
+oct(4,5) flashing on day 57  POW!!!
+today is 57
+oct(5,6) flashing on day 57  POW!!!
+today is 57
+oct(6,7) flashing on day 57  POW!!!
+today is 57
+oct(7,7) flashing on day 57  POW!!!
+today is 57
+oct(6,8) flashing on day 57  POW!!!
+today is 57
+oct(5,7) flashing on day 57  POW!!!
+today is 57
+oct(4,6) flashing on day 57  POW!!!
+today is 57
+oct(3,5) flashing on day 57  POW!!!
+today is 57
+oct(2,4) flashing on day 57  POW!!!
+today is 57
+oct(1,3) flashing on day 57  POW!!!
+today is 57
+oct(3,6) flashing on day 57  POW!!!
+today is 57
+oct(2,5) flashing on day 57  POW!!!
+today is 57
+oct(1,4) flashing on day 57  POW!!!
+today is 57
+oct(1,6) flashing on day 57  POW!!!
+today is 57
+oct(1,5) flashing on day 57  POW!!!
+today is 57
+oct(0,6) flashing on day 57  POW!!!
+today is 57
+oct(0,5) flashing on day 57  POW!!!
+today is 57
+oct(0,4) flashing on day 57  POW!!!
+today is 57
+oct(0,3) flashing on day 57  POW!!!
+today is 57
+oct(0,2) flashing on day 57  POW!!!
+today is 57
+oct(0,1) flashing on day 57  POW!!!
+today is 57
+oct(2,6) flashing on day 57  POW!!!
+today is 57
+oct(3,7) flashing on day 57  POW!!!
+today is 57
+oct(4,8) flashing on day 57  POW!!!
+today is 57
+oct(4,7) flashing on day 57  POW!!!
+today is 57
+oct(5,8) flashing on day 57  POW!!!
+today is 57
+oct(5,9) flashing on day 57  POW!!!
+today is 57
+oct(6,9) flashing on day 57  POW!!!
+today is 57
+================================== advance from day 57:
+oct(0,0) flashing on day 58  POW!!!
+today is 58
+oct(3,2) flashing on day 58  POW!!!
+today is 58
+oct(2,1) flashing on day 58  POW!!!
+today is 58
+oct(1,0) flashing on day 58  POW!!!
+today is 58
+oct(4,2) flashing on day 58  POW!!!
+today is 58
+oct(3,1) flashing on day 58  POW!!!
+today is 58
+oct(2,0) flashing on day 58  POW!!!
+today is 58
+oct(4,1) flashing on day 58  POW!!!
+today is 58
+oct(3,0) flashing on day 58  POW!!!
+today is 58
+oct(5,1) flashing on day 58  POW!!!
+today is 58
+oct(4,0) flashing on day 58  POW!!!
+today is 58
+oct(5,0) flashing on day 58  POW!!!
+today is 58
+oct(6,0) flashing on day 58  POW!!!
+today is 58
+================================== advance from day 58:
+oct(1,8) flashing on day 59  POW!!!
+today is 59
+oct(0,7) flashing on day 59  POW!!!
+today is 59
+oct(7,0) flashing on day 59  POW!!!
+today is 59
+oct(8,1) flashing on day 59  POW!!!
+today is 59
+oct(9,2) flashing on day 59  POW!!!
+today is 59
+oct(7,8) flashing on day 59  POW!!!
+today is 59
+oct(8,7) flashing on day 59  POW!!!
+today is 59
+oct(8,0) flashing on day 59  POW!!!
+today is 59
+oct(9,1) flashing on day 59  POW!!!
+today is 59
+oct(9,0) flashing on day 59  POW!!!
+today is 59
+oct(9,9) flashing on day 59  POW!!!
+today is 59
+oct(8,8) flashing on day 59  POW!!!
+today is 59
+oct(7,9) flashing on day 59  POW!!!
+today is 59
+oct(9,7) flashing on day 59  POW!!!
+today is 59
+oct(8,9) flashing on day 59  POW!!!
+today is 59
+oct(9,8) flashing on day 59  POW!!!
+today is 59
+================================== advance from day 59:
+oct(0,8) flashing on day 60  POW!!!
+today is 60
+oct(1,9) flashing on day 60  POW!!!
+today is 60
+oct(0,9) flashing on day 60  POW!!!
+today is 60
+================================== advance from day 60:
+================================== advance from day 61:
+oct(2,9) flashing on day 62  POW!!!
+today is 62
+oct(3,9) flashing on day 62  POW!!!
+today is 62
+oct(4,9) flashing on day 62  POW!!!
+today is 62
+oct(5,2) flashing on day 62  POW!!!
+today is 62
+oct(6,1) flashing on day 62  POW!!!
+today is 62
+oct(7,1) flashing on day 62  POW!!!
+today is 62
+oct(5,3) flashing on day 62  POW!!!
+today is 62
+oct(5,4) flashing on day 62  POW!!!
+today is 62
+oct(4,3) flashing on day 62  POW!!!
+today is 62
+oct(6,2) flashing on day 62  POW!!!
+today is 62
+oct(6,3) flashing on day 62  POW!!!
+today is 62
+oct(7,2) flashing on day 62  POW!!!
+today is 62
+oct(8,2) flashing on day 62  POW!!!
+today is 62
+oct(6,4) flashing on day 62  POW!!!
+today is 62
+oct(6,5) flashing on day 62  POW!!!
+today is 62
+oct(7,6) flashing on day 62  POW!!!
+today is 62
+oct(7,3) flashing on day 62  POW!!!
+today is 62
+oct(7,4) flashing on day 62  POW!!!
+today is 62
+oct(7,5) flashing on day 62  POW!!!
+today is 62
+oct(8,6) flashing on day 62  POW!!!
+today is 62
+oct(8,3) flashing on day 62  POW!!!
+today is 62
+oct(7,7) flashing on day 62  POW!!!
+today is 62
+oct(8,4) flashing on day 62  POW!!!
+today is 62
+oct(8,5) flashing on day 62  POW!!!
+today is 62
+oct(9,3) flashing on day 62  POW!!!
+today is 62
+oct(9,4) flashing on day 62  POW!!!
+today is 62
+oct(9,5) flashing on day 62  POW!!!
+today is 62
+oct(9,6) flashing on day 62  POW!!!
+today is 62
+================================== advance from day 62:
+oct(1,1) flashing on day 63  POW!!!
+today is 63
+oct(2,2) flashing on day 63  POW!!!
+today is 63
+oct(2,8) flashing on day 63  POW!!!
+today is 63
+oct(1,7) flashing on day 63  POW!!!
+today is 63
+oct(1,8) flashing on day 63  POW!!!
+today is 63
+oct(2,7) flashing on day 63  POW!!!
+today is 63
+oct(3,8) flashing on day 63  POW!!!
+today is 63
+oct(3,3) flashing on day 63  POW!!!
+today is 63
+oct(4,4) flashing on day 63  POW!!!
+today is 63
+oct(5,5) flashing on day 63  POW!!!
+today is 63
+oct(6,6) flashing on day 63  POW!!!
+today is 63
+oct(6,7) flashing on day 63  POW!!!
+today is 63
+oct(5,6) flashing on day 63  POW!!!
+today is 63
+oct(4,5) flashing on day 63  POW!!!
+today is 63
+oct(3,4) flashing on day 63  POW!!!
+today is 63
+oct(2,3) flashing on day 63  POW!!!
+today is 63
+oct(1,2) flashing on day 63  POW!!!
+today is 63
+oct(0,1) flashing on day 63  POW!!!
+today is 63
+oct(6,8) flashing on day 63  POW!!!
+today is 63
+oct(5,7) flashing on day 63  POW!!!
+today is 63
+oct(4,6) flashing on day 63  POW!!!
+today is 63
+oct(3,5) flashing on day 63  POW!!!
+today is 63
+oct(2,4) flashing on day 63  POW!!!
+today is 63
+oct(1,3) flashing on day 63  POW!!!
+today is 63
+oct(0,2) flashing on day 63  POW!!!
+today is 63
+oct(3,6) flashing on day 63  POW!!!
+today is 63
+oct(2,5) flashing on day 63  POW!!!
+today is 63
+oct(1,4) flashing on day 63  POW!!!
+today is 63
+oct(0,3) flashing on day 63  POW!!!
+today is 63
+oct(1,6) flashing on day 63  POW!!!
+today is 63
+oct(1,5) flashing on day 63  POW!!!
+today is 63
+oct(0,4) flashing on day 63  POW!!!
+today is 63
+oct(0,5) flashing on day 63  POW!!!
+today is 63
+oct(0,6) flashing on day 63  POW!!!
+today is 63
+oct(2,6) flashing on day 63  POW!!!
+today is 63
+oct(3,7) flashing on day 63  POW!!!
+today is 63
+oct(4,8) flashing on day 63  POW!!!
+today is 63
+oct(4,7) flashing on day 63  POW!!!
+today is 63
+oct(5,8) flashing on day 63  POW!!!
+today is 63
+oct(5,9) flashing on day 63  POW!!!
+today is 63
+oct(6,9) flashing on day 63  POW!!!
+today is 63
+================================== advance from day 63:
+oct(0,7) flashing on day 64  POW!!!
+today is 64
+oct(3,2) flashing on day 64  POW!!!
+today is 64
+oct(2,1) flashing on day 64  POW!!!
+today is 64
+oct(4,2) flashing on day 64  POW!!!
+today is 64
+oct(3,1) flashing on day 64  POW!!!
+today is 64
+oct(4,1) flashing on day 64  POW!!!
+today is 64
+oct(5,1) flashing on day 64  POW!!!
+today is 64
+oct(6,0) flashing on day 64  POW!!!
+today is 64
+oct(5,0) flashing on day 64  POW!!!
+today is 64
+oct(4,0) flashing on day 64  POW!!!
+today is 64
+oct(3,0) flashing on day 64  POW!!!
+today is 64
+oct(2,0) flashing on day 64  POW!!!
+today is 64
+oct(1,0) flashing on day 64  POW!!!
+today is 64
+================================== advance from day 64:
+oct(0,0) flashing on day 65  POW!!!
+today is 65
+oct(7,8) flashing on day 65  POW!!!
+today is 65
+oct(8,7) flashing on day 65  POW!!!
+today is 65
+================================== advance from day 65:
+oct(7,0) flashing on day 66  POW!!!
+today is 66
+oct(8,1) flashing on day 66  POW!!!
+today is 66
+oct(9,2) flashing on day 66  POW!!!
+today is 66
+oct(7,9) flashing on day 66  POW!!!
+today is 66
+oct(8,8) flashing on day 66  POW!!!
+today is 66
+oct(7,7) flashing on day 66  POW!!!
+today is 66
+oct(9,7) flashing on day 66  POW!!!
+today is 66
+oct(8,0) flashing on day 66  POW!!!
+today is 66
+oct(9,1) flashing on day 66  POW!!!
+today is 66
+oct(8,9) flashing on day 66  POW!!!
+today is 66
+oct(9,8) flashing on day 66  POW!!!
+today is 66
+oct(9,0) flashing on day 66  POW!!!
+today is 66
+oct(9,9) flashing on day 66  POW!!!
+today is 66
+================================== advance from day 66:
+oct(0,8) flashing on day 67  POW!!!
+today is 67
+oct(1,9) flashing on day 67  POW!!!
+today is 67
+oct(0,9) flashing on day 67  POW!!!
+today is 67
+oct(4,3) flashing on day 67  POW!!!
+today is 67
+================================== advance from day 67:
+oct(2,9) flashing on day 68  POW!!!
+today is 68
+oct(1,8) flashing on day 68  POW!!!
+today is 68
+oct(3,9) flashing on day 68  POW!!!
+today is 68
+oct(4,9) flashing on day 68  POW!!!
+today is 68
+oct(5,2) flashing on day 68  POW!!!
+today is 68
+oct(6,1) flashing on day 68  POW!!!
+today is 68
+oct(7,1) flashing on day 68  POW!!!
+today is 68
+oct(5,3) flashing on day 68  POW!!!
+today is 68
+oct(5,4) flashing on day 68  POW!!!
+today is 68
+oct(6,2) flashing on day 68  POW!!!
+today is 68
+oct(6,3) flashing on day 68  POW!!!
+today is 68
+oct(7,2) flashing on day 68  POW!!!
+today is 68
+oct(8,2) flashing on day 68  POW!!!
+today is 68
+oct(6,4) flashing on day 68  POW!!!
+today is 68
+oct(6,5) flashing on day 68  POW!!!
+today is 68
+oct(7,6) flashing on day 68  POW!!!
+today is 68
+oct(7,3) flashing on day 68  POW!!!
+today is 68
+oct(7,4) flashing on day 68  POW!!!
+today is 68
+oct(7,5) flashing on day 68  POW!!!
+today is 68
+oct(8,6) flashing on day 68  POW!!!
+today is 68
+oct(8,3) flashing on day 68  POW!!!
+today is 68
+oct(8,4) flashing on day 68  POW!!!
+today is 68
+oct(8,5) flashing on day 68  POW!!!
+today is 68
+oct(9,3) flashing on day 68  POW!!!
+today is 68
+oct(9,4) flashing on day 68  POW!!!
+today is 68
+oct(9,5) flashing on day 68  POW!!!
+today is 68
+oct(9,6) flashing on day 68  POW!!!
+today is 68
+oct(8,7) flashing on day 68  POW!!!
+today is 68
+================================== advance from day 68:
+oct(1,1) flashing on day 69  POW!!!
+today is 69
+oct(2,2) flashing on day 69  POW!!!
+today is 69
+oct(2,8) flashing on day 69  POW!!!
+today is 69
+oct(1,7) flashing on day 69  POW!!!
+today is 69
+oct(3,3) flashing on day 69  POW!!!
+today is 69
+oct(3,8) flashing on day 69  POW!!!
+today is 69
+oct(2,7) flashing on day 69  POW!!!
+today is 69
+oct(4,4) flashing on day 69  POW!!!
+today is 69
+oct(5,5) flashing on day 69  POW!!!
+today is 69
+oct(6,6) flashing on day 69  POW!!!
+today is 69
+oct(6,7) flashing on day 69  POW!!!
+today is 69
+oct(5,6) flashing on day 69  POW!!!
+today is 69
+oct(4,5) flashing on day 69  POW!!!
+today is 69
+oct(3,4) flashing on day 69  POW!!!
+today is 69
+oct(2,3) flashing on day 69  POW!!!
+today is 69
+oct(1,2) flashing on day 69  POW!!!
+today is 69
+oct(0,1) flashing on day 69  POW!!!
+today is 69
+oct(6,8) flashing on day 69  POW!!!
+today is 69
+oct(5,7) flashing on day 69  POW!!!
+today is 69
+oct(4,6) flashing on day 69  POW!!!
+today is 69
+oct(3,5) flashing on day 69  POW!!!
+today is 69
+oct(2,4) flashing on day 69  POW!!!
+today is 69
+oct(1,3) flashing on day 69  POW!!!
+today is 69
+oct(0,2) flashing on day 69  POW!!!
+today is 69
+oct(3,6) flashing on day 69  POW!!!
+today is 69
+oct(2,5) flashing on day 69  POW!!!
+today is 69
+oct(1,4) flashing on day 69  POW!!!
+today is 69
+oct(0,3) flashing on day 69  POW!!!
+today is 69
+oct(1,6) flashing on day 69  POW!!!
+today is 69
+oct(1,5) flashing on day 69  POW!!!
+today is 69
+oct(0,4) flashing on day 69  POW!!!
+today is 69
+oct(0,5) flashing on day 69  POW!!!
+today is 69
+oct(0,6) flashing on day 69  POW!!!
+today is 69
+oct(0,7) flashing on day 69  POW!!!
+today is 69
+oct(2,6) flashing on day 69  POW!!!
+today is 69
+oct(3,7) flashing on day 69  POW!!!
+today is 69
+oct(4,8) flashing on day 69  POW!!!
+today is 69
+oct(4,7) flashing on day 69  POW!!!
+today is 69
+oct(5,8) flashing on day 69  POW!!!
+today is 69
+oct(5,9) flashing on day 69  POW!!!
+today is 69
+oct(6,9) flashing on day 69  POW!!!
+today is 69
+oct(7,8) flashing on day 69  POW!!!
+today is 69
+oct(7,7) flashing on day 69  POW!!!
+today is 69
+================================== advance from day 69:
+oct(3,2) flashing on day 70  POW!!!
+today is 70
+oct(2,1) flashing on day 70  POW!!!
+today is 70
+oct(1,0) flashing on day 70  POW!!!
+today is 70
+oct(4,2) flashing on day 70  POW!!!
+today is 70
+oct(3,1) flashing on day 70  POW!!!
+today is 70
+oct(2,0) flashing on day 70  POW!!!
+today is 70
+oct(4,3) flashing on day 70  POW!!!
+today is 70
+oct(4,1) flashing on day 70  POW!!!
+today is 70
+oct(3,0) flashing on day 70  POW!!!
+today is 70
+oct(5,1) flashing on day 70  POW!!!
+today is 70
+oct(4,0) flashing on day 70  POW!!!
+today is 70
+oct(5,0) flashing on day 70  POW!!!
+today is 70
+oct(6,0) flashing on day 70  POW!!!
+today is 70
+================================== advance from day 70:
+================================== advance from day 71:
+oct(0,0) flashing on day 72  POW!!!
+today is 72
+================================== advance from day 72:
+oct(7,0) flashing on day 73  POW!!!
+today is 73
+oct(8,1) flashing on day 73  POW!!!
+today is 73
+oct(9,2) flashing on day 73  POW!!!
+today is 73
+oct(7,9) flashing on day 73  POW!!!
+today is 73
+oct(8,8) flashing on day 73  POW!!!
+today is 73
+oct(9,7) flashing on day 73  POW!!!
+today is 73
+oct(8,0) flashing on day 73  POW!!!
+today is 73
+oct(9,1) flashing on day 73  POW!!!
+today is 73
+oct(8,9) flashing on day 73  POW!!!
+today is 73
+oct(9,8) flashing on day 73  POW!!!
+today is 73
+oct(8,7) flashing on day 73  POW!!!
+today is 73
+oct(9,0) flashing on day 73  POW!!!
+today is 73
+oct(9,9) flashing on day 73  POW!!!
+today is 73
+================================== advance from day 73:
+oct(0,8) flashing on day 74  POW!!!
+today is 74
+oct(1,8) flashing on day 74  POW!!!
+today is 74
+oct(1,9) flashing on day 74  POW!!!
+today is 74
+oct(0,9) flashing on day 74  POW!!!
+today is 74
+oct(2,9) flashing on day 74  POW!!!
+today is 74
+oct(3,9) flashing on day 74  POW!!!
+today is 74
+oct(4,9) flashing on day 74  POW!!!
+today is 74
+oct(5,2) flashing on day 74  POW!!!
+today is 74
+oct(6,1) flashing on day 74  POW!!!
+today is 74
+oct(7,1) flashing on day 74  POW!!!
+today is 74
+oct(5,3) flashing on day 74  POW!!!
+today is 74
+oct(5,4) flashing on day 74  POW!!!
+today is 74
+oct(6,2) flashing on day 74  POW!!!
+today is 74
+oct(6,3) flashing on day 74  POW!!!
+today is 74
+oct(7,2) flashing on day 74  POW!!!
+today is 74
+oct(8,2) flashing on day 74  POW!!!
+today is 74
+oct(6,4) flashing on day 74  POW!!!
+today is 74
+oct(6,5) flashing on day 74  POW!!!
+today is 74
+oct(7,6) flashing on day 74  POW!!!
+today is 74
+oct(7,3) flashing on day 74  POW!!!
+today is 74
+oct(7,4) flashing on day 74  POW!!!
+today is 74
+oct(7,5) flashing on day 74  POW!!!
+today is 74
+oct(8,6) flashing on day 74  POW!!!
+today is 74
+oct(8,3) flashing on day 74  POW!!!
+today is 74
+oct(8,4) flashing on day 74  POW!!!
+today is 74
+oct(8,5) flashing on day 74  POW!!!
+today is 74
+oct(9,3) flashing on day 74  POW!!!
+today is 74
+oct(9,4) flashing on day 74  POW!!!
+today is 74
+oct(9,5) flashing on day 74  POW!!!
+today is 74
+oct(9,6) flashing on day 74  POW!!!
+today is 74
+================================== advance from day 74:
+oct(1,1) flashing on day 75  POW!!!
+today is 75
+oct(2,2) flashing on day 75  POW!!!
+today is 75
+oct(2,8) flashing on day 75  POW!!!
+today is 75
+oct(3,3) flashing on day 75  POW!!!
+today is 75
+oct(3,8) flashing on day 75  POW!!!
+today is 75
+oct(4,4) flashing on day 75  POW!!!
+today is 75
+oct(4,3) flashing on day 75  POW!!!
+today is 75
+oct(3,4) flashing on day 75  POW!!!
+today is 75
+oct(2,3) flashing on day 75  POW!!!
+today is 75
+oct(1,2) flashing on day 75  POW!!!
+today is 75
+oct(0,1) flashing on day 75  POW!!!
+today is 75
+oct(5,5) flashing on day 75  POW!!!
+today is 75
+oct(4,5) flashing on day 75  POW!!!
+today is 75
+oct(6,6) flashing on day 75  POW!!!
+today is 75
+oct(5,6) flashing on day 75  POW!!!
+today is 75
+oct(7,7) flashing on day 75  POW!!!
+today is 75
+oct(7,8) flashing on day 75  POW!!!
+today is 75
+oct(6,7) flashing on day 75  POW!!!
+today is 75
+oct(6,8) flashing on day 75  POW!!!
+today is 75
+oct(5,7) flashing on day 75  POW!!!
+today is 75
+oct(4,6) flashing on day 75  POW!!!
+today is 75
+oct(3,5) flashing on day 75  POW!!!
+today is 75
+oct(2,4) flashing on day 75  POW!!!
+today is 75
+oct(1,3) flashing on day 75  POW!!!
+today is 75
+oct(0,2) flashing on day 75  POW!!!
+today is 75
+oct(4,7) flashing on day 75  POW!!!
+today is 75
+oct(3,6) flashing on day 75  POW!!!
+today is 75
+oct(2,5) flashing on day 75  POW!!!
+today is 75
+oct(1,4) flashing on day 75  POW!!!
+today is 75
+oct(0,3) flashing on day 75  POW!!!
+today is 75
+oct(2,7) flashing on day 75  POW!!!
+today is 75
+oct(1,7) flashing on day 75  POW!!!
+today is 75
+oct(2,6) flashing on day 75  POW!!!
+today is 75
+oct(1,5) flashing on day 75  POW!!!
+today is 75
+oct(0,4) flashing on day 75  POW!!!
+today is 75
+oct(1,6) flashing on day 75  POW!!!
+today is 75
+oct(0,5) flashing on day 75  POW!!!
+today is 75
+oct(0,6) flashing on day 75  POW!!!
+today is 75
+oct(0,7) flashing on day 75  POW!!!
+today is 75
+oct(3,7) flashing on day 75  POW!!!
+today is 75
+oct(4,8) flashing on day 75  POW!!!
+today is 75
+oct(5,8) flashing on day 75  POW!!!
+today is 75
+oct(5,9) flashing on day 75  POW!!!
+today is 75
+oct(6,9) flashing on day 75  POW!!!
+today is 75
+================================== advance from day 75:
+oct(3,2) flashing on day 76  POW!!!
+today is 76
+oct(2,1) flashing on day 76  POW!!!
+today is 76
+oct(1,0) flashing on day 76  POW!!!
+today is 76
+oct(4,2) flashing on day 76  POW!!!
+today is 76
+oct(3,1) flashing on day 76  POW!!!
+today is 76
+oct(2,0) flashing on day 76  POW!!!
+today is 76
+oct(4,1) flashing on day 76  POW!!!
+today is 76
+oct(3,0) flashing on day 76  POW!!!
+today is 76
+oct(5,1) flashing on day 76  POW!!!
+today is 76
+oct(4,0) flashing on day 76  POW!!!
+today is 76
+oct(5,0) flashing on day 76  POW!!!
+today is 76
+oct(6,0) flashing on day 76  POW!!!
+today is 76
+================================== advance from day 76:
+================================== advance from day 77:
+oct(8,7) flashing on day 78  POW!!!
+today is 78
+================================== advance from day 78:
+oct(0,0) flashing on day 79  POW!!!
+today is 79
+================================== advance from day 79:
+oct(1,8) flashing on day 80  POW!!!
+today is 80
+oct(4,9) flashing on day 80  POW!!!
+today is 80
+oct(3,9) flashing on day 80  POW!!!
+today is 80
+oct(2,9) flashing on day 80  POW!!!
+today is 80
+oct(5,2) flashing on day 80  POW!!!
+today is 80
+oct(5,3) flashing on day 80  POW!!!
+today is 80
+oct(5,4) flashing on day 80  POW!!!
+today is 80
+oct(4,3) flashing on day 80  POW!!!
+today is 80
+oct(6,1) flashing on day 80  POW!!!
+today is 80
+oct(7,0) flashing on day 80  POW!!!
+today is 80
+oct(8,1) flashing on day 80  POW!!!
+today is 80
+oct(9,2) flashing on day 80  POW!!!
+today is 80
+oct(6,2) flashing on day 80  POW!!!
+today is 80
+oct(7,1) flashing on day 80  POW!!!
+today is 80
+oct(8,0) flashing on day 80  POW!!!
+today is 80
+oct(9,1) flashing on day 80  POW!!!
+today is 80
+oct(6,3) flashing on day 80  POW!!!
+today is 80
+oct(7,2) flashing on day 80  POW!!!
+today is 80
+oct(8,2) flashing on day 80  POW!!!
+today is 80
+oct(6,4) flashing on day 80  POW!!!
+today is 80
+oct(6,5) flashing on day 80  POW!!!
+today is 80
+oct(7,6) flashing on day 80  POW!!!
+today is 80
+oct(7,3) flashing on day 80  POW!!!
+today is 80
+oct(7,4) flashing on day 80  POW!!!
+today is 80
+oct(7,5) flashing on day 80  POW!!!
+today is 80
+oct(8,3) flashing on day 80  POW!!!
+today is 80
+oct(7,9) flashing on day 80  POW!!!
+today is 80
+oct(8,8) flashing on day 80  POW!!!
+today is 80
+oct(9,7) flashing on day 80  POW!!!
+today is 80
+oct(8,6) flashing on day 80  POW!!!
+today is 80
+oct(8,4) flashing on day 80  POW!!!
+today is 80
+oct(8,5) flashing on day 80  POW!!!
+today is 80
+oct(8,9) flashing on day 80  POW!!!
+today is 80
+oct(9,8) flashing on day 80  POW!!!
+today is 80
+oct(9,0) flashing on day 80  POW!!!
+today is 80
+oct(9,3) flashing on day 80  POW!!!
+today is 80
+oct(9,4) flashing on day 80  POW!!!
+today is 80
+oct(9,5) flashing on day 80  POW!!!
+today is 80
+oct(9,6) flashing on day 80  POW!!!
+today is 80
+oct(9,9) flashing on day 80  POW!!!
+today is 80
+================================== advance from day 80:
+oct(0,8) flashing on day 81  POW!!!
+today is 81
+oct(1,9) flashing on day 81  POW!!!
+today is 81
+oct(0,9) flashing on day 81  POW!!!
+today is 81
+oct(1,1) flashing on day 81  POW!!!
+today is 81
+oct(2,2) flashing on day 81  POW!!!
+today is 81
+oct(2,8) flashing on day 81  POW!!!
+today is 81
+oct(3,3) flashing on day 81  POW!!!
+today is 81
+oct(3,8) flashing on day 81  POW!!!
+today is 81
+oct(4,4) flashing on day 81  POW!!!
+today is 81
+oct(5,5) flashing on day 81  POW!!!
+today is 81
+oct(6,6) flashing on day 81  POW!!!
+today is 81
+oct(7,7) flashing on day 81  POW!!!
+today is 81
+oct(7,8) flashing on day 81  POW!!!
+today is 81
+oct(8,7) flashing on day 81  POW!!!
+today is 81
+oct(6,7) flashing on day 81  POW!!!
+today is 81
+oct(5,6) flashing on day 81  POW!!!
+today is 81
+oct(4,5) flashing on day 81  POW!!!
+today is 81
+oct(3,4) flashing on day 81  POW!!!
+today is 81
+oct(2,3) flashing on day 81  POW!!!
+today is 81
+oct(1,2) flashing on day 81  POW!!!
+today is 81
+oct(0,1) flashing on day 81  POW!!!
+today is 81
+oct(6,8) flashing on day 81  POW!!!
+today is 81
+oct(5,7) flashing on day 81  POW!!!
+today is 81
+oct(4,6) flashing on day 81  POW!!!
+today is 81
+oct(3,5) flashing on day 81  POW!!!
+today is 81
+oct(2,4) flashing on day 81  POW!!!
+today is 81
+oct(1,3) flashing on day 81  POW!!!
+today is 81
+oct(0,2) flashing on day 81  POW!!!
+today is 81
+oct(4,7) flashing on day 81  POW!!!
+today is 81
+oct(3,6) flashing on day 81  POW!!!
+today is 81
+oct(2,5) flashing on day 81  POW!!!
+today is 81
+oct(1,4) flashing on day 81  POW!!!
+today is 81
+oct(0,3) flashing on day 81  POW!!!
+today is 81
+oct(2,7) flashing on day 81  POW!!!
+today is 81
+oct(1,7) flashing on day 81  POW!!!
+today is 81
+oct(2,6) flashing on day 81  POW!!!
+today is 81
+oct(1,5) flashing on day 81  POW!!!
+today is 81
+oct(0,4) flashing on day 81  POW!!!
+today is 81
+oct(1,6) flashing on day 81  POW!!!
+today is 81
+oct(0,5) flashing on day 81  POW!!!
+today is 81
+oct(0,6) flashing on day 81  POW!!!
+today is 81
+oct(0,7) flashing on day 81  POW!!!
+today is 81
+oct(3,7) flashing on day 81  POW!!!
+today is 81
+oct(4,8) flashing on day 81  POW!!!
+today is 81
+oct(5,8) flashing on day 81  POW!!!
+today is 81
+oct(5,9) flashing on day 81  POW!!!
+today is 81
+oct(6,9) flashing on day 81  POW!!!
+today is 81
+================================== advance from day 81:
+oct(3,2) flashing on day 82  POW!!!
+today is 82
+oct(2,1) flashing on day 82  POW!!!
+today is 82
+oct(1,0) flashing on day 82  POW!!!
+today is 82
+oct(4,2) flashing on day 82  POW!!!
+today is 82
+oct(3,1) flashing on day 82  POW!!!
+today is 82
+oct(2,0) flashing on day 82  POW!!!
+today is 82
+oct(4,1) flashing on day 82  POW!!!
+today is 82
+oct(3,0) flashing on day 82  POW!!!
+today is 82
+oct(5,1) flashing on day 82  POW!!!
+today is 82
+oct(4,0) flashing on day 82  POW!!!
+today is 82
+oct(5,0) flashing on day 82  POW!!!
+today is 82
+oct(6,0) flashing on day 82  POW!!!
+today is 82
+================================== advance from day 82:
+oct(1,8) flashing on day 83  POW!!!
+today is 83
+================================== advance from day 83:
+================================== advance from day 84:
+oct(4,3) flashing on day 85  POW!!!
+today is 85
+================================== advance from day 85:
+oct(0,0) flashing on day 86  POW!!!
+today is 86
+oct(2,9) flashing on day 86  POW!!!
+today is 86
+oct(3,9) flashing on day 86  POW!!!
+today is 86
+oct(4,9) flashing on day 86  POW!!!
+today is 86
+oct(5,2) flashing on day 86  POW!!!
+today is 86
+oct(5,3) flashing on day 86  POW!!!
+today is 86
+oct(5,4) flashing on day 86  POW!!!
+today is 86
+oct(6,1) flashing on day 86  POW!!!
+today is 86
+oct(6,2) flashing on day 86  POW!!!
+today is 86
+oct(6,3) flashing on day 86  POW!!!
+today is 86
+oct(6,4) flashing on day 86  POW!!!
+today is 86
+oct(6,5) flashing on day 86  POW!!!
+today is 86
+oct(7,6) flashing on day 86  POW!!!
+today is 86
+oct(7,5) flashing on day 86  POW!!!
+today is 86
+oct(7,4) flashing on day 86  POW!!!
+today is 86
+oct(7,3) flashing on day 86  POW!!!
+today is 86
+oct(7,2) flashing on day 86  POW!!!
+today is 86
+oct(7,1) flashing on day 86  POW!!!
+today is 86
+oct(8,6) flashing on day 86  POW!!!
+today is 86
+oct(8,5) flashing on day 86  POW!!!
+today is 86
+oct(8,4) flashing on day 86  POW!!!
+today is 86
+oct(8,3) flashing on day 86  POW!!!
+today is 86
+oct(8,2) flashing on day 86  POW!!!
+today is 86
+================================== advance from day 86:
+oct(1,1) flashing on day 87  POW!!!
+today is 87
+oct(2,2) flashing on day 87  POW!!!
+today is 87
+oct(3,3) flashing on day 87  POW!!!
+today is 87
+oct(4,4) flashing on day 87  POW!!!
+today is 87
+oct(5,5) flashing on day 87  POW!!!
+today is 87
+oct(6,6) flashing on day 87  POW!!!
+today is 87
+oct(7,0) flashing on day 87  POW!!!
+today is 87
+oct(8,1) flashing on day 87  POW!!!
+today is 87
+oct(7,9) flashing on day 87  POW!!!
+today is 87
+oct(8,8) flashing on day 87  POW!!!
+today is 87
+oct(7,7) flashing on day 87  POW!!!
+today is 87
+oct(8,0) flashing on day 87  POW!!!
+today is 87
+oct(8,7) flashing on day 87  POW!!!
+today is 87
+oct(7,8) flashing on day 87  POW!!!
+today is 87
+oct(6,7) flashing on day 87  POW!!!
+today is 87
+oct(5,6) flashing on day 87  POW!!!
+today is 87
+oct(4,5) flashing on day 87  POW!!!
+today is 87
+oct(3,4) flashing on day 87  POW!!!
+today is 87
+oct(2,3) flashing on day 87  POW!!!
+today is 87
+oct(1,2) flashing on day 87  POW!!!
+today is 87
+oct(0,1) flashing on day 87  POW!!!
+today is 87
+oct(6,8) flashing on day 87  POW!!!
+today is 87
+oct(5,7) flashing on day 87  POW!!!
+today is 87
+oct(4,6) flashing on day 87  POW!!!
+today is 87
+oct(3,5) flashing on day 87  POW!!!
+today is 87
+oct(2,4) flashing on day 87  POW!!!
+today is 87
+oct(1,3) flashing on day 87  POW!!!
+today is 87
+oct(0,2) flashing on day 87  POW!!!
+today is 87
+oct(5,8) flashing on day 87  POW!!!
+today is 87
+oct(4,7) flashing on day 87  POW!!!
+today is 87
+oct(3,6) flashing on day 87  POW!!!
+today is 87
+oct(2,5) flashing on day 87  POW!!!
+today is 87
+oct(1,4) flashing on day 87  POW!!!
+today is 87
+oct(0,3) flashing on day 87  POW!!!
+today is 87
+oct(3,8) flashing on day 87  POW!!!
+today is 87
+oct(2,8) flashing on day 87  POW!!!
+today is 87
+oct(2,7) flashing on day 87  POW!!!
+today is 87
+oct(2,6) flashing on day 87  POW!!!
+today is 87
+oct(1,5) flashing on day 87  POW!!!
+today is 87
+oct(0,4) flashing on day 87  POW!!!
+today is 87
+oct(1,6) flashing on day 87  POW!!!
+today is 87
+oct(0,5) flashing on day 87  POW!!!
+today is 87
+oct(1,7) flashing on day 87  POW!!!
+today is 87
+oct(0,6) flashing on day 87  POW!!!
+today is 87
+oct(0,7) flashing on day 87  POW!!!
+today is 87
+oct(3,7) flashing on day 87  POW!!!
+today is 87
+oct(4,8) flashing on day 87  POW!!!
+today is 87
+oct(5,9) flashing on day 87  POW!!!
+today is 87
+oct(6,9) flashing on day 87  POW!!!
+today is 87
+oct(8,9) flashing on day 87  POW!!!
+today is 87
+oct(9,6) flashing on day 87  POW!!!
+today is 87
+oct(9,5) flashing on day 87  POW!!!
+today is 87
+oct(9,4) flashing on day 87  POW!!!
+today is 87
+oct(9,3) flashing on day 87  POW!!!
+today is 87
+oct(9,2) flashing on day 87  POW!!!
+today is 87
+oct(9,1) flashing on day 87  POW!!!
+today is 87
+oct(9,7) flashing on day 87  POW!!!
+today is 87
+oct(9,8) flashing on day 87  POW!!!
+today is 87
+oct(9,0) flashing on day 87  POW!!!
+today is 87
+oct(9,9) flashing on day 87  POW!!!
+today is 87
+================================== advance from day 87:
+oct(0,8) flashing on day 88  POW!!!
+today is 88
+oct(1,8) flashing on day 88  POW!!!
+today is 88
+oct(1,9) flashing on day 88  POW!!!
+today is 88
+oct(0,9) flashing on day 88  POW!!!
+today is 88
+oct(3,2) flashing on day 88  POW!!!
+today is 88
+oct(2,1) flashing on day 88  POW!!!
+today is 88
+oct(1,0) flashing on day 88  POW!!!
+today is 88
+oct(4,2) flashing on day 88  POW!!!
+today is 88
+oct(3,1) flashing on day 88  POW!!!
+today is 88
+oct(2,0) flashing on day 88  POW!!!
+today is 88
+oct(4,3) flashing on day 88  POW!!!
+today is 88
+oct(4,1) flashing on day 88  POW!!!
+today is 88
+oct(3,0) flashing on day 88  POW!!!
+today is 88
+oct(5,1) flashing on day 88  POW!!!
+today is 88
+oct(4,0) flashing on day 88  POW!!!
+today is 88
+oct(5,0) flashing on day 88  POW!!!
+today is 88
+oct(6,0) flashing on day 88  POW!!!
+today is 88
+================================== advance from day 88:
+================================== advance from day 89:
+================================== advance from day 90:
+oct(8,6) flashing on day 91  POW!!!
+today is 91
+oct(7,6) flashing on day 91  POW!!!
+today is 91
+oct(8,5) flashing on day 91  POW!!!
+today is 91
+================================== advance from day 91:
+oct(2,9) flashing on day 92  POW!!!
+today is 92
+oct(3,9) flashing on day 92  POW!!!
+today is 92
+oct(4,9) flashing on day 92  POW!!!
+today is 92
+oct(5,2) flashing on day 92  POW!!!
+today is 92
+oct(6,1) flashing on day 92  POW!!!
+today is 92
+oct(7,1) flashing on day 92  POW!!!
+today is 92
+oct(8,2) flashing on day 92  POW!!!
+today is 92
+oct(5,3) flashing on day 92  POW!!!
+today is 92
+oct(5,4) flashing on day 92  POW!!!
+today is 92
+oct(6,5) flashing on day 92  POW!!!
+today is 92
+oct(7,5) flashing on day 92  POW!!!
+today is 92
+oct(8,4) flashing on day 92  POW!!!
+today is 92
+oct(8,3) flashing on day 92  POW!!!
+today is 92
+oct(7,2) flashing on day 92  POW!!!
+today is 92
+oct(6,2) flashing on day 92  POW!!!
+today is 92
+oct(7,3) flashing on day 92  POW!!!
+today is 92
+oct(6,3) flashing on day 92  POW!!!
+today is 92
+oct(6,4) flashing on day 92  POW!!!
+today is 92
+oct(7,4) flashing on day 92  POW!!!
+today is 92
+================================== advance from day 92:
+oct(0,0) flashing on day 93  POW!!!
+today is 93
+oct(1,1) flashing on day 93  POW!!!
+today is 93
+oct(2,2) flashing on day 93  POW!!!
+today is 93
+oct(2,8) flashing on day 93  POW!!!
+today is 93
+oct(3,3) flashing on day 93  POW!!!
+today is 93
+oct(3,8) flashing on day 93  POW!!!
+today is 93
+oct(4,4) flashing on day 93  POW!!!
+today is 93
+oct(4,3) flashing on day 93  POW!!!
+today is 93
+oct(3,4) flashing on day 93  POW!!!
+today is 93
+oct(2,3) flashing on day 93  POW!!!
+today is 93
+oct(1,2) flashing on day 93  POW!!!
+today is 93
+oct(0,1) flashing on day 93  POW!!!
+today is 93
+oct(5,5) flashing on day 93  POW!!!
+today is 93
+oct(4,5) flashing on day 93  POW!!!
+today is 93
+oct(6,6) flashing on day 93  POW!!!
+today is 93
+oct(5,6) flashing on day 93  POW!!!
+today is 93
+================================== advance from day 93:
+oct(0,2) flashing on day 94  POW!!!
+today is 94
+oct(1,3) flashing on day 94  POW!!!
+today is 94
+oct(2,4) flashing on day 94  POW!!!
+today is 94
+oct(3,5) flashing on day 94  POW!!!
+today is 94
+oct(4,6) flashing on day 94  POW!!!
+today is 94
+oct(0,3) flashing on day 94  POW!!!
+today is 94
+oct(1,4) flashing on day 94  POW!!!
+today is 94
+oct(2,5) flashing on day 94  POW!!!
+today is 94
+oct(3,6) flashing on day 94  POW!!!
+today is 94
+oct(2,7) flashing on day 94  POW!!!
+today is 94
+oct(1,7) flashing on day 94  POW!!!
+today is 94
+oct(2,6) flashing on day 94  POW!!!
+today is 94
+oct(1,5) flashing on day 94  POW!!!
+today is 94
+oct(0,4) flashing on day 94  POW!!!
+today is 94
+oct(1,6) flashing on day 94  POW!!!
+today is 94
+oct(0,5) flashing on day 94  POW!!!
+today is 94
+oct(0,6) flashing on day 94  POW!!!
+today is 94
+oct(0,7) flashing on day 94  POW!!!
+today is 94
+oct(3,7) flashing on day 94  POW!!!
+today is 94
+oct(4,7) flashing on day 94  POW!!!
+today is 94
+oct(4,8) flashing on day 94  POW!!!
+today is 94
+oct(5,7) flashing on day 94  POW!!!
+today is 94
+oct(6,7) flashing on day 94  POW!!!
+today is 94
+oct(7,7) flashing on day 94  POW!!!
+today is 94
+oct(5,8) flashing on day 94  POW!!!
+today is 94
+oct(6,8) flashing on day 94  POW!!!
+today is 94
+oct(5,9) flashing on day 94  POW!!!
+today is 94
+oct(1,8) flashing on day 94  POW!!!
+today is 94
+oct(3,2) flashing on day 94  POW!!!
+today is 94
+oct(2,1) flashing on day 94  POW!!!
+today is 94
+oct(1,0) flashing on day 94  POW!!!
+today is 94
+oct(4,2) flashing on day 94  POW!!!
+today is 94
+oct(3,1) flashing on day 94  POW!!!
+today is 94
+oct(2,0) flashing on day 94  POW!!!
+today is 94
+oct(4,1) flashing on day 94  POW!!!
+today is 94
+oct(3,0) flashing on day 94  POW!!!
+today is 94
+oct(5,1) flashing on day 94  POW!!!
+today is 94
+oct(4,0) flashing on day 94  POW!!!
+today is 94
+oct(5,0) flashing on day 94  POW!!!
+today is 94
+oct(6,0) flashing on day 94  POW!!!
+today is 94
+oct(7,0) flashing on day 94  POW!!!
+today is 94
+oct(8,1) flashing on day 94  POW!!!
+today is 94
+oct(6,9) flashing on day 94  POW!!!
+today is 94
+oct(7,8) flashing on day 94  POW!!!
+today is 94
+oct(8,7) flashing on day 94  POW!!!
+today is 94
+oct(7,9) flashing on day 94  POW!!!
+today is 94
+oct(8,8) flashing on day 94  POW!!!
+today is 94
+oct(8,0) flashing on day 94  POW!!!
+today is 94
+oct(8,9) flashing on day 94  POW!!!
+today is 94
+oct(9,1) flashing on day 94  POW!!!
+today is 94
+oct(9,0) flashing on day 94  POW!!!
+today is 94
+oct(9,2) flashing on day 94  POW!!!
+today is 94
+oct(9,3) flashing on day 94  POW!!!
+today is 94
+oct(9,4) flashing on day 94  POW!!!
+today is 94
+oct(9,5) flashing on day 94  POW!!!
+today is 94
+oct(9,6) flashing on day 94  POW!!!
+today is 94
+oct(9,7) flashing on day 94  POW!!!
+today is 94
+oct(9,8) flashing on day 94  POW!!!
+today is 94
+oct(9,9) flashing on day 94  POW!!!
+today is 94
+================================== advance from day 94:
+oct(0,8) flashing on day 95  POW!!!
+today is 95
+oct(1,9) flashing on day 95  POW!!!
+today is 95
+oct(0,9) flashing on day 95  POW!!!
+today is 95
+oct(7,6) flashing on day 95  POW!!!
+today is 95
+oct(8,5) flashing on day 95  POW!!!
+today is 95
+oct(8,6) flashing on day 95  POW!!!
+today is 95
+================================== advance from day 95:
+================================== advance from day 96:
+================================== advance from day 97:
+oct(2,8) flashing on day 98  POW!!!
+today is 98
+oct(2,9) flashing on day 98  POW!!!
+today is 98
+oct(3,8) flashing on day 98  POW!!!
+today is 98
+oct(3,9) flashing on day 98  POW!!!
+today is 98
+oct(4,9) flashing on day 98  POW!!!
+today is 98
+oct(5,2) flashing on day 98  POW!!!
+today is 98
+oct(6,1) flashing on day 98  POW!!!
+today is 98
+oct(7,1) flashing on day 98  POW!!!
+today is 98
+oct(8,2) flashing on day 98  POW!!!
+today is 98
+oct(5,3) flashing on day 98  POW!!!
+today is 98
+oct(5,4) flashing on day 98  POW!!!
+today is 98
+oct(4,3) flashing on day 98  POW!!!
+today is 98
+oct(6,5) flashing on day 98  POW!!!
+today is 98
+oct(7,5) flashing on day 98  POW!!!
+today is 98
+oct(6,6) flashing on day 98  POW!!!
+today is 98
+oct(5,6) flashing on day 98  POW!!!
+today is 98
+oct(4,5) flashing on day 98  POW!!!
+today is 98
+oct(3,4) flashing on day 98  POW!!!
+today is 98
+oct(2,3) flashing on day 98  POW!!!
+today is 98
+oct(1,2) flashing on day 98  POW!!!
+today is 98
+oct(1,1) flashing on day 98  POW!!!
+today is 98
+oct(2,2) flashing on day 98  POW!!!
+today is 98
+oct(3,3) flashing on day 98  POW!!!
+today is 98
+oct(4,4) flashing on day 98  POW!!!
+today is 98
+oct(5,5) flashing on day 98  POW!!!
+today is 98
+oct(6,4) flashing on day 98  POW!!!
+today is 98
+oct(8,4) flashing on day 98  POW!!!
+today is 98
+oct(7,4) flashing on day 98  POW!!!
+today is 98
+oct(8,3) flashing on day 98  POW!!!
+today is 98
+oct(7,2) flashing on day 98  POW!!!
+today is 98
+oct(6,2) flashing on day 98  POW!!!
+today is 98
+oct(6,3) flashing on day 98  POW!!!
+today is 98
+oct(7,3) flashing on day 98  POW!!!
+today is 98
+================================== advance from day 98:
+oct(0,1) flashing on day 99  POW!!!
+today is 99
+oct(1,8) flashing on day 99  POW!!!
+today is 99
+================================== advance from day 99:
+oct(0,0) flashing on day 100  POW!!!
+today is 100

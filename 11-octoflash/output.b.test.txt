@@ -1,0 +1,1005 @@
+Board.init(input-test.txt)
+5483143223
+2745854711
+5264556173
+6141336146
+6357385478
+4167524645
+2176841721
+6882881134
+4846848554
+5283751526
+
+['5483143223', '2745854711', '5264556173', '6141336146', '6357385478', '4167524645', '2176841721', '6882881134', '4846848554', '5283751526']
+flat: 5483143223274585471152645561736141336146635738547841675246452176841721688288113448468485545283751526
+power:5 pos:0 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:1 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:2 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:3 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:4 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:5 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:6 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:7 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:8 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:9 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:10 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:11 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:12 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:13 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:14 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:15 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:16 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:17 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:18 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:19 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:20 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:21 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:22 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:23 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:24 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:25 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:26 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:27 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:28 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:29 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:30 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:31 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:32 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:33 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:34 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:35 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:36 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:37 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:38 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:39 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:40 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:41 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:42 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:43 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:44 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:45 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:46 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:47 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:48 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:49 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:50 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:51 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:52 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:53 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:54 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:55 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:56 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:57 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:58 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:59 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:60 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:61 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:62 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:63 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:64 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:65 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:66 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:67 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:68 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:69 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:70 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:71 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:72 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:73 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:74 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:75 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:76 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:77 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:78 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:79 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:80 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:81 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:82 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:83 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:84 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:85 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:86 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:87 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:88 (<class 'int'>)
+Board.init(input-test.txt
+power:4 pos:89 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:90 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:91 (<class 'int'>)
+Board.init(input-test.txt
+power:8 pos:92 (<class 'int'>)
+Board.init(input-test.txt
+power:3 pos:93 (<class 'int'>)
+Board.init(input-test.txt
+power:7 pos:94 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:95 (<class 'int'>)
+Board.init(input-test.txt
+power:1 pos:96 (<class 'int'>)
+Board.init(input-test.txt
+power:5 pos:97 (<class 'int'>)
+Board.init(input-test.txt
+power:2 pos:98 (<class 'int'>)
+Board.init(input-test.txt
+power:6 pos:99 (<class 'int'>)
+Board.init(input-test.txt
+
+ init_neighbors... 
+  Octopus: 0 at 0,0 with power 5
+           [<__main__.Octopus object at 0x1058cdf10>, <__main__.Octopus object at 0x1058cd9d0>, <__main__.Octopus object at 0x1058cd9a0>]
+
+ init_neighbors... 
+  Octopus: 1 at 0,1 with power 4
+           [<__main__.Octopus object at 0x1058cde50>, <__main__.Octopus object at 0x1058cdd30>, <__main__.Octopus object at 0x1058cd9d0>, <__main__.Octopus object at 0x1058cd9a0>, <__main__.Octopus object at 0x1058cd970>]
+
+ init_neighbors... 
+  Octopus: 2 at 0,2 with power 8
+           [<__main__.Octopus object at 0x1058cdf10>, <__main__.Octopus object at 0x1058cdcd0>, <__main__.Octopus object at 0x1058cd9a0>, <__main__.Octopus object at 0x1058cd970>, <__main__.Octopus object at 0x1058cd940>]
+
+ init_neighbors... 
+  Octopus: 3 at 0,3 with power 3
+           [<__main__.Octopus object at 0x1058cdd30>, <__main__.Octopus object at 0x1058cdc40>, <__main__.Octopus object at 0x1058cd970>, <__main__.Octopus object at 0x1058cd940>, <__main__.Octopus object at 0x1058cd910>]
+
+ init_neighbors... 
+  Octopus: 4 at 0,4 with power 1
+           [<__main__.Octopus object at 0x1058cdcd0>, <__main__.Octopus object at 0x1058cdc10>, <__main__.Octopus object at 0x1058cd940>, <__main__.Octopus object at 0x1058cd910>, <__main__.Octopus object at 0x1058cd8e0>]
+
+ init_neighbors... 
+  Octopus: 5 at 0,5 with power 4
+           [<__main__.Octopus object at 0x1058cdc40>, <__main__.Octopus object at 0x1058cdb20>, <__main__.Octopus object at 0x1058cd910>, <__main__.Octopus object at 0x1058cd8e0>, <__main__.Octopus object at 0x1058cd8b0>]
+
+ init_neighbors... 
+  Octopus: 6 at 0,6 with power 3
+           [<__main__.Octopus object at 0x1058cdc10>, <__main__.Octopus object at 0x1058cda90>, <__main__.Octopus object at 0x1058cd8e0>, <__main__.Octopus object at 0x1058cd8b0>, <__main__.Octopus object at 0x1058cd880>]
+
+ init_neighbors... 
+  Octopus: 7 at 0,7 with power 2
+           [<__main__.Octopus object at 0x1058cdb20>, <__main__.Octopus object at 0x1058cda30>, <__main__.Octopus object at 0x1058cd8b0>, <__main__.Octopus object at 0x1058cd880>, <__main__.Octopus object at 0x1058cd850>]
+
+ init_neighbors... 
+  Octopus: 8 at 0,8 with power 2
+           [<__main__.Octopus object at 0x1058cda90>, <__main__.Octopus object at 0x1058cda00>, <__main__.Octopus object at 0x1058cd880>, <__main__.Octopus object at 0x1058cd850>, <__main__.Octopus object at 0x1058cd820>]
+
+ init_neighbors... 
+  Octopus: 9 at 0,9 with power 3
+           [<__main__.Octopus object at 0x1058cda30>, <__main__.Octopus object at 0x1058cd850>, <__main__.Octopus object at 0x1058cd820>]
+
+ init_neighbors... 
+  Octopus: 10 at 1,0 with power 2
+           [<__main__.Octopus object at 0x1058cde50>, <__main__.Octopus object at 0x1058cdf10>, <__main__.Octopus object at 0x1058cd9a0>, <__main__.Octopus object at 0x1058cd7f0>, <__main__.Octopus object at 0x1058cd7c0>]
+
+ init_neighbors... 
+  Octopus: 11 at 1,1 with power 7
+           [<__main__.Octopus object at 0x1058cde50>, <__main__.Octopus object at 0x1058cdf10>, <__main__.Octopus object at 0x1058cdd30>, <__main__.Octopus object at 0x1058cd9d0>, <__main__.Octopus object at 0x1058cd970>, <__main__.Octopus object at 0x1058cd7f0>, <__main__.Octopus object at 0x1058cd7c0>, <__main__.Octopus object at 0x1058cd790>]
+
+ init_neighbors... 
+  Octopus: 12 at 1,2 with power 4
+           [<__main__.Octopus object at 0x1058cdf10>, <__main__.Octopus object at 0x1058cdd30>, <__main__.Octopus object at 0x1058cdcd0>, <__main__.Octopus object at 0x1058cd9a0>, <__main__.Octopus object at 0x1058cd940>, <__main__.Octopus object at 0x1058cd7c0>, <__main__.Octopus object at 0x1058cd790>, <__main__.Octopus object at 0x1058cd760>]
+
+ init_neighbors... 
+  Octopus: 13 at 1,3 with power 5
+           [<__main__.Octopus object at 0x1058cdd30>, <__main__.Octopus object at 0x1058cdcd0>, <__main__.Octopus object at 0x1058cdc40>, <__main__.Octopus object at 0x1058cd970>, <__main__.Octopus object at 0x1058cd910>, <__main__.Octopus object at 0x1058cd790>, <__main__.Octopus object at 0x1058cd760>, <__main__.Octopus object at 0x1058cd730>]
+
+ init_neighbors... 
+  Octopus: 14 at 1,4 with power 8
+           [<__main__.Octopus object at 0x1058cdcd0>, <__main__.Octopus object at 0x1058cdc40>, <__main__.Octopus object at 0x1058cdc10>, <__main__.Octopus object at 0x1058cd940>, <__main__.Octopus object at 0x1058cd8e0>, <__main__.Octopus object at 0x1058cd760>, <__main__.Octopus object at 0x1058cd730>, <__main__.Octopus object at 0x1058cd700>]
+
+ init_neighbors... 
+  Octopus: 15 at 1,5 with power 5
+           [<__main__.Octopus object at 0x1058cdc40>, <__main__.Octopus object at 0x1058cdc10>, <__main__.Octopus object at 0x1058cdb20>, <__main__.Octopus object at 0x1058cd910>, <__main__.Octopus object at 0x1058cd8b0>, <__main__.Octopus object at 0x1058cd730>, <__main__.Octopus object at 0x1058cd700>, <__main__.Octopus object at 0x1058cd6d0>]
+
+ init_neighbors... 
+  Octopus: 16 at 1,6 with power 4
+           [<__main__.Octopus object at 0x1058cdc10>, <__main__.Octopus object at 0x1058cdb20>, <__main__.Octopus object at 0x1058cda90>, <__main__.Octopus object at 0x1058cd8e0>, <__main__.Octopus object at 0x1058cd880>, <__main__.Octopus object at 0x1058cd700>, <__main__.Octopus object at 0x1058cd6d0>, <__main__.Octopus object at 0x1058cd6a0>]
+
+ init_neighbors... 
+  Octopus: 17 at 1,7 with power 7
+           [<__main__.Octopus object at 0x1058cdb20>, <__main__.Octopus object at 0x1058cda90>, <__main__.Octopus object at 0x1058cda30>, <__main__.Octopus object at 0x1058cd8b0>, <__main__.Octopus object at 0x1058cd850>, <__main__.Octopus object at 0x1058cd6d0>, <__main__.Octopus object at 0x1058cd6a0>, <__main__.Octopus object at 0x1058cd670>]
+
+ init_neighbors... 
+  Octopus: 18 at 1,8 with power 1
+           [<__main__.Octopus object at 0x1058cda90>, <__main__.Octopus object at 0x1058cda30>, <__main__.Octopus object at 0x1058cda00>, <__main__.Octopus object at 0x1058cd880>, <__main__.Octopus object at 0x1058cd820>, <__main__.Octopus object at 0x1058cd6a0>, <__main__.Octopus object at 0x1058cd670>, <__main__.Octopus object at 0x1058cd640>]
+
+ init_neighbors... 
+  Octopus: 19 at 1,9 with power 1
+           [<__main__.Octopus object at 0x1058cda30>, <__main__.Octopus object at 0x1058cda00>, <__main__.Octopus object at 0x1058cd850>, <__main__.Octopus object at 0x1058cd670>, <__main__.Octopus object at 0x1058cd640>]
+
+ init_neighbors... 
+  Octopus: 20 at 2,0 with power 5
+           [<__main__.Octopus object at 0x1058cd9d0>, <__main__.Octopus object at 0x1058cd9a0>, <__main__.Octopus object at 0x1058cd7c0>, <__main__.Octopus object at 0x1058cd610>, <__main__.Octopus object at 0x1058cd5e0>]
+
+ init_neighbors... 
+  Octopus: 21 at 2,1 with power 2
+           [<__main__.Octopus object at 0x1058cd9d0>, <__main__.Octopus object at 0x1058cd9a0>, <__main__.Octopus object at 0x1058cd970>, <__main__.Octopus object at 0x1058cd7f0>, <__main__.Octopus object at 0x1058cd790>, <__main__.Octopus object at 0x1058cd610>, <__main__.Octopus object at 0x1058cd5e0>, <__main__.Octopus object at 0x1058cd5b0>]
+
+ init_neighbors... 
+  Octopus: 22 at 2,2 with power 6
+           [<__main__.Octopus object at 0x1058cd9a0>, <__main__.Octopus object at 0x1058cd970>, <__main__.Octopus object at 0x1058cd940>, <__main__.Octopus object at 0x1058cd7c0>, <__main__.Octopus object at 0x1058cd760>, <__main__.Octopus object at 0x1058cd5e0>, <__main__.Octopus object at 0x1058cd5b0>, <__main__.Octopus object at 0x1058cd580>]
+
+ init_neighbors... 
+  Octopus: 23 at 2,3 with power 4
+           [<__main__.Octopus object at 0x1058cd970>, <__main__.Octopus object at 0x1058cd940>, <__main__.Octopus object at 0x1058cd910>, <__main__.Octopus object at 0x1058cd790>, <__main__.Octopus object at 0x1058cd730>, <__main__.Octopus object at 0x1058cd5b0>, <__main__.Octopus object at 0x1058cd580>, <__main__.Octopus object at 0x1058cd550>]
+
+ init_neighbors... 
+  Octopus: 24 at 2,4 with power 5
+           [<__main__.Octopus object at 0x1058cd940>, <__main__.Octopus object at 0x1058cd910>, <__main__.Octopus object at 0x1058cd8e0>, <__main__.Octopus object at 0x1058cd760>, <__main__.Octopus object at 0x1058cd700>, <__main__.Octopus object at 0x1058cd580>, <__main__.Octopus object at 0x1058cd550>, <__main__.Octopus object at 0x1058cd520>]
+
+ init_neighbors... 
+  Octopus: 25 at 2,5 with power 5
+           [<__main__.Octopus object at 0x1058cd910>, <__main__.Octopus object at 0x1058cd8e0>, <__main__.Octopus object at 0x1058cd8b0>, <__main__.Octopus object at 0x1058cd730>, <__main__.Octopus object at 0x1058cd6d0>, <__main__.Octopus object at 0x1058cd550>, <__main__.Octopus object at 0x1058cd520>, <__main__.Octopus object at 0x1058cd4f0>]
+
+ init_neighbors... 
+  Octopus: 26 at 2,6 with power 6
+           [<__main__.Octopus object at 0x1058cd8e0>, <__main__.Octopus object at 0x1058cd8b0>, <__main__.Octopus object at 0x1058cd880>, <__main__.Octopus object at 0x1058cd700>, <__main__.Octopus object at 0x1058cd6a0>, <__main__.Octopus object at 0x1058cd520>, <__main__.Octopus object at 0x1058cd4f0>, <__main__.Octopus object at 0x1058cd4c0>]
+
+ init_neighbors... 
+  Octopus: 27 at 2,7 with power 1
+           [<__main__.Octopus object at 0x1058cd8b0>, <__main__.Octopus object at 0x1058cd880>, <__main__.Octopus object at 0x1058cd850>, <__main__.Octopus object at 0x1058cd6d0>, <__main__.Octopus object at 0x1058cd670>, <__main__.Octopus object at 0x1058cd4f0>, <__main__.Octopus object at 0x1058cd4c0>, <__main__.Octopus object at 0x1058cd490>]
+
+ init_neighbors... 
+  Octopus: 28 at 2,8 with power 7
+           [<__main__.Octopus object at 0x1058cd880>, <__main__.Octopus object at 0x1058cd850>, <__main__.Octopus object at 0x1058cd820>, <__main__.Octopus object at 0x1058cd6a0>, <__main__.Octopus object at 0x1058cd640>, <__main__.Octopus object at 0x1058cd4c0>, <__main__.Octopus object at 0x1058cd490>, <__main__.Octopus object at 0x1058cd460>]
+
+ init_neighbors... 
+  Octopus: 29 at 2,9 with power 3
+           [<__main__.Octopus object at 0x1058cd850>, <__main__.Octopus object at 0x1058cd820>, <__main__.Octopus object at 0x1058cd670>, <__main__.Octopus object at 0x1058cd490>, <__main__.Octopus object at 0x1058cd460>]
+
+ init_neighbors... 
+  Octopus: 30 at 3,0 with power 6
+           [<__main__.Octopus object at 0x1058cd7f0>, <__main__.Octopus object at 0x1058cd7c0>, <__main__.Octopus object at 0x1058cd5e0>, <__main__.Octopus object at 0x1058cd430>, <__main__.Octopus object at 0x1058cd400>]
+
+ init_neighbors... 
+  Octopus: 31 at 3,1 with power 1
+           [<__main__.Octopus object at 0x1058cd7f0>, <__main__.Octopus object at 0x1058cd7c0>, <__main__.Octopus object at 0x1058cd790>, <__main__.Octopus object at 0x1058cd610>, <__main__.Octopus object at 0x1058cd5b0>, <__main__.Octopus object at 0x1058cd430>, <__main__.Octopus object at 0x1058cd400>, <__main__.Octopus object at 0x1058cd3d0>]
+
+ init_neighbors... 
+  Octopus: 32 at 3,2 with power 4
+           [<__main__.Octopus object at 0x1058cd7c0>, <__main__.Octopus object at 0x1058cd790>, <__main__.Octopus object at 0x1058cd760>, <__main__.Octopus object at 0x1058cd5e0>, <__main__.Octopus object at 0x1058cd580>, <__main__.Octopus object at 0x1058cd400>, <__main__.Octopus object at 0x1058cd3d0>, <__main__.Octopus object at 0x1058cd3a0>]
+
+ init_neighbors... 
+  Octopus: 33 at 3,3 with power 1
+           [<__main__.Octopus object at 0x1058cd790>, <__main__.Octopus object at 0x1058cd760>, <__main__.Octopus object at 0x1058cd730>, <__main__.Octopus object at 0x1058cd5b0>, <__main__.Octopus object at 0x1058cd550>, <__main__.Octopus object at 0x1058cd3d0>, <__main__.Octopus object at 0x1058cd3a0>, <__main__.Octopus object at 0x1058cd370>]
+
+ init_neighbors... 
+  Octopus: 34 at 3,4 with power 3
+           [<__main__.Octopus object at 0x1058cd760>, <__main__.Octopus object at 0x1058cd730>, <__main__.Octopus object at 0x1058cd700>, <__main__.Octopus object at 0x1058cd580>, <__main__.Octopus object at 0x1058cd520>, <__main__.Octopus object at 0x1058cd3a0>, <__main__.Octopus object at 0x1058cd370>, <__main__.Octopus object at 0x1058cd340>]
+
+ init_neighbors... 
+  Octopus: 35 at 3,5 with power 3
+           [<__main__.Octopus object at 0x1058cd730>, <__main__.Octopus object at 0x1058cd700>, <__main__.Octopus object at 0x1058cd6d0>, <__main__.Octopus object at 0x1058cd550>, <__main__.Octopus object at 0x1058cd4f0>, <__main__.Octopus object at 0x1058cd370>, <__main__.Octopus object at 0x1058cd340>, <__main__.Octopus object at 0x1058cd310>]
+
+ init_neighbors... 
+  Octopus: 36 at 3,6 with power 6
+           [<__main__.Octopus object at 0x1058cd700>, <__main__.Octopus object at 0x1058cd6d0>, <__main__.Octopus object at 0x1058cd6a0>, <__main__.Octopus object at 0x1058cd520>, <__main__.Octopus object at 0x1058cd4c0>, <__main__.Octopus object at 0x1058cd340>, <__main__.Octopus object at 0x1058cd310>, <__main__.Octopus object at 0x1058cd2e0>]
+
+ init_neighbors... 
+  Octopus: 37 at 3,7 with power 1
+           [<__main__.Octopus object at 0x1058cd6d0>, <__main__.Octopus object at 0x1058cd6a0>, <__main__.Octopus object at 0x1058cd670>, <__main__.Octopus object at 0x1058cd4f0>, <__main__.Octopus object at 0x1058cd490>, <__main__.Octopus object at 0x1058cd310>, <__main__.Octopus object at 0x1058cd2e0>, <__main__.Octopus object at 0x1058cd2b0>]
+
+ init_neighbors... 
+  Octopus: 38 at 3,8 with power 4
+           [<__main__.Octopus object at 0x1058cd6a0>, <__main__.Octopus object at 0x1058cd670>, <__main__.Octopus object at 0x1058cd640>, <__main__.Octopus object at 0x1058cd4c0>, <__main__.Octopus object at 0x1058cd460>, <__main__.Octopus object at 0x1058cd2e0>, <__main__.Octopus object at 0x1058cd2b0>, <__main__.Octopus object at 0x1058cd280>]
+
+ init_neighbors... 
+  Octopus: 39 at 3,9 with power 6
+           [<__main__.Octopus object at 0x1058cd670>, <__main__.Octopus object at 0x1058cd640>, <__main__.Octopus object at 0x1058cd490>, <__main__.Octopus object at 0x1058cd2b0>, <__main__.Octopus object at 0x1058cd280>]
+
+ init_neighbors... 
+  Octopus: 40 at 4,0 with power 6
+           [<__main__.Octopus object at 0x1058cd610>, <__main__.Octopus object at 0x1058cd5e0>, <__main__.Octopus object at 0x1058cd400>, <__main__.Octopus object at 0x1058cd250>, <__main__.Octopus object at 0x1058cd220>]
+
+ init_neighbors... 
+  Octopus: 41 at 4,1 with power 3
+           [<__main__.Octopus object at 0x1058cd610>, <__main__.Octopus object at 0x1058cd5e0>, <__main__.Octopus object at 0x1058cd5b0>, <__main__.Octopus object at 0x1058cd430>, <__main__.Octopus object at 0x1058cd3d0>, <__main__.Octopus object at 0x1058cd250>, <__main__.Octopus object at 0x1058cd220>, <__main__.Octopus object at 0x1058cd1f0>]
+
+ init_neighbors... 
+  Octopus: 42 at 4,2 with power 5
+           [<__main__.Octopus object at 0x1058cd5e0>, <__main__.Octopus object at 0x1058cd5b0>, <__main__.Octopus object at 0x1058cd580>, <__main__.Octopus object at 0x1058cd400>, <__main__.Octopus object at 0x1058cd3a0>, <__main__.Octopus object at 0x1058cd220>, <__main__.Octopus object at 0x1058cd1f0>, <__main__.Octopus object at 0x1058cd1c0>]
+
+ init_neighbors... 
+  Octopus: 43 at 4,3 with power 7
+           [<__main__.Octopus object at 0x1058cd5b0>, <__main__.Octopus object at 0x1058cd580>, <__main__.Octopus object at 0x1058cd550>, <__main__.Octopus object at 0x1058cd3d0>, <__main__.Octopus object at 0x1058cd370>, <__main__.Octopus object at 0x1058cd1f0>, <__main__.Octopus object at 0x1058cd1c0>, <__main__.Octopus object at 0x1058cd190>]
+
+ init_neighbors... 
+  Octopus: 44 at 4,4 with power 3
+           [<__main__.Octopus object at 0x1058cd580>, <__main__.Octopus object at 0x1058cd550>, <__main__.Octopus object at 0x1058cd520>, <__main__.Octopus object at 0x1058cd3a0>, <__main__.Octopus object at 0x1058cd340>, <__main__.Octopus object at 0x1058cd1c0>, <__main__.Octopus object at 0x1058cd190>, <__main__.Octopus object at 0x1058cd160>]
+
+ init_neighbors... 
+  Octopus: 45 at 4,5 with power 8
+           [<__main__.Octopus object at 0x1058cd550>, <__main__.Octopus object at 0x1058cd520>, <__main__.Octopus object at 0x1058cd4f0>, <__main__.Octopus object at 0x1058cd370>, <__main__.Octopus object at 0x1058cd310>, <__main__.Octopus object at 0x1058cd190>, <__main__.Octopus object at 0x1058cd160>, <__main__.Octopus object at 0x1058cd130>]
+
+ init_neighbors... 
+  Octopus: 46 at 4,6 with power 5
+           [<__main__.Octopus object at 0x1058cd520>, <__main__.Octopus object at 0x1058cd4f0>, <__main__.Octopus object at 0x1058cd4c0>, <__main__.Octopus object at 0x1058cd340>, <__main__.Octopus object at 0x1058cd2e0>, <__main__.Octopus object at 0x1058cd160>, <__main__.Octopus object at 0x1058cd130>, <__main__.Octopus object at 0x1058cd100>]
+
+ init_neighbors... 
+  Octopus: 47 at 4,7 with power 4
+           [<__main__.Octopus object at 0x1058cd4f0>, <__main__.Octopus object at 0x1058cd4c0>, <__main__.Octopus object at 0x1058cd490>, <__main__.Octopus object at 0x1058cd310>, <__main__.Octopus object at 0x1058cd2b0>, <__main__.Octopus object at 0x1058cd130>, <__main__.Octopus object at 0x1058cd100>, <__main__.Octopus object at 0x1058cd0d0>]
+
+ init_neighbors... 
+  Octopus: 48 at 4,8 with power 7
+           [<__main__.Octopus object at 0x1058cd4c0>, <__main__.Octopus object at 0x1058cd490>, <__main__.Octopus object at 0x1058cd460>, <__main__.Octopus object at 0x1058cd2e0>, <__main__.Octopus object at 0x1058cd280>, <__main__.Octopus object at 0x1058cd100>, <__main__.Octopus object at 0x1058cd0d0>, <__main__.Octopus object at 0x1058cd0a0>]
+
+ init_neighbors... 
+  Octopus: 49 at 4,9 with power 8
+           [<__main__.Octopus object at 0x1058cd490>, <__main__.Octopus object at 0x1058cd460>, <__main__.Octopus object at 0x1058cd2b0>, <__main__.Octopus object at 0x1058cd0d0>, <__main__.Octopus object at 0x1058cd0a0>]
+
+ init_neighbors... 
+  Octopus: 50 at 5,0 with power 4
+           [<__main__.Octopus object at 0x1058cd430>, <__main__.Octopus object at 0x1058cd400>, <__main__.Octopus object at 0x1058cd220>, <__main__.Octopus object at 0x1058cd070>, <__main__.Octopus object at 0x1058cd040>]
+
+ init_neighbors... 
+  Octopus: 51 at 5,1 with power 1
+           [<__main__.Octopus object at 0x1058cd430>, <__main__.Octopus object at 0x1058cd400>, <__main__.Octopus object at 0x1058cd3d0>, <__main__.Octopus object at 0x1058cd250>, <__main__.Octopus object at 0x1058cd1f0>, <__main__.Octopus object at 0x1058cd070>, <__main__.Octopus object at 0x1058cd040>, <__main__.Octopus object at 0x1058c6fd0>]
+
+ init_neighbors... 
+  Octopus: 52 at 5,2 with power 6
+           [<__main__.Octopus object at 0x1058cd400>, <__main__.Octopus object at 0x1058cd3d0>, <__main__.Octopus object at 0x1058cd3a0>, <__main__.Octopus object at 0x1058cd220>, <__main__.Octopus object at 0x1058cd1c0>, <__main__.Octopus object at 0x1058cd040>, <__main__.Octopus object at 0x1058c6fd0>, <__main__.Octopus object at 0x1058c6fa0>]
+
+ init_neighbors... 
+  Octopus: 53 at 5,3 with power 7
+           [<__main__.Octopus object at 0x1058cd3d0>, <__main__.Octopus object at 0x1058cd3a0>, <__main__.Octopus object at 0x1058cd370>, <__main__.Octopus object at 0x1058cd1f0>, <__main__.Octopus object at 0x1058cd190>, <__main__.Octopus object at 0x1058c6fd0>, <__main__.Octopus object at 0x1058c6fa0>, <__main__.Octopus object at 0x1058c6f70>]
+
+ init_neighbors... 
+  Octopus: 54 at 5,4 with power 5
+           [<__main__.Octopus object at 0x1058cd3a0>, <__main__.Octopus object at 0x1058cd370>, <__main__.Octopus object at 0x1058cd340>, <__main__.Octopus object at 0x1058cd1c0>, <__main__.Octopus object at 0x1058cd160>, <__main__.Octopus object at 0x1058c6fa0>, <__main__.Octopus object at 0x1058c6f70>, <__main__.Octopus object at 0x1058c6f40>]
+
+ init_neighbors... 
+  Octopus: 55 at 5,5 with power 2
+           [<__main__.Octopus object at 0x1058cd370>, <__main__.Octopus object at 0x1058cd340>, <__main__.Octopus object at 0x1058cd310>, <__main__.Octopus object at 0x1058cd190>, <__main__.Octopus object at 0x1058cd130>, <__main__.Octopus object at 0x1058c6f70>, <__main__.Octopus object at 0x1058c6f40>, <__main__.Octopus object at 0x1058c6f10>]
+
+ init_neighbors... 
+  Octopus: 56 at 5,6 with power 4
+           [<__main__.Octopus object at 0x1058cd340>, <__main__.Octopus object at 0x1058cd310>, <__main__.Octopus object at 0x1058cd2e0>, <__main__.Octopus object at 0x1058cd160>, <__main__.Octopus object at 0x1058cd100>, <__main__.Octopus object at 0x1058c6f40>, <__main__.Octopus object at 0x1058c6f10>, <__main__.Octopus object at 0x1058c6ee0>]
+
+ init_neighbors... 
+  Octopus: 57 at 5,7 with power 6
+           [<__main__.Octopus object at 0x1058cd310>, <__main__.Octopus object at 0x1058cd2e0>, <__main__.Octopus object at 0x1058cd2b0>, <__main__.Octopus object at 0x1058cd130>, <__main__.Octopus object at 0x1058cd0d0>, <__main__.Octopus object at 0x1058c6f10>, <__main__.Octopus object at 0x1058c6ee0>, <__main__.Octopus object at 0x1058c6eb0>]
+
+ init_neighbors... 
+  Octopus: 58 at 5,8 with power 4
+           [<__main__.Octopus object at 0x1058cd2e0>, <__main__.Octopus object at 0x1058cd2b0>, <__main__.Octopus object at 0x1058cd280>, <__main__.Octopus object at 0x1058cd100>, <__main__.Octopus object at 0x1058cd0a0>, <__main__.Octopus object at 0x1058c6ee0>, <__main__.Octopus object at 0x1058c6eb0>, <__main__.Octopus object at 0x1058c6e80>]
+
+ init_neighbors... 
+  Octopus: 59 at 5,9 with power 5
+           [<__main__.Octopus object at 0x1058cd2b0>, <__main__.Octopus object at 0x1058cd280>, <__main__.Octopus object at 0x1058cd0d0>, <__main__.Octopus object at 0x1058c6eb0>, <__main__.Octopus object at 0x1058c6e80>]
+
+ init_neighbors... 
+  Octopus: 60 at 6,0 with power 2
+           [<__main__.Octopus object at 0x1058cd250>, <__main__.Octopus object at 0x1058cd220>, <__main__.Octopus object at 0x1058cd040>, <__main__.Octopus object at 0x1058c6e50>, <__main__.Octopus object at 0x1058c6d00>]
+
+ init_neighbors... 
+  Octopus: 61 at 6,1 with power 1
+           [<__main__.Octopus object at 0x1058cd250>, <__main__.Octopus object at 0x1058cd220>, <__main__.Octopus object at 0x1058cd1f0>, <__main__.Octopus object at 0x1058cd070>, <__main__.Octopus object at 0x1058c6fd0>, <__main__.Octopus object at 0x1058c6e50>, <__main__.Octopus object at 0x1058c6d00>, <__main__.Octopus object at 0x1058c57f0>]
+
+ init_neighbors... 
+  Octopus: 62 at 6,2 with power 7
+           [<__main__.Octopus object at 0x1058cd220>, <__main__.Octopus object at 0x1058cd1f0>, <__main__.Octopus object at 0x1058cd1c0>, <__main__.Octopus object at 0x1058cd040>, <__main__.Octopus object at 0x1058c6fa0>, <__main__.Octopus object at 0x1058c6d00>, <__main__.Octopus object at 0x1058c57f0>, <__main__.Octopus object at 0x1058c57c0>]
+
+ init_neighbors... 
+  Octopus: 63 at 6,3 with power 6
+           [<__main__.Octopus object at 0x1058cd1f0>, <__main__.Octopus object at 0x1058cd1c0>, <__main__.Octopus object at 0x1058cd190>, <__main__.Octopus object at 0x1058c6fd0>, <__main__.Octopus object at 0x1058c6f70>, <__main__.Octopus object at 0x1058c57f0>, <__main__.Octopus object at 0x1058c57c0>, <__main__.Octopus object at 0x1058c5790>]
+
+ init_neighbors... 
+  Octopus: 64 at 6,4 with power 8
+           [<__main__.Octopus object at 0x1058cd1c0>, <__main__.Octopus object at 0x1058cd190>, <__main__.Octopus object at 0x1058cd160>, <__main__.Octopus object at 0x1058c6fa0>, <__main__.Octopus object at 0x1058c6f40>, <__main__.Octopus object at 0x1058c57c0>, <__main__.Octopus object at 0x1058c5790>, <__main__.Octopus object at 0x1058c5760>]
+
+ init_neighbors... 
+  Octopus: 65 at 6,5 with power 4
+           [<__main__.Octopus object at 0x1058cd190>, <__main__.Octopus object at 0x1058cd160>, <__main__.Octopus object at 0x1058cd130>, <__main__.Octopus object at 0x1058c6f70>, <__main__.Octopus object at 0x1058c6f10>, <__main__.Octopus object at 0x1058c5790>, <__main__.Octopus object at 0x1058c5760>, <__main__.Octopus object at 0x1058c5730>]
+
+ init_neighbors... 
+  Octopus: 66 at 6,6 with power 1
+           [<__main__.Octopus object at 0x1058cd160>, <__main__.Octopus object at 0x1058cd130>, <__main__.Octopus object at 0x1058cd100>, <__main__.Octopus object at 0x1058c6f40>, <__main__.Octopus object at 0x1058c6ee0>, <__main__.Octopus object at 0x1058c5760>, <__main__.Octopus object at 0x1058c5730>, <__main__.Octopus object at 0x1058c5700>]
+
+ init_neighbors... 
+  Octopus: 67 at 6,7 with power 7
+           [<__main__.Octopus object at 0x1058cd130>, <__main__.Octopus object at 0x1058cd100>, <__main__.Octopus object at 0x1058cd0d0>, <__main__.Octopus object at 0x1058c6f10>, <__main__.Octopus object at 0x1058c6eb0>, <__main__.Octopus object at 0x1058c5730>, <__main__.Octopus object at 0x1058c5700>, <__main__.Octopus object at 0x1058c56d0>]
+
+ init_neighbors... 
+  Octopus: 68 at 6,8 with power 2
+           [<__main__.Octopus object at 0x1058cd100>, <__main__.Octopus object at 0x1058cd0d0>, <__main__.Octopus object at 0x1058cd0a0>, <__main__.Octopus object at 0x1058c6ee0>, <__main__.Octopus object at 0x1058c6e80>, <__main__.Octopus object at 0x1058c5700>, <__main__.Octopus object at 0x1058c56d0>, <__main__.Octopus object at 0x1058c56a0>]
+
+ init_neighbors... 
+  Octopus: 69 at 6,9 with power 1
+           [<__main__.Octopus object at 0x1058cd0d0>, <__main__.Octopus object at 0x1058cd0a0>, <__main__.Octopus object at 0x1058c6eb0>, <__main__.Octopus object at 0x1058c56d0>, <__main__.Octopus object at 0x1058c56a0>]
+
+ init_neighbors... 
+  Octopus: 70 at 7,0 with power 6
+           [<__main__.Octopus object at 0x1058cd070>, <__main__.Octopus object at 0x1058cd040>, <__main__.Octopus object at 0x1058c6d00>, <__main__.Octopus object at 0x1058c5670>, <__main__.Octopus object at 0x1058c5640>]
+
+ init_neighbors... 
+  Octopus: 71 at 7,1 with power 8
+           [<__main__.Octopus object at 0x1058cd070>, <__main__.Octopus object at 0x1058cd040>, <__main__.Octopus object at 0x1058c6fd0>, <__main__.Octopus object at 0x1058c6e50>, <__main__.Octopus object at 0x1058c57f0>, <__main__.Octopus object at 0x1058c5670>, <__main__.Octopus object at 0x1058c5640>, <__main__.Octopus object at 0x1058c5610>]
+
+ init_neighbors... 
+  Octopus: 72 at 7,2 with power 8
+           [<__main__.Octopus object at 0x1058cd040>, <__main__.Octopus object at 0x1058c6fd0>, <__main__.Octopus object at 0x1058c6fa0>, <__main__.Octopus object at 0x1058c6d00>, <__main__.Octopus object at 0x1058c57c0>, <__main__.Octopus object at 0x1058c5640>, <__main__.Octopus object at 0x1058c5610>, <__main__.Octopus object at 0x1058c55e0>]
+
+ init_neighbors... 
+  Octopus: 73 at 7,3 with power 2
+           [<__main__.Octopus object at 0x1058c6fd0>, <__main__.Octopus object at 0x1058c6fa0>, <__main__.Octopus object at 0x1058c6f70>, <__main__.Octopus object at 0x1058c57f0>, <__main__.Octopus object at 0x1058c5790>, <__main__.Octopus object at 0x1058c5610>, <__main__.Octopus object at 0x1058c55e0>, <__main__.Octopus object at 0x1058c55b0>]
+
+ init_neighbors... 
+  Octopus: 74 at 7,4 with power 8
+           [<__main__.Octopus object at 0x1058c6fa0>, <__main__.Octopus object at 0x1058c6f70>, <__main__.Octopus object at 0x1058c6f40>, <__main__.Octopus object at 0x1058c57c0>, <__main__.Octopus object at 0x1058c5760>, <__main__.Octopus object at 0x1058c55e0>, <__main__.Octopus object at 0x1058c55b0>, <__main__.Octopus object at 0x1058c5580>]
+
+ init_neighbors... 
+  Octopus: 75 at 7,5 with power 8
+           [<__main__.Octopus object at 0x1058c6f70>, <__main__.Octopus object at 0x1058c6f40>, <__main__.Octopus object at 0x1058c6f10>, <__main__.Octopus object at 0x1058c5790>, <__main__.Octopus object at 0x1058c5730>, <__main__.Octopus object at 0x1058c55b0>, <__main__.Octopus object at 0x1058c5580>, <__main__.Octopus object at 0x1058c5550>]
+
+ init_neighbors... 
+  Octopus: 76 at 7,6 with power 1
+           [<__main__.Octopus object at 0x1058c6f40>, <__main__.Octopus object at 0x1058c6f10>, <__main__.Octopus object at 0x1058c6ee0>, <__main__.Octopus object at 0x1058c5760>, <__main__.Octopus object at 0x1058c5700>, <__main__.Octopus object at 0x1058c5580>, <__main__.Octopus object at 0x1058c5550>, <__main__.Octopus object at 0x1058c5520>]
+
+ init_neighbors... 
+  Octopus: 77 at 7,7 with power 1
+           [<__main__.Octopus object at 0x1058c6f10>, <__main__.Octopus object at 0x1058c6ee0>, <__main__.Octopus object at 0x1058c6eb0>, <__main__.Octopus object at 0x1058c5730>, <__main__.Octopus object at 0x1058c56d0>, <__main__.Octopus object at 0x1058c5550>, <__main__.Octopus object at 0x1058c5520>, <__main__.Octopus object at 0x1058c54f0>]
+
+ init_neighbors... 
+  Octopus: 78 at 7,8 with power 3
+           [<__main__.Octopus object at 0x1058c6ee0>, <__main__.Octopus object at 0x1058c6eb0>, <__main__.Octopus object at 0x1058c6e80>, <__main__.Octopus object at 0x1058c5700>, <__main__.Octopus object at 0x1058c56a0>, <__main__.Octopus object at 0x1058c5520>, <__main__.Octopus object at 0x1058c54f0>, <__main__.Octopus object at 0x1058c54c0>]
+
+ init_neighbors... 
+  Octopus: 79 at 7,9 with power 4
+           [<__main__.Octopus object at 0x1058c6eb0>, <__main__.Octopus object at 0x1058c6e80>, <__main__.Octopus object at 0x1058c56d0>, <__main__.Octopus object at 0x1058c54f0>, <__main__.Octopus object at 0x1058c54c0>]
+
+ init_neighbors... 
+  Octopus: 80 at 8,0 with power 4
+           [<__main__.Octopus object at 0x1058c6e50>, <__main__.Octopus object at 0x1058c6d00>, <__main__.Octopus object at 0x1058c5640>, <__main__.Octopus object at 0x1058c5490>, <__main__.Octopus object at 0x1058c5460>]
+
+ init_neighbors... 
+  Octopus: 81 at 8,1 with power 8
+           [<__main__.Octopus object at 0x1058c6e50>, <__main__.Octopus object at 0x1058c6d00>, <__main__.Octopus object at 0x1058c57f0>, <__main__.Octopus object at 0x1058c5670>, <__main__.Octopus object at 0x1058c5610>, <__main__.Octopus object at 0x1058c5490>, <__main__.Octopus object at 0x1058c5460>, <__main__.Octopus object at 0x1058c5430>]
+
+ init_neighbors... 
+  Octopus: 82 at 8,2 with power 4
+           [<__main__.Octopus object at 0x1058c6d00>, <__main__.Octopus object at 0x1058c57f0>, <__main__.Octopus object at 0x1058c57c0>, <__main__.Octopus object at 0x1058c5640>, <__main__.Octopus object at 0x1058c55e0>, <__main__.Octopus object at 0x1058c5460>, <__main__.Octopus object at 0x1058c5430>, <__main__.Octopus object at 0x1058c5400>]
+
+ init_neighbors... 
+  Octopus: 83 at 8,3 with power 6
+           [<__main__.Octopus object at 0x1058c57f0>, <__main__.Octopus object at 0x1058c57c0>, <__main__.Octopus object at 0x1058c5790>, <__main__.Octopus object at 0x1058c5610>, <__main__.Octopus object at 0x1058c55b0>, <__main__.Octopus object at 0x1058c5430>, <__main__.Octopus object at 0x1058c5400>, <__main__.Octopus object at 0x1058c53d0>]
+
+ init_neighbors... 
+  Octopus: 84 at 8,4 with power 8
+           [<__main__.Octopus object at 0x1058c57c0>, <__main__.Octopus object at 0x1058c5790>, <__main__.Octopus object at 0x1058c5760>, <__main__.Octopus object at 0x1058c55e0>, <__main__.Octopus object at 0x1058c5580>, <__main__.Octopus object at 0x1058c5400>, <__main__.Octopus object at 0x1058c53d0>, <__main__.Octopus object at 0x1058c53a0>]
+
+ init_neighbors... 
+  Octopus: 85 at 8,5 with power 4
+           [<__main__.Octopus object at 0x1058c5790>, <__main__.Octopus object at 0x1058c5760>, <__main__.Octopus object at 0x1058c5730>, <__main__.Octopus object at 0x1058c55b0>, <__main__.Octopus object at 0x1058c5550>, <__main__.Octopus object at 0x1058c53d0>, <__main__.Octopus object at 0x1058c53a0>, <__main__.Octopus object at 0x1058c5370>]
+
+ init_neighbors... 
+  Octopus: 86 at 8,6 with power 8
+           [<__main__.Octopus object at 0x1058c5760>, <__main__.Octopus object at 0x1058c5730>, <__main__.Octopus object at 0x1058c5700>, <__main__.Octopus object at 0x1058c5580>, <__main__.Octopus object at 0x1058c5520>, <__main__.Octopus object at 0x1058c53a0>, <__main__.Octopus object at 0x1058c5370>, <__main__.Octopus object at 0x1058c5340>]
+
+ init_neighbors... 
+  Octopus: 87 at 8,7 with power 5
+           [<__main__.Octopus object at 0x1058c5730>, <__main__.Octopus object at 0x1058c5700>, <__main__.Octopus object at 0x1058c56d0>, <__main__.Octopus object at 0x1058c5550>, <__main__.Octopus object at 0x1058c54f0>, <__main__.Octopus object at 0x1058c5370>, <__main__.Octopus object at 0x1058c5340>, <__main__.Octopus object at 0x1058c5310>]
+
+ init_neighbors... 
+  Octopus: 88 at 8,8 with power 5
+           [<__main__.Octopus object at 0x1058c5700>, <__main__.Octopus object at 0x1058c56d0>, <__main__.Octopus object at 0x1058c56a0>, <__main__.Octopus object at 0x1058c5520>, <__main__.Octopus object at 0x1058c54c0>, <__main__.Octopus object at 0x1058c5340>, <__main__.Octopus object at 0x1058c5310>, <__main__.Octopus object at 0x1058c52e0>]
+
+ init_neighbors... 
+  Octopus: 89 at 8,9 with power 4
+           [<__main__.Octopus object at 0x1058c56d0>, <__main__.Octopus object at 0x1058c56a0>, <__main__.Octopus object at 0x1058c54f0>, <__main__.Octopus object at 0x1058c5310>, <__main__.Octopus object at 0x1058c52e0>]
+
+ init_neighbors... 
+  Octopus: 90 at 9,0 with power 5
+           [<__main__.Octopus object at 0x1058c5670>, <__main__.Octopus object at 0x1058c5640>, <__main__.Octopus object at 0x1058c5460>]
+
+ init_neighbors... 
+  Octopus: 91 at 9,1 with power 2
+           [<__main__.Octopus object at 0x1058c5670>, <__main__.Octopus object at 0x1058c5640>, <__main__.Octopus object at 0x1058c5610>, <__main__.Octopus object at 0x1058c5490>, <__main__.Octopus object at 0x1058c5430>]
+
+ init_neighbors... 
+  Octopus: 92 at 9,2 with power 8
+           [<__main__.Octopus object at 0x1058c5640>, <__main__.Octopus object at 0x1058c5610>, <__main__.Octopus object at 0x1058c55e0>, <__main__.Octopus object at 0x1058c5460>, <__main__.Octopus object at 0x1058c5400>]
+
+ init_neighbors... 
+  Octopus: 93 at 9,3 with power 3
+           [<__main__.Octopus object at 0x1058c5610>, <__main__.Octopus object at 0x1058c55e0>, <__main__.Octopus object at 0x1058c55b0>, <__main__.Octopus object at 0x1058c5430>, <__main__.Octopus object at 0x1058c53d0>]
+
+ init_neighbors... 
+  Octopus: 94 at 9,4 with power 7
+           [<__main__.Octopus object at 0x1058c55e0>, <__main__.Octopus object at 0x1058c55b0>, <__main__.Octopus object at 0x1058c5580>, <__main__.Octopus object at 0x1058c5400>, <__main__.Octopus object at 0x1058c53a0>]
+
+ init_neighbors... 
+  Octopus: 95 at 9,5 with power 5
+           [<__main__.Octopus object at 0x1058c55b0>, <__main__.Octopus object at 0x1058c5580>, <__main__.Octopus object at 0x1058c5550>, <__main__.Octopus object at 0x1058c53d0>, <__main__.Octopus object at 0x1058c5370>]
+
+ init_neighbors... 
+  Octopus: 96 at 9,6 with power 1
+           [<__main__.Octopus object at 0x1058c5580>, <__main__.Octopus object at 0x1058c5550>, <__main__.Octopus object at 0x1058c5520>, <__main__.Octopus object at 0x1058c53a0>, <__main__.Octopus object at 0x1058c5340>]
+
+ init_neighbors... 
+  Octopus: 97 at 9,7 with power 5
+           [<__main__.Octopus object at 0x1058c5550>, <__main__.Octopus object at 0x1058c5520>, <__main__.Octopus object at 0x1058c54f0>, <__main__.Octopus object at 0x1058c5370>, <__main__.Octopus object at 0x1058c5310>]
+
+ init_neighbors... 
+  Octopus: 98 at 9,8 with power 2
+           [<__main__.Octopus object at 0x1058c5520>, <__main__.Octopus object at 0x1058c54f0>, <__main__.Octopus object at 0x1058c54c0>, <__main__.Octopus object at 0x1058c5340>, <__main__.Octopus object at 0x1058c52e0>]
+
+ init_neighbors... 
+  Octopus: 99 at 9,9 with power 6
+           [<__main__.Octopus object at 0x1058c54f0>, <__main__.Octopus object at 0x1058c54c0>, <__main__.Octopus object at 0x1058c5310>]
+<function Board.summary at 0x105881280>
+================================== advance from day 0:
+On day 1, 0 flashes occurred. <<<< 
+================================== advance from day 1:
+On day 2, 35 flashes occurred. <<<< 
+================================== advance from day 2:
+On day 3, 45 flashes occurred. <<<< 
+================================== advance from day 3:
+On day 4, 16 flashes occurred. <<<< 
+================================== advance from day 4:
+On day 5, 8 flashes occurred. <<<< 
+================================== advance from day 5:
+On day 6, 1 flashes occurred. <<<< 
+================================== advance from day 6:
+On day 7, 7 flashes occurred. <<<< 
+================================== advance from day 7:
+On day 8, 24 flashes occurred. <<<< 
+================================== advance from day 8:
+On day 9, 39 flashes occurred. <<<< 
+================================== advance from day 9:
+On day 10, 29 flashes occurred. <<<< 
+================================== advance from day 10:
+On day 11, 7 flashes occurred. <<<< 
+================================== advance from day 11:
+On day 12, 2 flashes occurred. <<<< 
+================================== advance from day 12:
+On day 13, 0 flashes occurred. <<<< 
+================================== advance from day 13:
+On day 14, 30 flashes occurred. <<<< 
+================================== advance from day 14:
+On day 15, 38 flashes occurred. <<<< 
+================================== advance from day 15:
+On day 16, 17 flashes occurred. <<<< 
+================================== advance from day 16:
+On day 17, 14 flashes occurred. <<<< 
+================================== advance from day 17:
+On day 18, 1 flashes occurred. <<<< 
+================================== advance from day 18:
+On day 19, 3 flashes occurred. <<<< 
+================================== advance from day 19:
+On day 20, 28 flashes occurred. <<<< 
+================================== advance from day 20:
+On day 21, 42 flashes occurred. <<<< 
+================================== advance from day 21:
+On day 22, 13 flashes occurred. <<<< 
+================================== advance from day 22:
+On day 23, 11 flashes occurred. <<<< 
+================================== advance from day 23:
+On day 24, 6 flashes occurred. <<<< 
+================================== advance from day 24:
+On day 25, 1 flashes occurred. <<<< 
+================================== advance from day 25:
+On day 26, 31 flashes occurred. <<<< 
+================================== advance from day 26:
+On day 27, 39 flashes occurred. <<<< 
+================================== advance from day 27:
+On day 28, 13 flashes occurred. <<<< 
+================================== advance from day 28:
+On day 29, 12 flashes occurred. <<<< 
+================================== advance from day 29:
+On day 30, 1 flashes occurred. <<<< 
+================================== advance from day 30:
+On day 31, 5 flashes occurred. <<<< 
+================================== advance from day 31:
+On day 32, 30 flashes occurred. <<<< 
+================================== advance from day 32:
+On day 33, 40 flashes occurred. <<<< 
+================================== advance from day 33:
+On day 34, 15 flashes occurred. <<<< 
+================================== advance from day 34:
+On day 35, 10 flashes occurred. <<<< 
+================================== advance from day 35:
+On day 36, 0 flashes occurred. <<<< 
+================================== advance from day 36:
+On day 37, 1 flashes occurred. <<<< 
+================================== advance from day 37:
+On day 38, 34 flashes occurred. <<<< 
+================================== advance from day 38:
+On day 39, 43 flashes occurred. <<<< 
+================================== advance from day 39:
+On day 40, 12 flashes occurred. <<<< 
+================================== advance from day 40:
+On day 41, 10 flashes occurred. <<<< 
+================================== advance from day 41:
+On day 42, 1 flashes occurred. <<<< 
+================================== advance from day 42:
+On day 43, 0 flashes occurred. <<<< 
+================================== advance from day 43:
+On day 44, 28 flashes occurred. <<<< 
+================================== advance from day 44:
+On day 45, 48 flashes occurred. <<<< 
+================================== advance from day 45:
+On day 46, 13 flashes occurred. <<<< 
+================================== advance from day 46:
+On day 47, 11 flashes occurred. <<<< 
+================================== advance from day 47:
+On day 48, 0 flashes occurred. <<<< 
+================================== advance from day 48:
+On day 49, 1 flashes occurred. <<<< 
+================================== advance from day 49:
+On day 50, 27 flashes occurred. <<<< 
+================================== advance from day 50:
+On day 51, 41 flashes occurred. <<<< 
+================================== advance from day 51:
+On day 52, 21 flashes occurred. <<<< 
+================================== advance from day 52:
+On day 53, 12 flashes occurred. <<<< 
+================================== advance from day 53:
+On day 54, 0 flashes occurred. <<<< 
+================================== advance from day 54:
+On day 55, 0 flashes occurred. <<<< 
+================================== advance from day 55:
+On day 56, 26 flashes occurred. <<<< 
+================================== advance from day 56:
+On day 57, 42 flashes occurred. <<<< 
+================================== advance from day 57:
+On day 58, 13 flashes occurred. <<<< 
+================================== advance from day 58:
+On day 59, 16 flashes occurred. <<<< 
+================================== advance from day 59:
+On day 60, 3 flashes occurred. <<<< 
+================================== advance from day 60:
+On day 61, 0 flashes occurred. <<<< 
+================================== advance from day 61:
+On day 62, 28 flashes occurred. <<<< 
+================================== advance from day 62:
+On day 63, 41 flashes occurred. <<<< 
+================================== advance from day 63:
+On day 64, 13 flashes occurred. <<<< 
+================================== advance from day 64:
+On day 65, 3 flashes occurred. <<<< 
+================================== advance from day 65:
+On day 66, 13 flashes occurred. <<<< 
+================================== advance from day 66:
+On day 67, 4 flashes occurred. <<<< 
+================================== advance from day 67:
+On day 68, 28 flashes occurred. <<<< 
+================================== advance from day 68:
+On day 69, 43 flashes occurred. <<<< 
+================================== advance from day 69:
+On day 70, 13 flashes occurred. <<<< 
+================================== advance from day 70:
+On day 71, 0 flashes occurred. <<<< 
+================================== advance from day 71:
+On day 72, 1 flashes occurred. <<<< 
+================================== advance from day 72:
+On day 73, 13 flashes occurred. <<<< 
+================================== advance from day 73:
+On day 74, 30 flashes occurred. <<<< 
+================================== advance from day 74:
+On day 75, 44 flashes occurred. <<<< 
+================================== advance from day 75:
+On day 76, 12 flashes occurred. <<<< 
+================================== advance from day 76:
+On day 77, 0 flashes occurred. <<<< 
+================================== advance from day 77:
+On day 78, 1 flashes occurred. <<<< 
+================================== advance from day 78:
+On day 79, 1 flashes occurred. <<<< 
+================================== advance from day 79:
+On day 80, 40 flashes occurred. <<<< 
+================================== advance from day 80:
+On day 81, 47 flashes occurred. <<<< 
+================================== advance from day 81:
+On day 82, 12 flashes occurred. <<<< 
+================================== advance from day 82:
+On day 83, 1 flashes occurred. <<<< 
+================================== advance from day 83:
+On day 84, 0 flashes occurred. <<<< 
+================================== advance from day 84:
+On day 85, 1 flashes occurred. <<<< 
+================================== advance from day 85:
+On day 86, 23 flashes occurred. <<<< 
+================================== advance from day 86:
+On day 87, 60 flashes occurred. <<<< 
+================================== advance from day 87:
+On day 88, 17 flashes occurred. <<<< 
+================================== advance from day 88:
+On day 89, 0 flashes occurred. <<<< 
+================================== advance from day 89:
+On day 90, 0 flashes occurred. <<<< 
+================================== advance from day 90:
+On day 91, 3 flashes occurred. <<<< 
+================================== advance from day 91:
+On day 92, 19 flashes occurred. <<<< 
+================================== advance from day 92:
+On day 93, 16 flashes occurred. <<<< 
+================================== advance from day 93:
+On day 94, 59 flashes occurred. <<<< 
+================================== advance from day 94:
+On day 95, 6 flashes occurred. <<<< 
+================================== advance from day 95:
+On day 96, 0 flashes occurred. <<<< 
+================================== advance from day 96:
+On day 97, 0 flashes occurred. <<<< 
+================================== advance from day 97:
+On day 98, 33 flashes occurred. <<<< 
+================================== advance from day 98:
+On day 99, 2 flashes occurred. <<<< 
+================================== advance from day 99:
+On day 100, 13 flashes occurred. <<<< 
+================================== advance from day 100:
+On day 101, 49 flashes occurred. <<<< 
+================================== advance from day 101:
+On day 102, 7 flashes occurred. <<<< 
+================================== advance from day 102:
+On day 103, 6 flashes occurred. <<<< 
+================================== advance from day 103:
+On day 104, 25 flashes occurred. <<<< 
+================================== advance from day 104:
+On day 105, 0 flashes occurred. <<<< 
+================================== advance from day 105:
+On day 106, 12 flashes occurred. <<<< 
+================================== advance from day 106:
+On day 107, 34 flashes occurred. <<<< 
+================================== advance from day 107:
+On day 108, 29 flashes occurred. <<<< 
+================================== advance from day 108:
+On day 109, 1 flashes occurred. <<<< 
+================================== advance from day 109:
+On day 110, 26 flashes occurred. <<<< 
+================================== advance from day 110:
+On day 111, 1 flashes occurred. <<<< 
+================================== advance from day 111:
+On day 112, 19 flashes occurred. <<<< 
+================================== advance from day 112:
+On day 113, 24 flashes occurred. <<<< 
+================================== advance from day 113:
+On day 114, 4 flashes occurred. <<<< 
+================================== advance from day 114:
+On day 115, 26 flashes occurred. <<<< 
+================================== advance from day 115:
+On day 116, 27 flashes occurred. <<<< 
+================================== advance from day 116:
+On day 117, 8 flashes occurred. <<<< 
+================================== advance from day 117:
+On day 118, 13 flashes occurred. <<<< 
+================================== advance from day 118:
+On day 119, 24 flashes occurred. <<<< 
+================================== advance from day 119:
+On day 120, 1 flashes occurred. <<<< 
+================================== advance from day 120:
+On day 121, 1 flashes occurred. <<<< 
+================================== advance from day 121:
+On day 122, 61 flashes occurred. <<<< 
+================================== advance from day 122:
+On day 123, 1 flashes occurred. <<<< 
+================================== advance from day 123:
+On day 124, 12 flashes occurred. <<<< 
+================================== advance from day 124:
+On day 125, 25 flashes occurred. <<<< 
+================================== advance from day 125:
+On day 126, 1 flashes occurred. <<<< 
+================================== advance from day 126:
+On day 127, 1 flashes occurred. <<<< 
+================================== advance from day 127:
+On day 128, 18 flashes occurred. <<<< 
+================================== advance from day 128:
+On day 129, 43 flashes occurred. <<<< 
+================================== advance from day 129:
+On day 130, 12 flashes occurred. <<<< 
+================================== advance from day 130:
+On day 131, 26 flashes occurred. <<<< 
+================================== advance from day 131:
+On day 132, 5 flashes occurred. <<<< 
+================================== advance from day 132:
+On day 133, 13 flashes occurred. <<<< 
+================================== advance from day 133:
+On day 134, 1 flashes occurred. <<<< 
+================================== advance from day 134:
+On day 135, 0 flashes occurred. <<<< 
+================================== advance from day 135:
+On day 136, 56 flashes occurred. <<<< 
+================================== advance from day 136:
+On day 137, 30 flashes occurred. <<<< 
+================================== advance from day 137:
+On day 138, 13 flashes occurred. <<<< 
+================================== advance from day 138:
+On day 139, 0 flashes occurred. <<<< 
+================================== advance from day 139:
+On day 140, 0 flashes occurred. <<<< 
+================================== advance from day 140:
+On day 141, 1 flashes occurred. <<<< 
+================================== advance from day 141:
+On day 142, 10 flashes occurred. <<<< 
+================================== advance from day 142:
+On day 143, 89 flashes occurred. <<<< 
+================================== advance from day 143:
+On day 144, 0 flashes occurred. <<<< 
+================================== advance from day 144:
+On day 145, 0 flashes occurred. <<<< 
+================================== advance from day 145:
+On day 146, 0 flashes occurred. <<<< 
+================================== advance from day 146:
+On day 147, 4 flashes occurred. <<<< 
+================================== advance from day 147:
+On day 148, 7 flashes occurred. <<<< 
+================================== advance from day 148:
+On day 149, 2 flashes occurred. <<<< 
+================================== advance from day 149:
+On day 150, 87 flashes occurred. <<<< 
+================================== advance from day 150:
+On day 151, 4 flashes occurred. <<<< 
+================================== advance from day 151:
+On day 152, 0 flashes occurred. <<<< 
+================================== advance from day 152:
+On day 153, 0 flashes occurred. <<<< 
+================================== advance from day 153:
+On day 154, 9 flashes occurred. <<<< 
+================================== advance from day 154:
+On day 155, 0 flashes occurred. <<<< 
+================================== advance from day 155:
+On day 156, 0 flashes occurred. <<<< 
+================================== advance from day 156:
+On day 157, 91 flashes occurred. <<<< 
+================================== advance from day 157:
+On day 158, 0 flashes occurred. <<<< 
+================================== advance from day 158:
+On day 159, 1 flashes occurred. <<<< 
+================================== advance from day 159:
+On day 160, 7 flashes occurred. <<<< 
+================================== advance from day 160:
+On day 161, 1 flashes occurred. <<<< 
+================================== advance from day 161:
+On day 162, 0 flashes occurred. <<<< 
+================================== advance from day 162:
+On day 163, 0 flashes occurred. <<<< 
+================================== advance from day 163:
+On day 164, 92 flashes occurred. <<<< 
+================================== advance from day 164:
+On day 165, 1 flashes occurred. <<<< 
+================================== advance from day 165:
+On day 166, 6 flashes occurred. <<<< 
+================================== advance from day 166:
+On day 167, 0 flashes occurred. <<<< 
+================================== advance from day 167:
+On day 168, 1 flashes occurred. <<<< 
+================================== advance from day 168:
+On day 169, 0 flashes occurred. <<<< 
+================================== advance from day 169:
+On day 170, 0 flashes occurred. <<<< 
+================================== advance from day 170:
+On day 171, 93 flashes occurred. <<<< 
+================================== advance from day 171:
+On day 172, 6 flashes occurred. <<<< 
+================================== advance from day 172:
+On day 173, 0 flashes occurred. <<<< 
+================================== advance from day 173:
+On day 174, 0 flashes occurred. <<<< 
+================================== advance from day 174:
+On day 175, 1 flashes occurred. <<<< 
+================================== advance from day 175:
+On day 176, 0 flashes occurred. <<<< 
+================================== advance from day 176:
+On day 177, 1 flashes occurred. <<<< 
+================================== advance from day 177:
+On day 178, 98 flashes occurred. <<<< 
+================================== advance from day 178:
+On day 179, 0 flashes occurred. <<<< 
+================================== advance from day 179:
+On day 180, 1 flashes occurred. <<<< 
+================================== advance from day 180:
+On day 181, 1 flashes occurred. <<<< 
+================================== advance from day 181:
+On day 182, 0 flashes occurred. <<<< 
+================================== advance from day 182:
+On day 183, 0 flashes occurred. <<<< 
+================================== advance from day 183:
+On day 184, 0 flashes occurred. <<<< 
+================================== advance from day 184:
+On day 185, 0 flashes occurred. <<<< 
+================================== advance from day 185:
+On day 186, 99 flashes occurred. <<<< 
+================================== advance from day 186:
+On day 187, 0 flashes occurred. <<<< 
+================================== advance from day 187:
+On day 188, 1 flashes occurred. <<<< 
+================================== advance from day 188:
+On day 189, 0 flashes occurred. <<<< 
+================================== advance from day 189:
+On day 190, 0 flashes occurred. <<<< 
+================================== advance from day 190:
+On day 191, 0 flashes occurred. <<<< 
+================================== advance from day 191:
+On day 192, 0 flashes occurred. <<<< 
+================================== advance from day 192:
+On day 193, 0 flashes occurred. <<<< 
+================================== advance from day 193:
+On day 194, 0 flashes occurred. <<<< 
+================================== advance from day 194:
+ALL FLASHING ON DAY 195 <<<<<<<<<<<<<<<<< 
