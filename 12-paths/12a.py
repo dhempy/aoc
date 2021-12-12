@@ -1,7 +1,7 @@
 #! /usr/local/bin/python3
 filename = "input-10"
-filename = "input-19"
-filename = "input-226"
+# filename = "input-19"
+# filename = "input-226"
 # filename = "input"
 
 from collections import Counter
@@ -17,58 +17,50 @@ def log(m):
   if debug: print(m)
 
 class Tunnel:
-  def __init__(self, board, line):
-    log(f"Tunnel.init({line})")
-    self.raw_line = line
+  def __init__(self, board, src, dest):
+    log(f"Tunnel.init({src, dest})")
     self.board = board
-    self.src, self.dest = line.split('-')
+    self.src = src
+    self.dest = dest
     self.dump()
 
-  def init_neighbors(self):
-    log("\n init_neighbors... ")
-    for r in range(-1,2):
-      for c in range(-1,2):
-        row = self.row + r
-        col = self.col + c
-        if (r != 0 or c != 0) and row >= 0 and col >= 0 and row < self.board.size and col < self.board.size:
-          self.neighbors.append(self.board.octopii[row * self.board.size + col])
-          # self.neighbors.append(row * self.board.size + col)
-
-  def flash(self):
-    # log(f"oct({self.row},{self.col}) flashing on day {self.board.today}  POW!!!")
-    self.board.flashed()
-    self.last_flash_day = self.board.today
-    self.reset_on_day = self.board.today + 1
-    for o in self.neighbors:
-      o.energize()
-
-  def energize(self):
-    # self.yesterday_power = power % 10
-    if self.reset_on_day == self.board.today:
-      self.power = 0
-      # log(f"oct({self.row},{self.col}) RESETTING to {self.power}")
-      self.reset_on_day = -1
-
-    self.power += 1
-    # log(f"oct({self.row},{self.col}) powered to {self.power}")
-
-    if self.power > 9 and self.last_flash_day < self.board.today:
-      self.flash()
-
-
-
+  # def inverse(self):
+  #   reverse_line = f"{self.dest}-{self.src}"
+  #   Tunnel(self.board, reverse_line)
 
   def dump(self):
-    log(f"  Tunnel: {self.src} -- {self.dest}  (input: {self.raw_line}) ")
+    log(f"  Tunnel: {self.src} -- {self.dest}   ")
+
+class Cave:
+  def __init__(self, name):
+    log(f"Cave.init({name})")
+    self.name = name
+    self.tunnels = []
+    self.big = self.name.isupper()
+    self.dump()
+
+  def add_tunnel(self, tunnel):
+    log(f"add_tunnel({tunnel})")
+    assert(self.name == tunnel.src)
+    self.tunnels.append(tunnel)
+    log("TODO: add reverse tunnels")
+
+  def dump(self):
+    log(f"Cave {self.name}: {'BIG' if self.big else 'small'} tunnel_count={len(self.tunnels)}")
+    for tunnel in self.tunnels:
+      tunnel.dump()
+
 
 class Board:
   def __init__(self, filename):
     log(f"Board.init({filename})")
     self.filename = filename
-    self.tunnels = {}
+    self.tunnels = []
+    self.caves = {}
     self.path_count = 123
     self.today = 0
-    self.slurp()
+    self.slurp_tunnels()
+    self.dig_caves()
     # self.area = len(self.flat)
     # self.size = int(math.sqrt(self.area))
     # self.octopii = []
@@ -79,21 +71,32 @@ class Board:
     # for o in self.octopii:
     #   o.init_neighbors()
     #   o.dump()
+    self.dump()
 
-  def slurp(self):
+  def slurp_tunnels(self):
     for line in open(self.filename):
-      line = line.rstrip()
-      self.tunnels[line] = Tunnel(self, line)
+      src, dest = line.rstrip().split('-')
+      self.tunnels.append(Tunnel(self, src, dest))
+      self.tunnels.append(Tunnel(self, dest, src))
+
+  def dig_caves(self):
+    for tunnel in self.tunnels:
+      log(f"dig caves for tunnel {tunnel}")
+      log(f"dig cave {tunnel.src}")
+      log(f"dig cave {tunnel.dest}")
+      if tunnel.src not in self.caves.keys():
+        self.caves[tunnel.src] = Cave(tunnel.src)
+      if tunnel.dest not in self.caves.keys():
+        self.caves[tunnel.dest] = Cave(tunnel.dest)
+      self.caves[tunnel.src].add_tunnel(tunnel)
 
   def dump(self):
-    if not debug: return
-    log(Board.summary)
-
-  # def path_count(self):
-  #   return self.last_hit * sum(sum(self.lines[0:5], [])) # only the rows, not the (redundant) columns
+    log(self.summary())
+    for cave in self.caves.values():
+      cave.dump()
 
   def summary(self):
-    return f"Board {self.filename}: path_count={self.path_count()}"
+    return f"Board {self.filename}: path_count={self.path_count}"
 
   # def flashed(self):
   #   self.path_count += 1
@@ -112,9 +115,7 @@ class Board:
   #   print(f"On day {self.today}, {self.daily_paths[self.today]} paths occurred. <<<< ")
 
 def main():
-
   board = Board(filename)
-  board.dump()
 
   # for day in range(max_days):
   #   board.advance()
