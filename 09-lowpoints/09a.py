@@ -1,7 +1,7 @@
 #! /usr/local/bin/python3
 # filename = "input-15"
-filename = "input-solo"
-# filename = "input"
+# filename = "input-13"
+filename = "input"
 
 debug = False
 debug = True
@@ -17,6 +17,7 @@ class Board:
   def __init__(self, filename):
     log(f"Board.init({filename})")
     self.filename = filename
+    self.total_risk = 0
     self.map = self.slurp()
     self.rows = len(self.map)
     self.cols = len(self.map[0])
@@ -27,28 +28,30 @@ class Board:
     return numpy.loadtxt(self.filename, dtype = numpy.str)
 
   def find_lows(self):
-    for x in range(self.rows):
-      for y in range(self.cols):
-        self.test_for_low(x, y)
+    for r in range(self.rows):
+      for c in range(self.cols):
+        self.test_for_low(r, c)
 
-  def test_for_low(self, x, y):
-    this_cell = self.map[x][y]
-    log(f'test_for_low {x},{y} => {this_cell} ')
+  def test_for_low(self, r, c):
+    this_cell = self.map[r][c]
+    # log(f'test_for_low {r},{c} => {this_cell} ')
 
-    for delta_x in range(-1,2):
-      for delta_y in range(-1,2):
-        if (delta_x != 0 or delta_x != 0):
-          row = y + delta_y
-          col = x + delta_x
+    for delta_r in range(-1,2):
+      for delta_c in range(-1,2):
+        if (delta_r != 0 or delta_c != 0):
+          row = r + delta_r
+          col = c + delta_c
           if row >= 0 and col >= 0 and row < self.rows and col < self.cols:
             that_cell = self.map[row][col]
-            log(f'             {row},{col} => {that_cell} ')
+            # log(f'             {row},{col} => {that_cell} ')
 
             if this_cell >= that_cell:
-              log(f'             NOPE!')
+              # log(f'             NOPE!')
               return 0
     # no neighbors were greater....
-    log(f'LOW SPOT at {x},{y} => {this_cell} ')
+    log(f'LOW SPOT at {r},{c} => {this_cell} ')
+    risk = int(this_cell) + 1
+    self.total_risk += risk
 
 
 
@@ -65,9 +68,9 @@ class Board:
 def main():
   board = Board(filename)
   # answer = board.compile()
-  lows = board.find_lows()
-  answer = 123
-  log(f"Total score: {answer} ")
+  board.find_lows()
+  answer = board.total_risk
+  log(f"Total risk: {answer} ")
 
 
   target = int(filename.split('-')[-1])
