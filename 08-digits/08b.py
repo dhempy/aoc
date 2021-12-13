@@ -1,20 +1,22 @@
 #! /usr/local/bin/python3
 # filename = "input-test.txt"
 # filename = "input-solo.txt"
-filename = "input.0123.txt"
-# filename = "input.txt"
+# filename = "input.0123.txt"
+# filename = "input.4567.txt"
+# filename = "input.8989.txt"
+filename = "input.txt"
 
 from collections import Counter
 
 debug = False
-debug = True
+# debug = True
 
 def log(m):
   if debug: print(m)
 
 def digits_with_length(clues, length):
-  for clue in clues:
-    print(f"clue: {clue} len: {len(clue)}")
+  # for clue in clues:
+  #   print(f"clue: {clue} len: {len(clue)}")
 
   matches = [clue for clue in clues if len(clue) == length]
   log(f"digits_with_length({clues}, {length}) => {matches} ")
@@ -92,59 +94,57 @@ def solve(clues):
   # now the tricky ones:
   segments[0] = difference(digits[7], digits[1])
   segments[2] = (set(segment_by_count[8]) - set([segments[0]])).pop()
-  # segments[6] = (set(segment_by_count[7]) - segments_not_in(digits[4])).pop()
-  # segments[3] = (set(segment_by_count[7]) - set(segments[6])).pop()
+  segments[6] = set(segment_by_count[7]).intersection(segments_not_in(digits[4])).pop()
+  segments[3] = (set(segment_by_count[7]) - set(segments[6])).pop()
 
-  # digits[2] = digits_without(clues, segments[5])[0]
-  # print(f"digits[2]: {digits[2]}")
+  digits[2] = digits_without(clues, segments[5])[0]
+  digits[3] = set(digits_with_length(clues, 5)).intersection(has_both(clues, segments, 2, 5)).pop()
+  digits[5] = (set(digits_with_length(clues, 5)) - set([digits[2], digits[3]])).pop()
+  digits[6] = set(digits_with_length(clues, 6)).intersection(has_both(clues, segments, 3, 4)).pop()
+  digits[9] = set(digits_with_length(clues, 6)).intersection(has_both(clues, segments, 2, 3)).pop()
+  digits[0] = (set(digits_with_length(clues, 6)) - set([digits[6], digits[9]])).pop()
 
-  # digits[3] = set(digits_with_length(clues, 5)).intersection(has_both(clues, segments, 2, 5)).pop()
-  # print(f"digits[3]: {digits[3]}")
-
-  # digits[5] = (set(digits_with_length(clues, 5)) - set([digits[2], digits[3]])).pop()
-  # print(f"digits[5]: {digits[5]}")
-
-  # digits[6] = set(digits_with_length(clues, 6)).intersection(has_both(clues, segments, 3, 4)).pop()
-  # print(f"digits[6]: {digits[6]}")
-  # digits[9] = set(digits_with_length(clues, 6)).intersection(has_both(clues, segments, 2, 3)).pop()
-  # print(f"digits[9]: {digits[9]}")
-
-  # digits[0] = set(digits_with_length(clues, 6)).intersection(has_both(clues, segments, 3)).pop()
-  # print(f"digits[0]: {digits[0]}")
-  #   shows:  has_both(['abcdefg', 'bcdef', 'acdfg', 'abcdf', 'abd', 'abcdef', 'bcdefg', 'abef', 'abcdeg', 'ab'], {1: 'e', 4: 'g', 5: 'b', 0: 'd', 2: 'a', 6: 'f', 3: 'c'}, a, g) => {'acdfg', 'abcdeg', 'abcdefg'} <<<<<<<<<<
-  #           digits[0]: abcdeg
-
-  # digits[0] = set(digits_with_length(clues, 6)).intersection(has_not(clues, segments, 3)).pop()
-  # print(f"digits[0]: {digits[0]}")
-
-
-  # log(f"digits[3]: {digits[3]}")
-
-  log(f"segments: {segments}")
-  # log(f"segments resolved: {sorted(segments)}")
+  log(f"segments: {sorted(segments)}")
 
   wires = { wire: segment for segment, wire in segments.items() }
-  log(f"wires: {wires}")
+  log(f"wires: {sorted(wires)}")
 
-  log(f"digits: {digits}")
+  log(f"digits: {sorted(digits)}")
   key = { s: n for n, s in digits.items() }
-  log(f"key: {key}")
+  log(f"key: {sorted(key)}")
 
-  # print(f"expect 0 to eq abcefg == {digits[0]} => {'abcefg' == digits[0]}")
-  print(f"expect 1 to eq cf == {digits[1]} => {'cf' == digits[1]}")
-  # print(f"expect 2 to eq acdeg == {digits[2]} => {'acdeg' == digits[2]}")
-  # print(f"expect 3 to eq acdfg == {digits[3]} => {'acdfg' == digits[3]}")
-  print(f"expect 4 to eq bcdf == {digits[4]} => {'bcdf' == digits[4]}")
-  # print(f"expect 5 to eq abdfg == {digits[5]} => {'abdfg' == digits[5]}")
-  # print(f"expect 6 to eq abdefg == {digits[6]} => {'abdefg' == digits[6]}")
-  print(f"expect 7 to eq acf == {digits[7]} => {'acf' == digits[7]}")
-  print(f"expect 8 to eq abcdedfg == {digits[8]} => {'abcdedfg' == digits[8]}")
-  # print(f"expect 9 to eq abcdfg == {digits[9]} => {'abcdfg' == digits[9]}")
+  # these work only when wires are not crossed: (e.g. input.0123.txt)
+  log(f"expect segment 0 to eq a == {segments[0]} => {'a' == segments[0]}")
+  log(f"expect segment 1 to eq b == {segments[1]} => {'b' == segments[1]}")
+  log(f"expect segment 2 to eq c == {segments[2]} => {'c' == segments[2]}")
+  log(f"expect segment 3 to eq d == {segments[3]} => {'d' == segments[3]}")
+  log(f"expect segment 4 to eq e == {segments[4]} => {'e' == segments[4]}")
+  log(f"expect segment 5 to eq f == {segments[5]} => {'f' == segments[5]}")
+  log(f"expect segment 6 to eq g == {segments[6]} => {'g' == segments[6]}")
+
+  # these work only when wires are not crossed: (e.g. input.0123.txt)
+  log(f"expect digit 0 to eq abcefg == {digits[0]} => {'abcefg' == digits[0]}")
+  log(f"expect digit 1 to eq cf == {digits[1]} => {'cf' == digits[1]}")
+  log(f"expect digit 2 to eq acdeg == {digits[2]} => {'acdeg' == digits[2]}")
+  log(f"expect digit 3 to eq acdfg == {digits[3]} => {'acdfg' == digits[3]}")
+  log(f"expect digit 4 to eq bcdf == {digits[4]} => {'bcdf' == digits[4]}")
+  log(f"expect digit 5 to eq abdfg == {digits[5]} => {'abdfg' == digits[5]}")
+  log(f"expect digit 6 to eq abdefg == {digits[6]} => {'abdefg' == digits[6]}")
+  log(f"expect digit 7 to eq acf == {digits[7]} => {'acf' == digits[7]}")
+  log(f"expect digit 8 to eq abcdefg == {digits[8]} => {'abcdefg' == digits[8]}")
+  log(f"expect digit 9 to eq abcdfg == {digits[9]} => {'abcdfg' == digits[9]}")
 
   return key
 
 def evalute(key, display):
-  return 9999
+  output = ''
+  for s in display:
+    # digit = str(key[s])
+    output = f"{output}{key[s]}"
+    # total = digit + total * 10
+  log(f"evalute({key}, {display}) => {output} ")
+  print(output)
+  return output
 
 def parse(line):
   log(f"decode: {line}")
@@ -167,7 +167,7 @@ def main():
   total = 0
 
   for line in open(filename):
-    total += decode(line)
+    total += int(decode(line))
 
   print(f"\nTotal: {total}")
   # assert total == 61229, "NOPE! the total should be 61229"

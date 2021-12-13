@@ -1,2 +1,1 @@
-abcefg cf acdeg acdfg bcdf abdfg abdefg acf abcdedfg abcdfg | abcdedfg abcdfg abcdedfg abcdfg
-
+abcefg cf acdeg acdfg bcdf abdfg abdefg acf abcdefg abcdfg | abcdefg abcdfg abcdefg abcdfg

@@ -18,7 +18,7 @@ gcdfa: 2  LACKS 'b'
 
 
 abcefg   cf      acdeg   acdfg  bcdf
-abdfg  abdefg    acf    abcdedfg abcdfg
+abdfg  abdefg    acf    abcdefg abcdfg
 
 abcefg   cf      acdeg   acdfg  bcdf
   0:      1:      2:      3:      4:
@@ -30,7 +30,7 @@ e    f  .    f  e    .  .    f  .    f
 e    f  .    f  e    .  .    f  .    f
  gggg    ....    gggg    gggg    ....
 
-abdfg  abdefg    acf    abcdedfg abcdfg
+abdfg  abdefg    acf    abcdefg abcdfg
   5:      6:      7:      8:      9:
  aaaa    aaaa    aaaa    aaaa    aaaa
 b    .  b    .  .    c  b    c  b    c
