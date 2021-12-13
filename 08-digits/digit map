@@ -21,6 +21,7 @@ abcefg   cf      acdeg   acdfg  bcdf
 abdfg  abdefg    acf    abcdefg abcdfg
 
 abcefg   cf      acdeg   acdfg  bcdf
+    @6      @2      @5      @5     @4
   0:      1:      2:      3:      4:
  aaaa    ....    aaaa    aaaa    ....
 b    c  .    c  .    c  .    c  b    c
@@ -31,6 +32,7 @@ e    f  .    f  e    .  .    f  .    f
  gggg    ....    gggg    gggg    ....
 
 abdfg  abdefg    acf    abcdefg abcdfg
+   @5      @6      @3        @7     @6
   5:      6:      7:      8:      9:
  aaaa    aaaa    aaaa    aaaa    aaaa
 b    .  b    .  .    c  b    c  b    c
