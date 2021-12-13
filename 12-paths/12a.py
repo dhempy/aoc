@@ -1,8 +1,8 @@
 #! /usr/local/bin/python3
-filename = "input-10"
+# filename = "input-10"
 # filename = "input-19"
 # filename = "input-226"
-# filename = "input"
+filename = "input"
 
 from collections import Counter
 
@@ -37,6 +37,7 @@ class Cave:
     self.name = name
     self.tunnels = []
     self.big = self.name.isupper()
+    self.in_path = False
     self.dump()
 
   def add_tunnel(self, tunnel):
@@ -57,8 +58,7 @@ class Board:
     self.filename = filename
     self.tunnels = []
     self.caves = {}
-    self.path_count = 123
-    self.today = 0
+    self.path_count = 0
     self.slurp_tunnels()
     self.dig_caves()
     # self.area = len(self.flat)
@@ -90,6 +90,29 @@ class Board:
         self.caves[tunnel.dest] = Cave(tunnel.dest)
       self.caves[tunnel.src].add_tunnel(tunnel)
 
+  def count_paths(self, src, final_dest):
+    log(f"count_paths({src}, {final_dest})...")
+    if src == final_dest:
+      # self.path_count += 1
+      # return self.path_count
+      log(f" TERMINUS! +1")
+      return 1
+
+    here = self.caves[src]
+    if here.in_path and not here.big:
+      log(f"  Backing out from {src} because we've been here.")
+      return 0
+
+    here.in_path = True
+    path_count = 0
+    for tunnel in here.tunnels:
+      path_count += self.count_paths(tunnel.dest, final_dest)
+
+    here.in_path = False
+    log(f"count_paths({src}, {final_dest}) returning {path_count}")
+    return path_count
+
+
   def dump(self):
     log(self.summary())
     for cave in self.caves.values():
@@ -116,15 +139,11 @@ class Board:
 
 def main():
   board = Board(filename)
+  total = board.count_paths('start', 'end')
+  print(f"\nNumber of paths: {total}")
 
-  # for day in range(max_days):
-  #   board.advance()
-
-
-  print(f"\nNumber of paths: {board.path_count}")
-
-  target = filename.split('-')[-1]
-  assert board.path_count == target, f"NOPE! the total should be {target}, not {board.path_count}"
+  target = int(filename.split('-')[-1])
+  assert total == target, f"NOPE! the total should be {target}, not {total}"
 
 main()
 
