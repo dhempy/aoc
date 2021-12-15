@@ -1,5 +1,6 @@
 #! /usr/local/bin/python3
 filename = "input-1588"
+# filename = "input-2x40"
 # filename = "input"
 
 from collections import Counter
@@ -8,7 +9,7 @@ import re
 # debug = False
 debug = True
 
-max_days = 3
+max_days = 10
 
 import math
 def log(m):
@@ -19,6 +20,7 @@ class Rule:
     # log(f"Rule.init({name})")
     self.target = target
     self.insert = insert
+    # self.replace = "{target[0,-2]}{insert}" # Don't include target[1]...the next match will get it.
     # self.dump()
 
   def dump(self):
@@ -28,12 +30,16 @@ class Rule:
     f" {self.target} gets {self.insert}"
 
 
+
 class Board:
   def __init__(self, filename):
     log(f"Board.init({filename})")
     self.filename = filename
     self.today = 0
     self.slurp()
+    self.foresites = {}
+    self.foresites_init()
+
     # self.dump()
 
   def slurp(self):
@@ -48,10 +54,15 @@ class Board:
       target, insert = line.rstrip().split(' -> ')
       self.rules.append(Rule(target, insert))
 
+  def foresites_init(self):
+    for rule in self.rules:
+      self.foresites[rule.target] = [f"{rule.target[0]}{rule.insert}{rule.target[1]}"]
+
   def dump(self):
     log(self.summary())
     for rule in self.rules:
       rule.dump()
+    log(f'foresites: {self.foresites} ')
 
   def summary(self):
     return f"Board {self.filename}:"
@@ -60,7 +71,7 @@ class Board:
     log(f"================================== advance from day {self.today}:")
     self.today += 1
     next_word = []
-    print(f"{self.today}:  PRE: {self.word}")
+    # print(f"{self.today}:  PRE: {self.word}")
 
     for i in range(len(self.word)-1):
       pair = self.word[i:i+2]
@@ -75,10 +86,20 @@ class Board:
 
     next_word.append(self.word[-1])
     self.word = ''.join(next_word)
-    print(f"{self.today}: POST: {self.word}")
+    print(f"{self.today}: POST: {len(self.word)}  {self.word}")
+
+  def score(self):
+    elements = Counter(self.word)
+    log(elements)
+    max = elements.most_common()[0][1]
+    min = elements.most_common()[-1][1]
+    return max - min
 
 def main():
   board = Board(filename)
+  board.dump()
+
+  print(f"0: POST: {len(board.word)}  {board.word}")
 
   for day in range(max_days):
     board.advance()

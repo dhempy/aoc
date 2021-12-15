@@ -1,0 +1,39 @@
+
+This does not help much, if any:
+
+collection = ()
+for pair in list:
+  solve to 40
+  collection += word
+
+
+This might help one order of mag, at best:
+rule[K][S] = T
+rule[K][T] = T
+rule[K][V] = r
+
+0      1       2
+CH ->  CBH     CHBHH
+CBH -> CHBHH
+CHBHH -> CBHBHHH
+
+CH -> B
+CB -> H
+HB -> C
+HC -> B
+BH -> H
+BC -> B
+
+Yes: 
+build hash of [str]-> list(str, str, str, str)
+Add in a Counter at each level?
+
+counts['CBAFAFDS'] = Counter('CBAFAFDS')
+counts['WEFDSS'] = Counter('WEFDSS')
+counts['CH'] = Counter('CH')
+counts['CBH'] = Counter('CH').add('B')
+counts['CHBHH'] = Counter('CBH').add('H').add('H')
+counts['CBHCBHHH'] = Counter('CHBHH').add('B').add('C').add('H')
+
+C
+Try 20 foresight and 2 advances?
