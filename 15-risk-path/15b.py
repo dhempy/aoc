@@ -1,18 +1,14 @@
 #! /usr/local/bin/python3
 # filename = "inputb-8"
-# filename = "input-40"
-filename = "input-full"
+filename = "input-40"
+# filename = "input"
 
 debug = False
 # debug = True
 
 import math
 import numpy
-import json
 import sys
-import jsbeautifier
-
-numpy.set_printoptions(linewidth=400)
 
 def log(m):
   if debug: print(m)
@@ -22,30 +18,31 @@ class Board:
   def __init__(self, filename):
     log(f"Board.init({filename})")
     self.filename = filename
-    self.total_risk = 0
-    self.map = self.slurp()
-    self.rows = len(self.map)
-    self.cols = len(self.map[0])
-
     try:
-      self.load_wip()
+      self.load()
     except:
-      print("No wip files to load. Zero out paths:")
+      self.total_risk = 0
+      self.map = self.slurp()
+      self.rows = len(self.map)
+      self.cols = len(self.map[0])
       self.seen = numpy.full((self.rows, self.cols), False, dtype=bool)
       self.safest_to_here = numpy.full((self.rows, self.cols), sys.maxsize, dtype=int)
     self.dump()
 
   def slurp(self):
+    # self.lines = open(self.filename).read().split()
     return numpy.loadtxt(self.filename, dtype = numpy.str)
 
-  def save_wip(self):
-    log(f"Saving wip")
-    numpy.savetxt(f"{self.filename}.paths", self.safest_to_here, fmt='%3i')
-    numpy.savetxt(f"{self.filename}.seen", self.seen, fmt='%i')
+  def json_filename():
+    return f"{self.filename}.json"
 
-  def load_wip(self):
-    self.safest_to_here = numpy.loadtxt(f"{self.filename}.paths")
-    self.seen = numpy.loadtxt(f"{self.filename}.seen")
+  def save(self):
+    file = open(json_filename(), "w")
+    file.write(json.JSONEncoder().encode())
+
+  def load(self):
+    file = open(json_filename(), "r")
+    json.JSONDecoder.decode(file.read())
 
   def find_safest_path(self, safest=sys.maxsize, r=0, c=0, risk='init'):
     if c >= self.cols or r >= self.rows or c < 0 or r < 0:
@@ -83,9 +80,7 @@ class Board:
 
       steps_left = (self.rows - r) + (self.cols - c)
       if r == self.rows-1 and c == self.cols-1:
-        # self.dump(True)
-        print(f'  ^^ SOLUTION ON EXIT: {new_risk}\n')
-        self.save_wip() # For restarts, and part B of the problem!
+        print(f'  SOLUTION ON EXIT: {new_risk}')
         return new_risk
 
       final_risk = self.find_safest_path(safest, r+1, c, new_risk)
@@ -109,12 +104,7 @@ class Board:
     finally:
       self.seen[r][c] = False
 
-  def dump(self, force=False):
-    global debug
-    debug_was = debug
-    if force:
-      debug = True
-
+  def dump(self):
     log('')
     log(f'Board: cols:{self.cols} rows:{self.rows}')
     log("map:")
@@ -123,11 +113,7 @@ class Board:
     # log("seen:")
     # for row in self.seen:
     #   log(row)
-    log("safest_to_here:")
-    for row in self.safest_to_here:
-      log(row)
     log('')
-    debug = debug_was
 
   def summary(self):
     return f"Board {self.filename}: lines:{len(self.lines)}"
@@ -136,12 +122,7 @@ def main():
   board = Board(filename)
   board.dump()
 
-  try:
-    answer = board.find_safest_path()
-  except KeyboardInterrupt:
-    board.save_wip()
-
-
+  answer = board.find_safest_path()
 
   # ceiling = board.rows + board.cols
   # answer = ceiling
@@ -155,6 +136,7 @@ def main():
 
   print('\a') # bell
 
+  board.save() # For Part B of the problem!
 
   target = int(filename.split('-')[-1])
   assert answer == target, f"NOPE! the answer should be {target}, not {answer}"
