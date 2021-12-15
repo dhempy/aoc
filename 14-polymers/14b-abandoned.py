@@ -20,10 +20,9 @@ class Rule:
     # log(f"Rule.init({name})")
     self.target = target
     self.insert = insert
-    new_chars = [target[0], insert, target[1]]
-    log(f"rule.new_chars: {new_chars}")
-    self.new_pairs = Counter([new_chars[0,1], new_chars[1,2])])
-    log(f"rule.new_pairs: {new_pairs}")
+    self.new_pairs = Counter(''.join())
+    # self.replace = "{target[0,-2]}{insert}" # Don't include target[1]...the next match will get it.
+    # self.dump()
 
   def dump(self):
     log(self.summary())
