@@ -1,108 +1,69 @@
 #! /usr/local/bin/python3
-# filename = "inputb-8"
-filename = "input-40"
-# filename = "input"
 
-debug = False
-# debug = True
+# This program multiples an existing board into a 5x5 version of that board, with modifications.
+# filename = "inputb-8"
+# filename = "input-hook"
+filename = "input-40"
+# filename = "input-full"
+# filename = "input-janine"
+
+# debug = False
+debug = True
 
 import math
-import numpy
+import numpy as np
+import json
 import sys
+import jsbeautifier
+import os
+import time
 
-def log(m):
-  if debug: print(m)
+time_start = time.time()
+last_start = time_start
 
+np.set_printoptions(linewidth=400)
+
+def time_log(m, force=False):
+  global time_start, last_start
+  now = time.time()
+  total_elapsed = int(now - time_start)
+  elapsed = int(now - last_start)
+  last_start = now
+  log (f"{m} (+{elapsed}s => {total_elapsed}s)", force)
+
+def log(m, force=False):
+  if debug or force: print(m)
 
 class Board:
   def __init__(self, filename):
     log(f"Board.init({filename})")
     self.filename = filename
-    try:
-      self.load()
-    except:
-      self.total_risk = 0
-      self.map = self.slurp()
-      self.rows = len(self.map)
-      self.cols = len(self.map[0])
-      self.seen = numpy.full((self.rows, self.cols), False, dtype=bool)
-      self.safest_to_here = numpy.full((self.rows, self.cols), sys.maxsize, dtype=int)
+    self.total_risk = 0
+    self.map = self.slurp()
+    print(f'self.map => {self.map} ')
+    print(self.map)
+    print(f'self.map[0] => {self.map[0]} ')
+    print(f'type(self.map[0]) => {type(self.map[0])} ')
+    print(f'self.map[0][0] => {self.map[0][0]} ')
+    print(f'10*self.map[0][0] => {10*self.map[0][0]} ')
+    # self.map[0][0] = '0'  # first hit is free.
+    self.rows = len(self.map)
+    self.cols = len(self.map[0])
+    self.safest = sys.maxsize # total risk of the safest complete path.
+    self.safest_to_here = np.full((self.rows, self.cols), sys.maxsize, dtype=int)
     self.dump()
+    exit()
 
   def slurp(self):
-    # self.lines = open(self.filename).read().split()
-    return numpy.loadtxt(self.filename, dtype = numpy.str)
+    # return np.loadtxt(self.filename, delimiter=1, dtype=int)
+    # return numpy.loadtxt(self.filename, delimiter=1, dtype=int)
+    # return np.loadtxt(self.filename, delimiter=1, dtype=int)
 
-  def json_filename():
-    return f"{self.filename}.json"
-
-  def save(self):
-    file = open(json_filename(), "w")
-    file.write(json.JSONEncoder().encode())
-
-  def load(self):
-    file = open(json_filename(), "r")
-    json.JSONDecoder.decode(file.read())
-
-  def find_safest_path(self, safest=sys.maxsize, r=0, c=0, risk='init'):
-    if c >= self.cols or r >= self.rows or c < 0 or r < 0:
-      # log(f'  {r},{c} out of bounds!')
-      return sys.maxsize
-    log(f'{r},{c} ({self.safest_to_here[r][c]})')
-
-    if self.seen[r][c]:
-      # log(f'  seen.')
-      return sys.maxsize
-
-    try:
-      this_cell = int(self.map[r][c])
-      self.seen[r][c] = True
-
-      if risk == 'init':  # Don't count the origin cell
-        new_risk = risk = 0
-      else:
-        new_risk = risk + this_cell
-      # log(f'path from {r},{c} ({this_cell}) with risk {risk}+{this_cell} => {new_risk} will compare with safest {safest}...')
-
-      if new_risk > self.safest_to_here[r][c]:
-        # This is probably not legit.
-        # Perhaps an expensive early path allows for a cheaper later path?
-        log(f'  {new_risk} exceeds safest subrisk.')
-        return sys.maxsize
-
-      self.safest_to_here[r][c] = new_risk
-      log(f' new safest subpath to {r},{c}: {new_risk}')
-
-      if new_risk >= safest:
-        # log(f'  safest risk exceeded!')
-        return sys.maxsize
-      log(f'path from {r},{c} with risk {risk} + {this_cell} => {new_risk} is LESS THAN {safest}')
-
-      steps_left = (self.rows - r) + (self.cols - c)
-      if r == self.rows-1 and c == self.cols-1:
-        print(f'  SOLUTION ON EXIT: {new_risk}')
-        return new_risk
-
-      final_risk = self.find_safest_path(safest, r+1, c, new_risk)
-      if final_risk < safest:
-        safest = final_risk
-
-      final_risk = self.find_safest_path(safest, r, c+1, new_risk)
-      if final_risk < safest:
-        safest = final_risk
-
-      final_risk = self.find_safest_path(safest, r-1, c, new_risk)
-      if final_risk < safest:
-        safest = final_risk
-
-      final_risk = self.find_safest_path(safest, r, c-1, new_risk)
-      if final_risk < safest:
-        safest = final_risk
-
-      return safest
-
-    finally:
-      self.seen[r][c] = False
+    a = np.loadtxt(self.filename, dtype=np.character)
+    print(a)
+    a = np.array(map(lambda x: map(int, x), a))
+    print(a)
+    return a
 
   def dump(self):
     log('')
@@ -110,36 +71,30 @@ class Board:
     log("map:")
     for row in self.map:
       log(row)
-    # log("seen:")
-    # for row in self.seen:
-    #   log(row)
+    log("safest_to_here:")
+    for row in self.safest_to_here:
+      log(row)
     log('')
 
   def summary(self):
     return f"Board {self.filename}: lines:{len(self.lines)}"
 
+  def expand(self, size)
+    print("TODO: expand map by {size}")
+
 def main():
   board = Board(filename)
   board.dump()
 
-  answer = board.find_safest_path()
+  answer = board.expand(5)
 
-  # ceiling = board.rows + board.cols
-  # answer = ceiling
-  # while ceiling == answer:
-  #   ceiling *= 2
-  #   log(f"Look for a path shorter than {ceiling}...")
-  #   answer = board.find_safest_path(ceiling)
-  #   log(f"The safest path shorter than {ceiling} was {answer}")
+  print(f"answer: {answer} \a")
 
-  log(f"answer: {answer} ")
-
-  print('\a') # bell
-
-  board.save() # For Part B of the problem!
-
-  target = int(filename.split('-')[-1])
-  assert answer == target, f"NOPE! the answer should be {target}, not {answer}"
+  try:
+    target = int(filename.split('-')[-1])
+    assert answer == target, f"NOPE! the answer should be {target}, not {answer}"
+  except Exception:
+    pass
 
 main()
 
