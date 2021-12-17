@@ -1,6 +1,5 @@
 #! /usr/local/bin/python3
 # filename = "inputb-8"
-# filename = "input-hook"
 # filename = "input-40"
 filename = "input-full"
 # filename = "input-janine"
@@ -21,16 +20,16 @@ last_start = time_start
 
 numpy.set_printoptions(linewidth=400)
 
-def time_log(m, force=False):
-  global time_start, last_start
+def time_log(m):
   now = time.time()
   total_elapsed = int(now - time_start)
   elapsed = int(now - last_start)
   last_start = now
-  log (f"{m} (+{elapsed}s => {total_elapsed}s)", force)
+  log (f"{m} (+{elapsed}s => {total_elapsed}s)")
 
-def log(m, force=False):
-  if debug or force: print(m)
+def log(m):
+  if debug: print(m)
+
 
 class Board:
   def __init__(self, filename):
@@ -38,18 +37,16 @@ class Board:
     self.filename = filename
     self.total_risk = 0
     self.map = self.slurp()
-    # self.map[0][0] = '0'  # first hit is free.
     self.rows = len(self.map)
     self.cols = len(self.map[0])
     self.seen = numpy.full((self.rows, self.cols), 0, dtype=int)
     self.safest = sys.maxsize
-    self.safest_to_here = numpy.full((self.rows, self.cols), sys.maxsize, dtype=int)
-    # try:
-    #   self.load_wip()
-    # except:
-    #   print("No wip files to load. Zero out paths for ({self.rows},{self.cols}):")
-    #   self.safest_to_here = numpy.full((self.rows, self.cols), sys.maxsize, dtype=int)
-    # self.dump(True)
+    try:
+      self.load_wip()
+    except:
+      print("No wip files to load. Zero out paths for ({self.rows},{self.cols}):")
+      self.safest_to_here = numpy.full((self.rows, self.cols), sys.maxsize, dtype=int)
+    self.dump(True)
 
   def slurp(self):
     return numpy.loadtxt(self.filename, dtype = str)
@@ -70,48 +67,33 @@ class Board:
 
 
   def load_wip(self):
-    print(f"Loading distance wip from {self.filename}.data_foreward/distances")
     self.safest_to_here = numpy.loadtxt(f"{self.filename}.data_foreward/distances")
 
-  def study(self):
-    changed = True
-    while changed:
-      time_log(f'study all risks. Final risk is currently {self.safest_to_here[-1][-1]}', True)
-      changed = False
-      for r, row in enumerate(self.map):
-        time_log(f' study row {r}.')
-        for c, cell in enumerate(row):
-          if r == 0 and c == 0:
-            cell = '0'
-            prev_risk = 0
-          else:
-            prev_risk = self.safest_neighbor(r,c)
-          new_risk = int(cell) + prev_risk
-          log(f'({r},{c}) is {cell} + {prev_risk} => {new_risk} ')
-          # log(f'Test changed will be: {new_risk < self.safest_to_here[r][c]} ')
-          if new_risk < self.safest_to_here[r][c]:
-            changed or log('SETTING changed to TRUE')
-            changed = True
-            self.safest_to_here[r][c] = new_risk
-      self.dump()
-      log(f'At end of while loop, changed is {changed}', True)
+  # def study(self):
+  #   changed = True
+  #   self.safest_to_here[0][0] = 0  # first hit's free.
 
-    final_risk = self.safest_to_here[-1][-1]
-    time_log(f'\nFINISHED studying all risks. Final risk is {final_risk}', True)
-    return final_risk
+  #   while changed:
+  #     time_log(f'study all risks. Final risk is currently {self.map[-1][-1]}')
+  #     changed = False
+  #     for row, r in enumerate self.map:
+  #       time_log(f' study row {r}.')
+  #       for cell, c in enumerate row:
+  #         new_risk = cell + self.safest_neighbor(r,c)
+  #         if new_risk < self.safest_to_here[r][c]:
+  #           changed = True
+  #           self.safest_to_here[r][c] = new_risk
+  #   time_log(f'\nFINISHED studying all risks. Final risk is {self.map[-1][-1]}')
 
-  def risk_at(self, r, c):
-    if r < 0 or c < 0 or r >= self.rows or c >= self.cols:
-      return sys.maxsize
-
-    risk = self.safest_to_here[r][c]
-    # if risk == sys.maxsize:
-      # risk = int(self.map[r][c])
-    return risk
 
   def safest_neighbor(self, r, c):
-    return min([ self.risk_at(r+1, c), self.risk_at(r, c+1), self.risk_at(r, c-1), self.risk_at(r-1, c)])
+    return min([ risk_at(r+1, c), risk_at(r, c+1), risk_at(r-1, c-1)])
 
+  def risk_at(serlf, r, c):
+    if r < self.rows and c < self.cols and r >= 0 and c >= 0:
+      return self.map[r][c]
+    else:
+      return sys.maxsize
 
 
     # try:
@@ -252,10 +234,10 @@ class Board:
 
 
   def dump(self, force=False):
-    # global debug
-    # debug_was = debug
-    # if force:
-    #   debug = True
+    global debug
+    debug_was = debug
+    if force:
+      debug = True
 
     log('')
     log(f'Board: cols:{self.cols} rows:{self.rows}')
@@ -269,7 +251,7 @@ class Board:
     for row in self.safest_to_here:
       log(row)
     log('')
-    # debug = debug_was
+    debug = debug_was
 
   def summary(self):
     return f"Board {self.filename}: lines:{len(self.lines)}"
@@ -278,20 +260,22 @@ def main():
   board = Board(filename)
   board.dump()
 
-  answer = board.study()
-  # answer = board.find_safest_path()
-  # try:
-  # except KeyboardInterrupt:
-  #   board.save_wip()
+  try:
+    # answer = board.study()
+    answer = board.find_safest_path()
+  except KeyboardInterrupt:
+    board.save_wip()
 
-  print(f"answer: {answer} ")
+
+
+
+  log(f"answer: {answer} ")
 
   print('\a') # bell
-  try:
-    target = int(filename.split('-')[-1])
-    assert answer == target, f"NOPE! the answer should be {target}, not {answer}"
-  except:
-    None
+
+
+  target = int(filename.split('-')[-1])
+  assert answer == target, f"NOPE! the answer should be {target}, not {answer}"
 
 main()
 
