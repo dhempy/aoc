@@ -1,0 +1,649 @@
+
+slurp file: input-full 
+[[7 7 2 ... 4 6 9]
+ [8 8 9 ... 1 9 9]
+ [8 2 1 ... 1 1 6]
+ ...
+ [7 3 9 ... 2 8 6]
+ [6 4 5 ... 9 6 1]
+ [3 9 2 ... 7 8 9]]
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+study all risks. Final risk is currently 9223372036854775807 (+0s => 0s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2944 (+0s => 1s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2939 (+0s => 2s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2936 (+0s => 2s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2936 (+0s => 4s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 5s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 6s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 7s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 8s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 9s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 10s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 11s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 12s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 13s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 13s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 14s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 15s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 16s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 17s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 18s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 19s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 20s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 21s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 22s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 23s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 24s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 25s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 25s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 26s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 27s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 28s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 29s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 30s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 31s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 32s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 33s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 34s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 35s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 36s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 36s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 37s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 38s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 39s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 40s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 41s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 42s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 43s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 44s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 45s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 46s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 48s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 49s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 50s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 51s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 52s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 53s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 54s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 55s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 56s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 57s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 58s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 59s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 60s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 61s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 61s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 62s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 63s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 64s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 65s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is True
+study all risks. Final risk is currently 2935 (+0s => 66s)
+[[7. 7. 2. ... 8. 1. 4.]
+ [8. 8. 9. ... 5. 4. 4.]
+ [8. 2. 1. ... 5. 5. 1.]
+ ...
+ [2. 7. 4. ... 1. 7. 5.]
+ [1. 8. 9. ... 8. 5. 9.]
+ [7. 4. 6. ... 6. 7. 8.]]
+At end of while loop, changed is False
+
+FINISHED studying all risks. Final risk is 2935 (+0s => 67s)
+answer: 2935 
