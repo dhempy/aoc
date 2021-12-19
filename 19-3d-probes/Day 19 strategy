@@ -1,0 +1,22 @@
+Day 19 strategy
+
+def study():
+  for scanner in scanners:
+    for beacon in scanner.beacons:
+      beacon.offset = (x+1) * (y+1) * (z+1)
+
+  for scanner in scanners:
+    for b1 in scanner.beacons:
+      for b2 in scanner.beacons:
+        scanner.vectors.append(vector(b1, b2))   # vectors is a set
+
+def vector(a, b):
+  return (((a.x - b.x) ** 2) + 1) * (((a.y - b.y) ** 2) + 1) * (((a.z - b.z) ** 2) + 1) 
+
+def overlay():
+  for s1 in scanners:
+    for s2 in scanners:
+      next if s1 == s2 else pass
+      common_vectors = s1.vectors.intersection(s2.vectors)
+      next if common_
+
