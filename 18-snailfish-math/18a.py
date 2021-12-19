@@ -1,10 +1,5 @@
 #! /usr/local/bin/python3
-# filename = "explode-2"
 filename = "in-1"
-filename = "in-2"
-filename = "in-3"
-filename = "in-4"  # broken
-filename = "in-6"  # broken
 filename = "in-7"
 filename = "in-8"
 filename = "in-12"
