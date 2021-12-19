@@ -1,7 +1,17 @@
 #! /usr/local/bin/python3
-filename = "in-full"
-filename = "explode-2"
-# filename = "in-13"
+# filename = "explode-2"
+filename = "in-1"
+filename = "in-2"
+filename = "in-3"
+filename = "in-4"  # broken
+filename = "in-6"  # broken
+filename = "in-7"
+filename = "in-8"
+filename = "in-12"
+filename = "in-13"
+filename = "in-14" # broken
+# filename = "in-15"  # no answers provided
+# filename = "in-full"  ## 4354 "is too low".
 
 # debug = False
 debug = True
@@ -39,6 +49,7 @@ class Board:
     self.slurp()
 
   def slurp(self):
+    print(f'Reading file: {filename}')
     self.addends = []
     for line in open(filename):
       self.addends.append(eval(line))
@@ -79,28 +90,35 @@ class Board:
     log('sum()...')
     sum = False
     for a in self.addends:
-      log(f' sum(): a = {a}')
+      # log(f' sum(): a = {a}')
       if sum:
-        log(' sum().adding...')
+        # log(' sum().adding...')
         sum = self.add(sum, a)
       else:
-        log(' sum().intializing...')
+        # log(' sum().intializing...')
         sum = self.reduce_number(a)
-    self.final_sum = sum
-    return self.to_s(sum)
+
+    self.final_sum = self.reduce_number(sum)
+    return self.to_s(self.final_sum)
 
 
   def add(self, a, b):
-    log(f'\n add({a}, {b}) ')
+    # log(f'\n add({a}, {b}) ')
 
     a = self.reduce_number(a)
     b = self.reduce_number(b)
+    result = self.reduce_number([a,b])
+    print()
+    print(f'  {self.to_s(a)}')
+    print(f'+ {self.to_s(b)}')
+    print(f'= {self.to_s(result)}')
+
     return [a,b]
 
   def reduce_number(self, number):
     current_number = number
     while True:
-      log(f' current: {current_number}')
+      log(f'          {current_number}')
       reduced = self.reduce_item_exploder(current_number) or \
                 self.reduce_item_splitter(current_number)
       if not reduced:
@@ -132,30 +150,6 @@ class Board:
     return self.reduce_item_exploder(item[0], depth+1, src) or \
            self.reduce_item_exploder(item[1], depth+1, src)
 
-  def reduce_item_splitter(self, item, src=False):
-    #  - If any regular number is 10 or greater, the leftmost such regular number splits.
-    #
-    # If nothing reduced, it returns false.
-    # Else it returns a replacement for the *entire* number (not just this item) (as a deep array of items)
-
-    log(f'  reduce_item_splitter({item})...')
-
-    src = src or item
-
-    if type(item) == int:
-      if item >= 10:
-        return self.split(item, depth)
-      else:
-        return False
-
-  def split(self, item):
-    # To split a regular number, replace it with a pair;
-    # the left element of the pair should be the regular number divided by two and rounded down,
-    # while the right element of the pair should be the regular number divided by two and rounded up.
-    # For example, 10 becomes [5,5], 11 becomes [5,6], 12 becomes [6,6], and so on.
-    log(f'   TOO HIGH! {item}...SPLIT!')
-    return f'split-{item}'
-
   def explode(self, item, depth, src):
     # To explode a pair, the pair's left value is added to the first regular
     # number to the left of the exploding pair (if any), and the pair's
@@ -166,15 +160,15 @@ class Board:
     # item is an array (typ. exactly one pair of ints.)
     # returns an array, which is the new entire number from src, after item is exploded.
 
-    # log(f'   TOO DEEP...EXPLODE! {item}, depth=>{depth}, src=>{src}')
+    log(f'   TOO DEEP...EXPLODE! {item}, depth=>{depth}, src=>{src}')
     item[0] = -item[0]  # negative to ensure a unique match. All legit input is positive.
     item[1] = -item[1]
+    log(f'src: [{self.to_s(src)}]  split on:[{item[0]},{item[1]}] ')
     pre, post = self.to_s(src).split(f'[{item[0]},{item[1]}]')
     item[0] = -item[0]
     item[1] = -item[1]
 
     log(f' EXPLODE: {pre} <-- [{item[0]},{item[1]}] --> {post} ')
-
 
     matches = re.match(r'(.*)(\d+)(\D*)', pre)
     if matches:
@@ -189,6 +183,49 @@ class Board:
     log(f' EXPLODE: {pre} <--   0   --> {post} ')
     reduced_number = f'{pre}0{post}'
     return eval(reduced_number)
+
+  def reduce_item_splitter(self, item, src=False):
+    #  - If any regular number is 10 or greater, the leftmost such regular number splits.
+    #
+    # If nothing reduced, it returns false.
+    # Else it returns a replacement for the *entire* number (not just this item) (as a deep array of items)
+
+    # log(f'  reduce_item_splitter({item})...')
+
+    src = src or item
+
+    if type(item) == int:
+      if item >= 10:
+        return self.split(item, src)
+      else:
+        # log(f'   Leave item ({item}) less than (ten) alone. ')
+        return False
+
+    return self.reduce_item_splitter(item[0], src) or \
+           self.reduce_item_splitter(item[1], src)
+
+
+  def split(self, item, src):
+    # To split a regular number, replace it with a pair;
+    # the left element of the pair should be the regular number divided by two and rounded down,
+    # while the right element of the pair should be the regular number divided by two and rounded up.
+    # For example, 10 becomes [5,5], 11 becomes [5,6], 12 becomes [6,6], and so on.
+    log(f'   TOO HIGH! {item}...SPLIT!')
+    new_a = int(item/2)
+    new_b = item - new_a
+    new_pair = [new_a, new_b]
+    log(f'   new pair: {new_pair}')
+
+    log(f'src: [{self.to_s(src)}]  split on:[{item}] ')
+    pre, post = self.to_s(src).split(f'{item}', 1)
+      # splitting on item is *only* safe because there are no two-digit numbers elsewhere.
+      # If that assumption is wrong, this fragile approach will break.
+
+    log(f'   SPLIT: {pre} <--   {item}   --> {post} ')
+    log(f'   SPLIT: {pre} <-- {new_pair} --> {post} ')
+    reduced_number = f'{pre}{new_pair}{post}'
+    return eval(reduced_number)
+
 
 
   def to_s(self, s):
