@@ -27,41 +27,47 @@ grid = raw_lines.map { |line| line.split('') }
 puts "grid:"
 pp grid
 
-grid_down = grid.transpose
-puts "grid_down:"
-pp grid_down
+count = 0
 
-padding = [*0..(grid.length - 1)].map { |i| [nil] * i }
 
-padded_down = padding.reverse.zip(grid).zip(padding).map(&:flatten)
-grid_diag_down = padded_down.transpose.map(&:compact)
-puts "grid_diag_down:"
-pp grid_diag_down
+def xmas?(grid, r, c)
+  # puts "xmas?(#{r}, #{c})..."
+  window = [
+    grid[r][c..c+2],
+    grid[r+1][c..c+2],
+    grid[r+2][c..c+2]
+  ]
+  pp window
 
-padded_up = padding.zip(grid).zip(padding.reverse).map(&:flatten)
-grid_diag_up = padded_up.transpose.map(&:compact)
-puts "grid_diag_up:"
-pp grid_diag_up
+  # corners = [
+  #     window[0][0],
+  #     window[0][2],
+  #     window[2][0],
+  #     window[2][2]
+  # ].join
+  # puts "corners: #{corners}"
 
-omni = grid + grid_down + grid_diag_down + grid_diag_up
-puts "omni:"
-# pp omni
+  return false unless window[1][1] == 'A'
+  return false unless (window[0][2] == 'M' && window[2][0] == 'S') || (window[0][2] == 'S' && window[2][0] == 'M')
+  return false unless (window[0][0] == 'M' && window[2][2] == 'S') || (window[0][0] == 'S' && window[2][2] == 'M')
+  return true
 
-omni_str = omni.map(&:join)
-puts "omni_str:"
-# pp omni_str
+end
 
-str = omni_str.join(' ')
-# puts "str: #{str}"
+(0..grid.length-3).each do |r|
+  (0..grid[r].length-3).each do |c|
+    if (xmas?(grid, r, c))
+      count += 1
+      puts "#{count}: #{grid[r][c]}  ============= X-MAS!!! ============= "
+    else
+      puts "#{count}: #{grid[r][c]}"
+    end
+  end
+end
 
-str_and_back = str + ' '+ str.reverse
-# puts "str_and_back: #{str_and_back}"
 
-hits = str_and_back.scan(/XMAS/)
-# puts "hits: #{hits}"
 
-sum = hits.count
 puts
-puts "SUM: #{sum}"
+puts "SUM: #{count}"
 
 # 2530 correct
