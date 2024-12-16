@@ -3,12 +3,31 @@
 sum = 0
 
 
+DIRS = [
+  [-1, 0],
+  [0, 1],
+  [1, 0],
+  [0, -1]
+]
+
 def parse_grid(input)
   puts "======================================"
 
   grid = input.readlines.map(&:chomp).map { |line| line.split('') }
+
   puts "grid:"
   pp grid
+end
+
+def zero_grid(grid)
+  grid.each do |row|
+    row.each_with_index do |c, cell|
+      puts "cell: #{c}"
+      row[c] = 0 unless c == '#'
+    end
+  end
+  pp grid
+
 end
 
 def find_start(grid)
@@ -18,43 +37,55 @@ def find_start(grid)
   end
 end
 
+def out_of_bounds(r, c, max)
+  (
+    r.negative? || r >= max ||
+    c.negative? || c >= max
+  ).tap { |oob| puts 'OUT OF BOUNDS' if oob }
+end
+
+def turn(dir)
+  puts " TURN!!!"
+  (dir + 1) % 4
+end
+
+def blocked(grid, r, c)
+  (
+    grid[r][c] == '#'
+  ).tap { |blocked| puts 'BLOCKED' if blocked }
+
+end
+
+def patrol(grid, max, r, c, dir, seen)
+  puts "   patrol(grid, max, #{r}, #{c}, #{dir}(#{DIRS[dir]}), #{seen})..."
+
+  return seen if out_of_bounds(r, c, max)
+  return nil if blocked(grid, r, c)
+
+
+  success = patrol(grid, max, r+DIRS[dir].first, c+DIRS[dir].last, dir, 1+seen)
+
+  return success if success
+
+  dir = turn(dir)
+  success = patrol(grid, max, r+DIRS[dir].first, c+DIRS[dir].last, dir, 1+seen)
+
+  return success if success
+
+  return 10000
+end
+
 
 grid = parse_grid(STDIN)
 r,c = find_start(grid)
-puts "Guard starting at #{r},#{c}"
+zero_grid(grid)
+max = grid.size # assume square
 
+dir = 0
+puts "Guard starting at #{r},#{c} moving #{DIRS[dir]} and out_of_bounds: #{out_of_bounds(r, c, max)}"
 
+sum = patrol(grid, max, r, c, dir, 0)
 
-def parse_line(line)
-  puts "parse_line(#{line})..."
-  return if line.nil?
-  # hits = line.scan(/mul\(\d{1,3},\d{1,3}\)/)
-
-  # # puts "HITS: #{hits}"
-
-  # hits.map do |f|
-  #   puts "f: #{f}"
-  #   (a, b) = f.scan(/\d{1,3}/)
-  #   puts "pair: #{a} -- #{b}"
-  #   [a.to_i, b.to_i]
-  # end
-
-  # .map(&:to_i)
-end
-
-STDIN.each_line do |raw_line|
-  puts
-  puts raw_line
-  cells = parse_line(raw_line)
-
-  # if safe_line?(cells)
-  #   safe_count += 1
-  #   puts "++++++++++++++++++++++ SAFE LINE"
-  # else
-  #   puts "Log line: #{@log}"
-  #   puts "--------------------------------------------------- unsafe line"
-  # end
-end
 
 puts
 puts "SUM: #{sum}"
