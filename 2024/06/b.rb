@@ -26,15 +26,14 @@ CLS = "\e[H\e[2J"
 CLS = "\033[0;0H"
 
 # CLS = "________________________________________________________________\n"
-CLS = '\n'
+CLS = "\n"
 
 # def deep_dup(obj)
 #   obj.map { |it| it.deep_dup }
 # end
 
 def dump_grid(grid, r = nil, c = nil)
-  # my_grid = deep_dup(grid)
-  # my_grid[r][c] = '+' if r
+  return if Random.rand < 0.001
 
   puts CLS + grid.map { |row|
     row.map { |cell|
@@ -81,6 +80,7 @@ end
 
 def opposite(dir)
   DIRS[(dir + 2) % 4]
+    .tap { |val| puts "opposite(#{dir}) => #{val}"}
 end
 
 def blocked?(grid, r, c)
@@ -99,6 +99,7 @@ def looped?(grid, r, c, dir)
 end
 
 def debug(depth, r, c, msg)
+  return if Random.rand < 0.001
   puts "        [#{r},#{c}]#{' ' * (depth % 20)} step #{depth} #{msg}"
 end
 
@@ -129,21 +130,31 @@ def patrol(grid, max, r, c, dir, steps=0, hacks=0)
   grid[r][c].push(dir)
 
   # And seek OOB
+  puts "success = patrol(grid, max, r+DIRS[#{dir}].first, c+DIRS[#{dir}].last, #{dir}, 1+steps, hacks)"
   success = patrol(grid, max, r+DIRS[dir].first, c+DIRS[dir].last, dir, 1+steps, hacks)
+  # That patrol could probably be coerced down into the turn loop.... shrug.
 
 
   if !success
     debug(steps, r, c, "backed down blocked by a barrier")
-    debug(steps, r, c, "turning...")
-    new_dir = turn(dir)
+    new_dir = dir
+    tries = 3
 
-    success = patrol(grid, max, r+DIRS[new_dir].first, c+DIRS[new_dir].last, new_dir, 1+steps, hacks)
-    debug(steps, r, c, "turned")
+    while (tries.positive? && !success) do
+      tries -= 1
+      debug(steps, r, c, "turning...")
+      new_dir = turn(new_dir)
+      success = patrol(grid, max, r+DIRS[new_dir].first, c+DIRS[new_dir].last, new_dir, 1+steps, hacks)
+      debug(steps, r, c, "turned")
+    end
+
+
+    debug(steps, r, c, "After #{tries} tries, success is #{success}.")
   end
-
 
   # Now take that step back:
   grid[r][c].pop()
+
   if success
     debug(steps, r, c, "succeeded")
     dump_grid(grid, r, c) if steps >= 6000
@@ -168,7 +179,7 @@ def patrol(grid, max, r, c, dir, steps=0, hacks=0)
     debug(steps, r, c, "In dir #{dir}, the cell before #{r},#{c} was #{prev_r},#{prev_c} => #{grid[prev_r][prev_c]} ")
     dump_grid(grid, r, c) if steps >= 6000
 
-    success = patrol(grid, max, prev_r+DIRS[new_dir].first, prev_c+DIRS[new_dir].last, new_dir, 1+steps, hacks + 1)
+    success = patrol(grid, max, prev_r, prev_c, turn(dir), 1+steps, hacks + 1)
 
 
     # debug(steps, r, c, "patrol from one step back and turned in the next direction, and stepped forward one. (all to avoid stepping on the prev cell) ")
@@ -179,10 +190,13 @@ def patrol(grid, max, r, c, dir, steps=0, hacks=0)
     grid[r][c] = []  # It was already empty before the new barrier.
 
     return true
+  else
+    debug(steps, r, c, "patrol failed. Why? probably backed into a corner or created a 1x1 box around the guard ")
+
   end
 
-  debug(steps, r, c, "backing down from a failed path...probably backed into a corner")
-  raise "backing down from a failed path...probably backed into a corner"
+  # debug(steps, r, c, "backing down from a failed path...probably backed into a corner")
+  # raise "backing down from a failed path...probably backed into a corner"
 end
 
 def count_grid(grid)
@@ -210,4 +224,6 @@ puts "@loop_count: #{@loop_count}"
 
 # Too low:
 # Too High:
-# Correct:
+# Correct: # @loop_count: 1424
+
+
