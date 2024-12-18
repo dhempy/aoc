@@ -22,6 +22,7 @@ def parse_grid(input)
 end
 
 CLS = "\e[H\e[2J"
+CLS = "\n"
 
 def dump_grid(grid)
   puts CLS + grid.map(&:join).join("\n").gsub('0', ' ') + "\n\n"
@@ -63,26 +64,31 @@ def blocked(grid, r, c)
 
 end
 
-def patrol(grid, max, r, c, dir, seen)
+def patrol(grid, max, r, c, dir, steps)
   # sleep(0.01)
-  # puts "   patrol(grid, max, #{r}, #{c}, #{dir}(#{DIRS[dir]}), #{seen})..."
+  # puts "   patrol(grid, max, #{r}, #{c}, #{dir}(#{DIRS[dir]}), #{steps})..."
 
   dump_grid(grid)
 
-  return seen if out_of_bounds(r, c, max)
+  return true if out_of_bounds(r, c, max)
   return nil if blocked(grid, r, c)
 
   grid[r][c] += 1
-  success = patrol(grid, max, r+DIRS[dir].first, c+DIRS[dir].last, dir, 1+seen)
+  success = patrol(grid, max, r+DIRS[dir].first, c+DIRS[dir].last, dir, 1+steps)
 
+  puts "                              step #{steps} backing down...  #{success ? 'succeeded' : 'from a barrier.'}"
   return success if success
 
   dir = turn(dir)
-  success = patrol(grid, max, r+DIRS[dir].first, c+DIRS[dir].last, dir, 1+seen)
+  success = patrol(grid, max, r+DIRS[dir].first, c+DIRS[dir].last, dir, 1+steps)
+
+  puts "                              step #{steps} backing down...  after turning"
 
   return success if success
 
-  return 10000
+  puts "                              step #{steps} backing down from a failed path <<<<<<<<<<<<<<< "
+  raise "backing down from a failed path...probably backed into a corner"
+
 end
 
 def count_grid(grid)
